@@ -1,0 +1,110 @@
+Swedish and Danish
+
+                            apertium-swe-dan
+===============================================================================
+
+This is an Apertium language pair for translating between Swedish and 
+Danish. What you can use this language package for:
+
+* Translating between Swedish and Danish
+* Morphological analysis of Swedish and Danish
+* Part-of-speech tagging of Swedish and Danish
+
+For information on the latter two points, see subheading "For more 
+information" below
+
+Requirements
+===============================================================================
+
+You will need the following software installed:
+
+* lttoolbox (>= 3.3.0)
+* apertium (>= 3.3.0)
+* vislcg3 (>= 0.9.9.10297)
+
+If this does not make any sense, we recommend you look at: www.apertium.org
+
+Compiling
+===============================================================================
+
+Given the requirements being installed, you should be able to just run:
+
+$ ./configure 
+$ make
+# make install
+
+You can use ./autogen.sh instead of ./configure you're compiling from
+SVN. If you installed any prerequisite language packages using a --prefix
+to ./configure, make sure to give the same --prefix to ./configure here.
+
+Testing
+===============================================================================
+
+If you are in the source directory after running make, the following
+commands should work:
+
+$  echo "Dörren skall öppnas" | apertium -d . sv-da
+Døren skal åbnes
+
+$ echo "Døren skal åbnes" | apertium -d . da-sv
+Dörren skall öppnas
+
+After installing somewhere in $PATH, you should be able to do e.g.
+
+$  echo "Dörren skall öppnas" | apertium sv-da
+Døren skal åbnes
+
+
+
+
+If you change anything you should check your changes agains the test corpas.
+This command downloads the test corpas:
+
+$ curl "http://apertium.svn.sourceforge.net/viewvc/apertium/trunk/apertium-sv-da/corpa.tar.gz?view=tar&pathrev=21802" | tar -xzvf-
+
+Thereafter, run
+$ ./testcorpus_sv-da.sh 
+and
+$ ./testcorpus_da-sv.sh 
+
+
+
+The following command runs tests which are on the Apertium wiki page:
+
+$ ./regression-tests.sh 
+
+These test are not mainained anymore.
+
+
+
+
+Files and data
+===============================================================================
+
+* apertium-swe-dan.swe-dan.dix  - Bilingual dictionary
+* apertium-swe-dan.swe-dan.t1x  - Chunking rules for translating into Swedish
+* apertium-swe-dan.dan-swe.t1x  - Chunking rules for translating into Danish
+* apertium-swe-dan.swe-dan.t2x  - Chunking rules for translating into Swedish
+* apertium-swe-dan.dan-swe.t2x  - Chunking rules for translating into Danish
+* apertium-swe-dan.swe-dan.t3x  - Chunking rules for translating into Swedish
+* apertium-swe-dan.dan-swe.t3x  - Chunking rules for translating into Danish
+* apertium-swe-dan.swe-dan.rlx  - Lexical selection rules for translating into Swedish
+* apertium-swe-dan.dan-swe.rlx  - Lexical selection rules for translating into Danish
+* modes.xml                     - Translation modes
+
+For more information
+===============================================================================
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/apertium-swe-dan
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+
+Help and support
+===============================================================================
+
+If you need help using this language pair or data, you can contact:
+
+* Mailing list: apertium-stuff@lists.sourceforge.net
+* IRC: #apertium on irc.freenode.net
+
+See also the file AUTHORS included in this distribution.
