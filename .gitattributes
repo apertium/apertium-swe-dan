@@ -11,7 +11,6 @@
 /apertium-swe-dan.dan-swe.t1x -text
 /apertium-swe-dan.dan-swe.t2x -text svneol=unset#application/xml
 /apertium-swe-dan.dan-swe.t3x -text svneol=unset#application/xml
-/apertium-swe-dan.dan.dix -text
 /apertium-swe-dan.dan.tsx -text
 /apertium-swe-dan.dan_old.tsx -text
 /apertium-swe-dan.swe-dan.dix -text
@@ -69,6 +68,7 @@ dev/testvoc.sh -text
 dev/testvoc/bidix-unknowns.sh -text
 dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
+dev/tomerge-apertium-swe-dan.dan.dix -text
 doc/apertium-dansk-dkuug-artikel-af-Jacob_Nordfalk.odt -text
 doc/freerbmt09_svda/Makefile -text
 doc/freerbmt09_svda/NOTES -text
