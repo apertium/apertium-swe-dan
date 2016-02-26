@@ -24,6 +24,7 @@
 /da-sv-unsupervised.make -text
 dev/DA-SV.WORDS.txt -text
 dev/PTAdditionsTo.sv.dix -text
+dev/analyse-all-stages.sh -text
 dev/apertium-is-sv.sv.dix.marked -text
 dev/apertium-sv-da.da.dix-OLD -text
 dev/apertium-sv-da.da.dix-mergeleftover -text
