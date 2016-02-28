@@ -92,6 +92,14 @@ doc/release_statement_0.5.txt -text
 /regression-tests.sh -text
 /sv-da-supervised.make -text
 /sv-da-unsupervised.make -text
+t/README.org -text
+t/config.sh -text
+t/latest-pending.results -text
+t/latest-regression.results -text
+t/pending-tests -text
+t/regression-tests -text
+t/update-latest -text
+t/wiki-tests -text
 /taggerLabels.sv -text
 /testcorpus_da-sv.sh -text
 /testcorpus_sv-da.sh -text
