@@ -45,9 +45,6 @@ dev/evaluate-noun-list.py -text
 dev/fast-cov.pl -text
 dev/hitparade.da.txt -text
 dev/hitparade.sv.txt -text
-dev/inconsistencies -text
-dev/inconsistency-summary.sh -text
-dev/inconsistency.sh -text
 dev/list-adjectives-paradigms.sh -text
 dev/lt-expand-grep.sh -text
 dev/noun-paradigms.extract -text
@@ -63,9 +60,6 @@ dev/saldo/saldo.nouns.dix -text
 dev/status.txt -text
 dev/sv-da-no.words.txt -text
 dev/swe-dan.prob.old -text
-dev/testvoc-summary.da-sv.txt -text
-dev/testvoc-summary.sv-da.txt -text
-dev/testvoc.sh -text
 dev/testvoc/bidix-unknowns.sh -text
 dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
