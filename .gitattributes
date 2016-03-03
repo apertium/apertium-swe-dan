@@ -79,7 +79,6 @@ doc/freerbmt09_svda/eval/sentences.txt -text
 doc/freerbmt09_svda/freerbmt09.sty -text
 doc/freerbmt09_svda/freerbmt09svda.bib -text
 doc/freerbmt09_svda/freerbmt09svda.tex -text
-doc/release_statement_0.5.txt -text
 /missing_in_tsx-file.txt -text
 /modes.xml -text
 /pending-tests.sh -text
