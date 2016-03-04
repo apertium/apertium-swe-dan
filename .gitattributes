@@ -83,7 +83,6 @@ doc/freerbmt09_svda/freerbmt09svda.tex -text
 /missing_in_tsx-file.txt -text
 /modes.xml -text
 /pending-tests.sh -text
-/regression-tests.sh -text
 /sv-da-supervised.make -text
 /sv-da-unsupervised.make -text
 t/README.org -text
