@@ -20,8 +20,8 @@
 /apertium-swe-dan.swe-dan.t3x -text svneol=unset#application/xml
 /autogen.sh -text
 /configure.ac -text
-/da-sv-supervised.make -text
-/da-sv-unsupervised.make -text
+/dan-swe-supervised.make -text
+/dan-swe-unsupervised.make -text
 dev/DA-SV.WORDS.txt -text
 dev/PTAdditionsTo.sv.dix -text
 dev/analyse-all-stages.sh -text
@@ -47,6 +47,7 @@ dev/hitparade.da.txt -text
 dev/hitparade.sv.txt -text
 dev/list-adjectives-paradigms.sh -text
 dev/lt-expand-grep.sh -text
+dev/missing_in_tsx-file.txt -text
 dev/new-to-check.dix -text
 dev/noun-paradigms.extract -text
 dev/parseparadigms.py -text
@@ -61,6 +62,7 @@ dev/saldo/saldo.nouns.dix -text
 dev/status.txt -text
 dev/sv-da-no.words.txt -text
 dev/swe-dan.prob.old -text
+dev/taggerLabels.sv -text
 dev/testvoc/bidix-unknowns.sh -text
 dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
@@ -80,11 +82,9 @@ doc/freerbmt09_svda/eval/sentences.txt -text
 doc/freerbmt09_svda/freerbmt09.sty -text
 doc/freerbmt09_svda/freerbmt09svda.bib -text
 doc/freerbmt09_svda/freerbmt09svda.tex -text
-/missing_in_tsx-file.txt -text
 /modes.xml -text
-/pending-tests.sh -text
-/sv-da-supervised.make -text
-/sv-da-unsupervised.make -text
+/swe-dan-supervised.make -text
+/swe-dan-unsupervised.make -text
 t/README.org -text
 t/config.sh -text
 t/latest-pending.results -text
@@ -93,6 +93,9 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
-/taggerLabels.sv -text
 /testcorpus_da-sv.sh -text
 /testcorpus_sv-da.sh -text
+texts/story.swe.txt -text
+texts/trädbank.swe.txt -text
+texts/udhr.dan.txt -text
+texts/udhr.swe.txt -text
