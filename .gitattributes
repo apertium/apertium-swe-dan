@@ -51,6 +51,7 @@ dev/missing_in_tsx-file.txt -text
 dev/new-to-check.dix -text
 dev/noun-paradigms.extract -text
 dev/parseparadigms.py -text
+dev/precommit-testvoc.sh -text
 dev/print-lemmas-not-in-comb.pl -text
 dev/proc-wordlist-into-bidix.py -text
 dev/remove-duplicate-lines.py -text
