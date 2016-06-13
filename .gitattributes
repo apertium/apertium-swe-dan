@@ -38,6 +38,7 @@ dev/cross/Makefile -text
 dev/cross/cross-model.xml -text
 dev/cross/exp-to-dix.awk -text
 dev/cross/preproc.sh -text
+dev/cross/shorten-pardefs -text
 dev/dan-swe.prob.old -text
 dev/dictionary-coverager.py -text
 dev/dictionary-trimmer.py -text
