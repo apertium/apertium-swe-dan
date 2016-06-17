@@ -72,6 +72,7 @@ dev/taggerLabels.sv -text
 dev/testvoc/bidix-unknowns.sh -text
 dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
+dev/testvoc/test-ngrams.sh -text
 dev/todo-bi-entries-missing-from-swe.dix -text
 dev/tomerge-apertium-swe-dan.dan.dix -text
 doc/apertium-dansk-dkuug-artikel-af-Jacob_Nordfalk.odt -text
