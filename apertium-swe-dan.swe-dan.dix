@@ -756,9 +756,9 @@ Pardef naming scheme:
 <e>       <p><l>ty<s n="cnjsub"/></l>                  <r>fordi<s n="cnjsub"/></r></p></e>
 <e>       <p><l>ifall<s n="cnjsub"/></l>                  <r>hvis<s n="cnjsub"/></r></p></e>
 <e>       <p><l>såvida<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
-<e>       <p><l>varvid<s n="cnjsub"/></l>                  <r>hvorved<s n="cnjsub"/></r></p></e>
-<e>       <p><l>fast<s n="cnjsub"/></l>                  <r>skønt<s n="cnjsub"/></r></p></e>
-<e>       <p><l>fastän<s n="cnjsub"/></l>                  <r>selv<b/>om<s n="cnjsub"/></r></p></e>
+<e>       <p><l>varvid<s n="cnjsub"/></l>                  <r>hvorved<s n="cnjadv"/></r></p></e>
+<e>       <p><l>fast<s n="cnjsub"/></l>                  <r>skønt<s n="cnjadv"/></r></p></e>
+<e>       <p><l>fastän<s n="cnjsub"/></l>                  <r>selv<b/>om<s n="cnjadv"/></r></p></e>
 <e>       <p><l>såvitt<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
 
 <e>       <p><l>då<s n="cnjsub"/></l>	<r>da<s n="cnjsub"/></r></p></e>
