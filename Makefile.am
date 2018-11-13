@@ -205,4 +205,5 @@ test: all
 	@echo "röd gröt med grädde" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
+	t/hash-count
 
