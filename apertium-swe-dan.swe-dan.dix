@@ -656,7 +656,7 @@ Pardef naming scheme:
 
 <e>       <p><l>intet<s n="prn"/><s n="ind"/></l>     <r>intet<s n="prn"/><s n="ind"/></r></p></e>
 <e>       <p><l>ingenting<s n="prn"/><s n="ind"/></l> <r>ingenting<s n="prn"/><s n="ind"/></r></p></e>
-<e r="LR"><p><l>någonting<s n="prn"/><s n="ind"/></l> <r>nogen<s n="prn"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>någonting<s n="prn"/><s n="ind"/><s n="un"/></l> <r>nogen<s n="prn"/><s n="ind"/><s n="nt"/></r></p></e>
 <e>       <p><l>somlig<s n="prn"/><s n="ind"/></l>    <r>nogen<s n="prn"/><s n="ind"/></r></p></e>
 <e>       <p><l>någon<s n="prn"/><s n="ind"/></l>     <r>nogen<s n="prn"/><s n="ind"/></r></p></e>
 

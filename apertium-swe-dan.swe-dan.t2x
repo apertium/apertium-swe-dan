@@ -137,6 +137,10 @@
       <attr-item tags="un"/>
       <attr-item tags="GD"/>
     </def-attr>
+    <def-attr n="gen_agree" c="only swap det between nt and ut if n is nt/ut">
+      <attr-item tags="nt"/>
+      <attr-item tags="ut"/>
+    </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -197,11 +201,11 @@
       <choose>
         <when>
           <test><and>
-            <not><equal><clip pos="1" part="gen"/><lit v=""/></equal></not>
+            <not><equal><clip pos="1" part="gen_agree"/><lit v=""/></equal></not>
             <not><equal><clip pos="1" part="nbr"/><lit-tag v="pl"/></equal></not>
             <not><equal><clip pos="2" part="nbr"/><lit-tag v="pl"/></equal></not>
           </and></test>
-          <let><clip pos="2" part="gen"/><clip pos="1" part="gen"/></let>
+          <let><clip pos="2" part="gen_agree"/><clip pos="1" part="gen_agree"/></let>
         </when>
       </choose>
     </def-macro>
