@@ -64,6 +64,7 @@ Pardef naming scheme:
     <sdef n="cog" 	c="Cognomen"/>
     <sdef n="al" 	c="Other"/>
     <sdef n="org" 	c="Organisation"/>
+    <sdef n="cgguess" 	c="CG Guesser"/>
     <sdef n="pst" 	c="Positive"/>
     <sdef n="sup" 	c="Superlative"/>
     <sdef n="comp" 	c="Comparative"/>
