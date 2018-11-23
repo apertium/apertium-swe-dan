@@ -13848,6 +13848,8 @@ Pardef naming scheme:
 <e>       <p><l>Wiktionary<s n="np"/><s n="org"/><s n="nt"/></l>   <r>Wiktionary<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Wikimedia<s n="np"/><s n="org"/><s n="nt"/></l>    <r>Wikimedia<s n="np"/><s n="org"/></r></p></e>
 
+<e lm="np cgguess regex"><re>[A-ZÆØÅ][a-zæøå]*</re><i><s n="np"/><s n="cgguess"/></i></e>
+
     <!-- Interjections -->
 
 <e a="PT"><p><l>Gud<s n="ij"/></l>                      <r>Gud<s n="ij"/></r></p></e>
