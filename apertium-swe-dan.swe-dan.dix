@@ -13342,7 +13342,6 @@ Pardef naming scheme:
 <e>       <p><l>Andorra<s n="np"/></l>              <r>Andorra<s n="np"/></r></p></e>
 <e>       <p><l>Angola<s n="np"/></l>               <r>Angola<s n="np"/></r></p></e>
 <e>       <p><l>Argentina<s n="np"/></l>            <r>Argentina<s n="np"/></r></p></e>
-<e>       <p><l>Azerbajdzjan<s n="np"/></l>         <r>Aserbajdsjan<s n="np"/></r></p></e>
 <e>       <p><l>Bahamas<s n="np"/></l>              <r>Bahamas<s n="np"/></r></p></e>
 <e>       <p><l>Bahrain<s n="np"/></l>              <r>Bahrain<s n="np"/></r></p></e>
 <e>       <p><l>Bangladesh<s n="np"/></l>           <r>Bangladesh<s n="np"/></r></p></e>
@@ -13412,7 +13411,6 @@ Pardef naming scheme:
 <e>       <p><l>Mauretanien<s n="np"/><s n="top"/><s n="nt"/></l>          <r>Mauretanien<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Mauritius<s n="np"/></l>            <r>Mauritius<s n="np"/></r></p></e>
 <e>       <p><l>Moçambique<s n="np"/><s n="top"/><s n="nt"/></l>           <r>Mozambique<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Moldavien<s n="np"/></l>            <r>Moldova<s n="np"/></r></p></e>
 <e>       <p><l>Monaco<s n="np"/></l>               <r>Monaco<s n="np"/></r></p></e>
 <e>       <p><l>Mongoliet<s n="np"/><s n="top"/><s n="nt"/></l>                       <r>Mongoliet<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Montenegro<s n="np"/></l>           <r>Montenegro<s n="np"/></r></p></e>
@@ -13514,7 +13512,7 @@ Pardef naming scheme:
 <e>       <p><l>Ashanti<s n="np"/><s n="top"/><s n="nt"/></l>               <r>Ashantiriget<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Astrachankhanatet<s n="np"/><s n="top"/><s n="nt"/></l>     <r>Astrachan-khanatet<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ayyubiderna<s n="np"/><s n="top"/><s n="nt"/></l>           <r>Ayyubide-dynastiet<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Azerbajdzjan<s n="np"/></l>          <r>Aserbajdsjan<s n="np"/></r></p></e>
+<e>       <p><l>Azerbajdzjan<s n="np"/></l>         <r>Aserbajdsjan<s n="np"/></r></p></e>
 <e>       <p><l>Azerbajdzjanska<b/>SSR<s n="np"/><s n="top"/><s n="nt"/></l> <r>Aserbajdsjanske<b/>SSR<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Baltiska<b/>hertigdömet<s n="np"/><s n="top"/><s n="nt"/></l> <r>Forenede<b/>Baltiske<b/>Fyrstedømme<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Barbareskkusten<s n="np"/><s n="top"/><s n="nt"/></l>       <r>Barbareskstaterne<s n="np"/><s n="top"/></r></p></e>
@@ -13592,7 +13590,7 @@ Pardef naming scheme:
 <e>       <p><l>Konungariket<b/>Preussen<s n="np"/><s n="top"/><s n="nt"/></l> <r>Kongeriget<b/>Preussen<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Krimkhanatet<s n="np"/><s n="top"/><s n="nt"/></l>          <r>Krim-khanatet<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kuba<s n="np"/></l>                  <r>Cuba<s n="np"/></r></p></e>
-<e>       <p><l>Kungariket<b/>Aksum<s n="np"/></l>   <r>Aksum<s n="np"/></r></p></e>
+<e>       <p><l>Aksum<s n="np"/></l>   <r>Aksum<s n="np"/></r></p></e>
 <e>       <p><l>Kungariket<b/>Bayern<s n="np"/><s n="top"/><s n="nt"/></l>  <r>Kongeriget<b/>Bayern<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kungariket<b/>Egypten<s n="np"/><s n="top"/><s n="nt"/></l> <r>Kongeriget<b/>Egypten<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kungariket<b/>England<s n="np"/><s n="top"/><s n="nt"/></l> <r>Kongeriget<b/>England<s n="np"/><s n="top"/></r></p></e>
