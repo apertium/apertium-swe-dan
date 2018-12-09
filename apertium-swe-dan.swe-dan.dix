@@ -13104,7 +13104,7 @@ Pardef naming scheme:
 <e a="fmt"><p><l>gnissla</l><r>knirke</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>hetta</l><r>brænde</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>joxa</l><r>rode</r></p><par n="vblex_no-adjpp"/></e>
-<e a="fmt"><p><l>fightas</l><r>kæmpe</r></p><par n="vblex_no-pasv"/></e>
+<e a="fmt"><p><l>fightas</l><r>kæmpe</r></p><par n="vblex_pasv:vblex_no-adj"/></e>
 <e a="fmt"><p><l>kippa</l><r>svuppe</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>teoretisera</l><r>teoretisere</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>dangla</l><r>dingle</r></p><par n="vblex_no-adjpp"/></e>
@@ -13311,7 +13311,7 @@ Pardef naming scheme:
 <e>       <p><l>Estland<s n="np"/></l>              <r>Estland<s n="np"/></r></p></e>
 <e>       <p><l>Europa<s n="np"/></l>               <r>Europa<s n="np"/></r></p></e>
 <e>       <p><l>Finland<s n="np"/></l>              <r>Finland<s n="np"/></r></p></e>
-<e>       <p><l>Frankrike<s n="np"/><s n="top"/><s n="nt"/></l>            <r>Frankrig<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Frankrike<s n="np"/></l>            <r>Frankrig<s n="np"/></r></p></e>
 <e>       <p><l>Grekland<s n="np"/><s n="top"/><s n="nt"/></l>             <r>Grækenland<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Indien<s n="np"/><s n="top"/><s n="nt"/></l>               <r>Indien<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Irland<s n="np"/></l>               <r>Irland<s n="np"/></r></p></e>
@@ -13471,7 +13471,7 @@ Pardef naming scheme:
 <e>       <p><l>Göteborg<s n="np"/></l>             <r>Gøteborg<s n="np"/></r></p></e>
 <e>       <p><l>Berlin<s n="np"/></l>               <r>Berlin<s n="np"/></r></p></e>
 <e>       <p><l>London<s n="np"/></l>               <r>London<s n="np"/></r></p></e>
-<e>       <p><l>Malmö<s n="np"/><s n="top"/><s n="nt"/></l>                <r>Malmø<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Malmö<s n="np"/></l>                <r>Malmø<s n="np"/></r></p></e>
 <e>       <p><l>York<s n="np"/></l>                 <r>York<s n="np"/></r></p></e>
 <e>       <p><l>Paris<s n="np"/></l>                           <r>Paris<s n="np"/></r></p></e>
 <e>       <p><l>Wien<s n="np"/></l>                 <r>Wien<s n="np"/></r></p></e>
@@ -13650,7 +13650,7 @@ Pardef naming scheme:
 <e>       <p><l>Oberoende<b/>staten<b/>Kroatien<s n="np"/><s n="top"/><s n="nt"/></l> <r>Den<b/>Uafhængige<b/>Stat<b/>Kroatien<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Oldenburg<s n="np"/><s n="top"/><s n="nt"/></l>             <r>Oldenborg<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ordens<b/>Preussen<s n="np"/><s n="top"/><s n="nt"/></l>    <r>Den<b/>Tyske<b/>Ordensstat<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Palestina<s n="np"/><s n="top"/><s n="nt"/></l>             <r>Palæstina<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Palestina<s n="np"/></l>             <r>Palæstina<s n="np"/></r></p></e>
 <e>       <p><l>Papua<b/>Nya<b/>Guinea<s n="np"/><s n="top"/><s n="nt"/></l> <r>Papua<b/>Ny<b/>Guinea<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Persiska<b/>riket<s n="np"/><s n="top"/><s n="nt"/></l>     <r>Persien<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Polsk-litauiska<b/>samväldet<s n="np"/><s n="top"/><s n="nt"/></l> <r>Den<b/>polsk-litauiske<b/>realunion<s n="np"/><s n="top"/></r></p></e>
