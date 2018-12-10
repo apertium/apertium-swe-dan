@@ -50,7 +50,8 @@
     <match lemma="ha"/>
   </rule>
 
-  <rule weight="1.0"><match lemma="samlag" tags="n.nt.*"><select lemma="samleje" tags="n.nt.*"/></match></rule>
+<rule weight="1.0"><match lemma="än" tags="adv"><select lemma="endnu" tags="adv"/></match></rule>
+<rule weight="1.0"><match lemma="samlag" tags="n.nt.*"><select lemma="samleje" tags="n.nt.*"/></match></rule>
 
 <rule weight="0.9"><match lemma="levnadsregel" tags="n.ut.*"><select lemma="maksime" tags="n.ut.*"/></match></rule><!-- 31 -->
 <rule weight="0.9"><match lemma="utbasunera" tags="vblex.*"><select lemma="understrege" tags="vblex.*"/></match></rule><!-- 539 -->
@@ -1638,7 +1639,6 @@
 <rule weight="0.9"><match lemma="försegla" tags="vblex.*"><select lemma="forsegle" tags="vblex.*"/></match></rule><!-- 125 -->
 <rule weight="0.9"><match lemma="förändra" tags="vblex.*"><select lemma="ændre" tags="vblex.*"/></match></rule><!-- 6476 -->
 <rule weight="0.9"><match lemma="ändra" tags="vblex.*"><select lemma="ændre" tags="vblex.*"/></match></rule><!-- 6476 -->
-<rule weight="0.9"><match lemma="än" tags="adv"><select lemma="end" tags="adv"/></match></rule><!-- 25375 -->
 <rule weight="0.9"><match lemma="bespeja" tags="vblex.*"><select lemma="observere" tags="vblex.*"/></match></rule><!-- 832 -->
 <rule weight="0.9"><match lemma="likadan" tags="adj.*"><select lemma="lig" tags="adj.*"/></match></rule><!-- 1613 -->
 <rule weight="0.9"><match lemma="påstå" tags="vblex.*"><select lemma="hævde" tags="vblex.*"/></match></rule><!-- 2040 -->

@@ -11244,6 +11244,7 @@ Pardef naming scheme:
 <e>       <p><l>inom<s n="adv"/></l>                   <r>indenfor<s n="adv"/></r></p></e>
 <e>       <p><l>an<s n="adv"/></l>                     <r>an<s n="adv"/></r></p></e>
 <e>       <p><l>än<s n="adv"/></l>                     <r>endnu<s n="adv"/></r></p></e>
+<e>       <p><l>än<s n="adv"/></l>	<r>end<s n="adv"/></r></p></e>
 <e>       <p><l>ändå<s n="adv"/></l>                   <r>altså<s n="adv"/></r></p></e>
 <e>       <p><l>ännu<s n="adv"/></l>                   <r>endnu<s n="adv"/></r></p></e>
 <e>       <p><l>ånyo<s n="adv"/></l>                   <r>igen<s n="adv"/></r></p></e>
@@ -17750,7 +17751,6 @@ Pardef naming scheme:
 <e>       <p><l>dit<s n="adv"/></l>	<r>hvorved<s n="adv"/></r></p></e>
 <e>       <p><l>likväl<s n="adv"/></l>	<r>imidlertid<s n="adv"/></r></p></e>
 <e>       <p><l>likvisst<s n="adv"/></l>	<r>imidlertid<s n="adv"/></r></p></e>
-<e>       <p><l>än<s n="adv"/></l>	<r>end<s n="adv"/></r></p></e>
 <e>       <p><l>t.ex.<s n="adv"/></l>	<r>t.d.<s n="adv"/></r></p></e>
 <e>       <p><l>nere<s n="adv"/></l>	<r>der<b/>nede<s n="adv"/></r></p></e>
 <e>       <p><l>dags<s n="adv"/></l>	<r>på<b/>tide<s n="adv"/></r></p></e>
