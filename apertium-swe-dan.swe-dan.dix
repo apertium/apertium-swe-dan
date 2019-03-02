@@ -21864,6 +21864,10 @@ Pardef naming scheme:
 <e>       <p><l>Valmueveien<s n="np"/></l><r>Valmueveien<s n="np"/></r></p></e>
 <e>       <p><l>Valslag<s n="np"/></l><r>Valslag<s n="np"/></r></p></e>
 <e>       <p><l>Van<b/>Der<b/>Weldes<b/>vei<s n="np"/></l><r>Van<b/>Der<b/>Weldes<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>van<s n="np"/></l><r>van<s n="np"/></r></p></e>
+<e>       <p><l>von<b/>der<s n="np"/></l><r>von<b/>der<s n="np"/></r></p></e>
+<e>       <p><l>van<b/>der<s n="np"/></l><r>van<b/>der<s n="np"/></r></p></e>
+<e>       <p><l>von<s n="np"/></l><r>von<s n="np"/></r></p></e>
 <e>       <p><l>Vangdalsberg<s n="np"/></l><r>Vangdalsberg<s n="np"/></r></p></e>
 <e>       <p><l>Vangen<s n="np"/></l><r>Vangen<s n="np"/></r></p></e>
 <e>       <p><l>Vangkroken<s n="np"/></l><r>Vangkroken<s n="np"/></r></p></e>
