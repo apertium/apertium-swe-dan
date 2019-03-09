@@ -300,7 +300,8 @@ Pardef naming scheme:
     <pardef n="vblex_no-past-prespasv" c="instead does pis←→past">
 <!-- <e>       <p><l><s n="vblex"/><s n="pres"/><s n="pasv"/></l>   <r><s n="vblex"/><s n="pres"/><s n="pasv"/></r></p></e> -->
 <e>       <p><l><s n="vblex"/><s n="inf"/><s n="pasv"/></l>    <r><s n="vblex"/><s n="inf"/><s n="pasv"/></r></p></e>
-<e>       <p><l><s n="vblex"/><s n="pis"/><s n="actv"/></l>    <r><s n="vblex"/><s n="past"/></r></p></e>
+<e>       <p><l><s n="vblex"/><s n="past"/><s n="actv"/></l>    <r><s n="vblex"/><s n="past"/></r></p></e>
+<e r="LR">  <p><l><s n="vblex"/><s n="pis"/><s n="actv"/></l>    <r><s n="vblex"/><s n="past"/></r></p></e>
 <e>       <p><l><s n="vblex"/><s n="pres"/><s n="actv"/></l>   <r><s n="vblex"/><s n="pres"/></r></p></e>
 <e r="LR"><p><l><s n="vblex"/><s n="prs"/><s n="actv"/></l>    <r><s n="vblex"/><s n="pres"/></r></p></e>
 <e>       <p><l><s n="vblex"/><s n="inf"/><s n="actv"/></l>    <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -11726,7 +11727,6 @@ Pardef naming scheme:
 <e>       <p><l>förekomma</l>	<r>findes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e>       <p><l>finna</l>	<r>findes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e>       <p><l>passera</l>	<r>findes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
-<e>       <p><l>förefinnas</l>	<r>findes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e>       <p><l>inträffa</l>	<r>hænde</r></p><par n="vblex"/></e>
 <e>       <p><l>förekomma</l>	<r>hænde</r></p><par n="vblex"/></e>
 <e>       <p><l>hinna</l>	<r>hænde</r></p><par n="vblex"/></e>
@@ -12834,7 +12834,7 @@ Pardef naming scheme:
 <e a="fmt"><p><l>hungerstrejka</l><r>sultestrejke</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>komma<b/>bort</l><r>forsvinde</r></p><par n="vblex"/></e>
 <e a="fmt"><p><l>chansera</l><r>forringe</r></p><par n="vblex_no-adjpp"/></e>
-<e a="fmt"><p><l>vederböra</l><r>vedkomme</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
+<e r="LR" a="fmt"><p><l>vederböra</l><r>vedkomme</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e a="fmt"><p><l>retirera</l><r>retirere</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>luska</l><r>snage</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>dirra</l><r>dirre</r></p><par n="vblex_no-adjpp"/></e>
@@ -13044,7 +13044,6 @@ Pardef naming scheme:
 <e a="fmt"><p><l>marschera</l><r>marchere</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>fattas</l><r>fattes</r></p><par n="vblex_pasv:vblex_no-adj"/></e>
 <e a="fmt"><p><l>underförstå</l><r>underforstå</r></p><par n="vblex_no-adjpp"/></e>
-<e a="fmt"><p><l>kännas<g><b/>vid</g></l><r>vedgå</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>brusa</l><r>bruse</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>slippa</l><r>slappe</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>galoppera</l><r>galoppere</r></p><par n="vblex_no-adjpp"/></e>
@@ -13101,7 +13100,7 @@ Pardef naming scheme:
 <e a="fmt"><p><l>dangla</l><r>dingle</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>gnälla</l><r>jamme</r></p><par n="vblex_no-adjpp-pasv"/></e>
 <e a="fmt"><p><l>tvåla<b/>in</l><r>sæbe</r></p><par n="vblex"/></e>
-<e a="fmt"><p><l>förslummas</l><r>forslumme</r></p><par n="vblex_no-pasv"/></e>
+<e a="fmt"><p><l>förslummas</l><r>forslumme</r></p><par n="vblex_no-adjpp-pasv"/></e>
 <e a="fmt"><p><l>mullra</l><r>buldre</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>löddra</l><r>skumme</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>jamsa</l><r>vrøvle</r></p><par n="vblex_no-adjpp"/></e>
@@ -13197,9 +13196,7 @@ Pardef naming scheme:
 <e a="fmt"><p><l>skifta</l><r>skifte</r></p><par n="vblex"/></e>
 <e a="fmt"><p><l>sluta</l><r>slutte</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>slå<b/>om</l><r>skifte</r></p><par n="vblex"/></e>
-<e a="fmt"><p><l>slå<g><b/>till</g></l><r>slå</r></p><par n="vblex"/></e>
-<e a="fmt"><p><l>slå<g><b/>till</g></l><r>slå</r></p><par n="vblex"/></e>
-<e a="fmt"><p><l>slå</l><r>slå</r></p><par n="vblex_no-adjpp"/></e>
+<e a="fmt"><p><l>slå<g><b/>till</g></l><r>slå</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>slå</l><r>slå</r></p><par n="vblex_no-adjpp"/></e>
 <e a="fmt"><p><l>spela</l><r>spille</r></p><par n="vblex"/></e>
 <e a="fmt"><p><l>städa</l><r>gøre<g><b/>rent</g></r></p><par n="vblex"/></e>
@@ -29926,7 +29923,7 @@ Pardef naming scheme:
 <e>       <p><l>leja</l>	<r>munde</r></p><par n="vblex"/></e>
 <e>       <p><l>mynna</l>	<r>munde</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>hyra</l>	<r>munde</r></p><par n="vblex"/></e>
-<e>       <p><l>föra<g><b/>med</g><b/>sig</l>	<r>munde</r></p><par n="vblex"/></e>
+<e>       <p><l>föra<g><b/>med</g><b/>sig</l>	<r>munde</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>begrunda</l>	<r>begrunde</r></p><par n="vblex"/></e>
 <e>       <p><l>rättfärdiga</l>	<r>begrunde</r></p><par n="vblex"/></e>
 <e>       <p><l>grunda</l>	<r>grunde</r></p><par n="vblex"/></e>
@@ -30075,7 +30072,7 @@ Pardef naming scheme:
 <e>       <p><l>stjälpa</l>	<r>omstøde</r></p><par n="vblex"/></e>
 <e>       <p><l>vältra</l>	<r>omstøde</r></p><par n="vblex"/></e>
 <e>       <p><l>välta</l>	<r>omstøde</r></p><par n="vblex"/></e>
-<e>       <p><l>slå<g><b/>runt</g></l>	<r>omstøde</r></p><par n="vblex"/></e>
+<e>       <p><l>slå<g><b/>runt</g></l>	<r>omstøde</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>putta</l>	<r>støde</r></p><par n="vblex"/></e>
 <e>       <p><l>stöta</l>	<r>støde</r></p><par n="vblex"/></e>
 <e>       <p><l>benåda</l>	<r>benåde</r></p><par n="vblex"/></e>
@@ -30179,7 +30176,7 @@ Pardef naming scheme:
 <e>       <p><l>arrendera</l>	<r>ledsage</r></p><par n="vblex"/></e>
 <e>       <p><l>hyra</l>	<r>ledsage</r></p><par n="vblex"/></e>
 <e>       <p><l>efterleva</l>	<r>ledsage</r></p><par n="vblex"/></e>
-<e>       <p><l>föra<g><b/>med</g><b/>sig</l>	<r>ledsage</r></p><par n="vblex"/></e>
+<e>       <p><l>föra<g><b/>med</g><b/>sig</l>	<r>ledsage</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>rannsaka</l>	<r>ransage</r></p><par n="vblex"/></e>
 <e>       <p><l>söka</l>	<r>ransage</r></p><par n="vblex"/></e>
 <e>       <p><l>ansöka</l>	<r>ransage</r></p><par n="vblex"/></e>
@@ -30571,7 +30568,7 @@ Pardef naming scheme:
 <e>       <p><l>leta</l>	<r>søge</r></p><par n="vblex"/></e>
 <e>       <p><l>fresta</l>	<r>forsøge</r></p><par n="vblex"/></e>
 <e>       <p><l>pröva</l>	<r>forsøge</r></p><par n="vblex_no-adjpp"/></e>
-<e>       <p><l>pröva<g><b/>på</g></l>	<r>forsøge</r></p><par n="vblex"/></e>
+<e>       <p><l>pröva<g><b/>på</g></l>	<r>forsøge</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>vaka</l>	<r>overvåge</r></p><par n="vblex"/></e>
 <e>       <p><l>övervaka</l>	<r>overvåge</r></p><par n="vblex"/></e>
 <e>       <p><l>lyncha</l>	<r>lynche</r></p><par n="vblex"/></e>
@@ -31159,7 +31156,7 @@ Pardef naming scheme:
 <e>       <p><l>råma</l>	<r>bælle</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>träla</l>	<r>trælle</r></p><par n="vblex"/></e>
 <e>       <p><l>slava</l>	<r>trælle</r></p><par n="vblex"/></e>
-<e>       <p><l>tala<g><b/>om</g><b/>för</l>	<r>fortælle</r></p><par n="vblex"/></e>
+<e>       <p><l>tala<g><b/>om</g><b/>för</l>	<r>fortælle</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>mobba</l>	<r>bølle</r></p><par n="vblex"/></e>
 <e>       <p><l>krulla</l>	<r>krølle</r></p><par n="vblex"/></e>
 <e>       <p><l>fumla</l>	<r>famle</r></p><par n="vblex_no-adjpp"/></e>
@@ -31352,8 +31349,8 @@ Pardef naming scheme:
 <e>       <p><l>avlöpa</l>	<r>forekomme</r></p><par n="vblex"/></e>
 <e>       <p><l>spöa</l>	<r>forekomme</r></p><par n="vblex"/></e>
 <e>       <p><l>sopa<g><b/>till</g></l>	<r>forekomme</r></p><par n="vblex_no-adjpp"/></e>
-<e>       <p><l>slå<g><b/>till</g></l>	<r>forekomme</r></p><par n="vblex"/></e>
-<e>       <p><l>klippa<b/>till</l>	<r>forekomme</r></p><par n="vblex"/></e>
+<e>       <p><l>slå<g><b/>till</g></l>	<r>forekomme</r></p><par n="vblex_no-adjpp"/></e>
+<e>       <p><l>klippa<b/>till</l>	<r>forekomme</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>förefinnas</l>	<r>forekomme</r></p><par n="vblex_pasv:vblex_no-adj"/></e>
 <e>       <p><l>slå</l>	<r>forekomme</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>tillkomma</l>	<r>tilkomme</r></p><par n="vblex"/></e>
@@ -32211,7 +32208,7 @@ Pardef naming scheme:
 <e>       <p><l>inhalera</l>	<r>inhalere</r></p><par n="vblex"/></e>
 <e>       <p><l>upptrappa</l>	<r>eskalere</r></p><par n="vblex"/></e>
 <e>       <p><l>eskalera</l>	<r>eskalere</r></p><par n="vblex"/></e>
-<e>       <p><l>trappa<g><b/>upp</g></l>	<r>eskalere</r></p><par n="vblex"/></e>
+<e>       <p><l>trappa<g><b/>upp</g></l>	<r>eskalere</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>signalera</l>	<r>signalere</r></p><par n="vblex"/></e>
 <e>       <p><l>nasalera</l>	<r>nasalere</r></p><par n="vblex"/></e>
 <e>       <p><l>återställa</l>	<r>genetablere</r></p><par n="vblex"/></e>
@@ -32518,7 +32515,7 @@ Pardef naming scheme:
 <e>       <p><l>panorera</l>	<r>panorere</r></p><par n="vblex"/></e>
 <e>       <p><l>nonchalera</l>	<r>ignorere</r></p><par n="vblex"/></e>
 <e>       <p><l>ignorera</l>	<r>ignorere</r></p><par n="vblex"/></e>
-<e>       <p><l>strunta<g><b/>i</g></l>	<r>ignorere</r></p><par n="vblex"/></e>
+<e>       <p><l>strunta<g><b/>i</g></l>	<r>ignorere</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>förbigå</l>	<r>ignorere</r></p><par n="vblex"/></e>
 <e>       <p><l>vörda</l>	<r>honorere</r></p><par n="vblex"/></e>
 <e>       <p><l>hedra</l>	<r>honorere</r></p><par n="vblex"/></e>
@@ -33569,7 +33566,7 @@ Pardef naming scheme:
 <e>       <p><l>vässa</l>	<r>hvæsse</r></p><par n="vblex"/></e>
 <e>       <p><l>tippa</l>	<r>satse</r></p><par n="vblex"/></e>
 <e>       <p><l>satsa</l>	<r>satse</r></p><par n="vblex"/></e>
-<e>       <p><l>slå<g><b/>vad</g></l>	<r>satse</r></p><par n="vblex"/></e>
+<e>       <p><l>slå<g><b/>vad</g></l>	<r>satse</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>svida</l>	<r>svitse</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>etsa</l>	<r>ætse</r></p><par n="vblex"/></e>
 <e>       <p><l>fräta</l>	<r>ætse</r></p><par n="vblex"/></e>
@@ -34279,7 +34276,7 @@ Pardef naming scheme:
 <e>       <p><l>tycka</l>	<r>synes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e>       <p><l>finna</l>	<r>synes</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
 <e>       <p><l>låta</l>	<r>høres</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
-<e>       <p><l>umgås</l>	<r>omgås</r></p><par n="vblex_no-adjpp-pastpasv"/></e>
+<e>       <p><l>umgås</l>	<r>omgås</r></p><par n="vblex_pasv:vblex_no-adj"/></e>
 <e>       <p><l>undfly</l>	<r>undfly</r></p><par n="vblex"/></e>
 <e>       <p><l>sömma</l>	<r>sy</r></p><par n="vblex"/></e>
 <e>       <p><l>skälla</l>	<r>gø</r></p><par n="vblex"/></e>
@@ -34294,7 +34291,7 @@ Pardef naming scheme:
 <e>       <p><l>nonchalera</l>	<r>forbigå</r></p><par n="vblex"/></e>
 <e>       <p><l>ignorera</l>	<r>forbigå</r></p><par n="vblex"/></e>
 <e>       <p><l>strunta</l>	<r>forbigå</r></p><par n="vblex_no-adjpp"/></e>
-<e>       <p><l>strunta<g><b/>i</g></l>	<r>forbigå</r></p><par n="vblex"/></e>
+<e>       <p><l>strunta<g><b/>i</g></l>	<r>forbigå</r></p><par n="vblex_no-adjpp"/></e>
 <e>       <p><l>förbigå</l>	<r>forbigå</r></p><par n="vblex"/></e>
 <e>       <p><l>genomgå</l>	<r>gennemgå</r></p><par n="vblex"/></e>
 <e>       <p><l>beträffa</l>	<r>angå</r></p><par n="vblex"/></e>
