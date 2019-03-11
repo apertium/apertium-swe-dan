@@ -2,7 +2,6 @@
 ## Makefile for Swedish--Danish
 ###############################################################################
 
-VERSION=0.7.0
 LANG1=swe
 LANG2=dan
 PREFIX1=$(LANG1)-$(LANG2)
