@@ -929,7 +929,6 @@ Pardef naming scheme:
 <e>       <p><l>anbud<s n="n"/><s n="nt"/></l>             <r>forslag<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>and<s n="n"/><s n="ut"/></l>               <r>and<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>anda<s n="n"/><s n="ut"/></l>              <r>ånd<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>andel<s n="n"/><s n="ut"/></l>             <r>andel<s n="n"/><s n="ut"/></r></p></e>
 
 
 <e>       <p><l>andetag<s n="n"/><s n="nt"/></l>           <r>åndepust<s n="n"/><s n="nt"/></r></p></e>
@@ -1534,6 +1533,13 @@ Pardef naming scheme:
 
 <e>       <p><l>dekret<s n="n"/><s n="nt"/></l>            <r>dekret<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>del<s n="n"/><s n="ut"/></l>               <r>del<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>andel<s n="n"/><s n="ut"/></l>	<r>del<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>andel<s n="n"/><s n="ut"/></l>             <r>andel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>portion<s n="n"/><s n="ut"/></l>           <r>andel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>portion<s n="n"/><s n="ut"/></l>           <r>portion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>del<s n="n"/><s n="ut"/></l>	<r>andel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>portion<s n="n"/><s n="ut"/></l>	<r>del<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>delfin<s n="n"/><s n="ut"/></l>            <r>delfin<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>delmängd<s n="n"/><s n="ut"/></l>          <r>delmængde<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>delning<s n="n"/><s n="ut"/></l>           <r>deling<s n="n"/><s n="ut"/></r></p></e>
@@ -3830,7 +3836,6 @@ Pardef naming scheme:
 <e>       <p><l>pornografi<s n="n"/><s n="ut"/></l>        <r>pornografi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>port<s n="n"/><s n="ut"/></l>              <r>porte<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>port<s n="n"/><s n="ut"/></l>              <r>port<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>portion<s n="n"/><s n="ut"/></l>           <r>andel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>porto<s n="n"/><s n="nt"/></l>             <r>porto<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>porträtt<s n="n"/><s n="nt"/></l>          <r>portræt<s n="n"/><s n="nt"/></r></p></e>
@@ -6172,7 +6177,6 @@ Pardef naming scheme:
 <e a="PT"><p><l>översida<s n="n"/><s n="ut"/></l>          <r>overside<s n="n"/><s n="ut"/></r></p></e>
 <e a="PT"><p><l>pasta<s n="n"/><s n="ut"/></l>             <r>pasta<s n="n"/><s n="ut"/></r></p></e>
 <e a="PT"><p><l>pool<s n="n"/><s n="ut"/></l>              <r>pool<s n="n"/><s n="ut"/></r></p></e>
-<e a="PT"><p><l>portion<s n="n"/><s n="ut"/></l>           <r>portion<s n="n"/><s n="ut"/></r></p></e>
 <e a="PT"><p><l>prost<s n="n"/><s n="ut"/></l>             <r>provst<s n="n"/><s n="ut"/></r></p></e>
 <e a="PT"><p><l>reformation<s n="n"/><s n="ut"/></l>       <r>reformation<s n="n"/><s n="ut"/></r></p></e>
 <e a="PT"><p><l>rekreation<s n="n"/><s n="ut"/></l>        <r>rekreation<s n="n"/><s n="ut"/></r></p></e>
@@ -13302,6 +13306,12 @@ Pardef naming scheme:
 
     <!-- Proper nouns -->
 
+<e>       <p><l>de<s n="np"/></l><r>de<s n="np"/></r></p></e>
+<e>       <p><l>la<s n="np"/></l><r>la<s n="np"/></r></p></e>
+<e>       <p><l>las<s n="np"/></l><r>las<s n="np"/></r></p></e>
+<e>       <p><l>los<s n="np"/></l><r>los<s n="np"/></r></p></e>
+<e>       <p><l>del<s n="np"/></l><r>del<s n="np"/></r></p></e>
+<e>       <p><l>bin<s n="np"/></l><r>bin<s n="np"/></r></p></e>
 <e>       <p><l>Afrika<s n="np"/></l>               <r>Afrika<s n="np"/></r></p></e>
 <e>       <p><l>Amerika<s n="np"/></l>              <r>Amerika<s n="np"/></r></p></e>
 <e a="PT"><p><l>EF<s n="np"/></l>                   <r>EF<s n="np"/></r></p></e>
@@ -27826,11 +27836,8 @@ Pardef naming scheme:
 <e>       <p><l>färghandel<s n="n"/><s n="ut"/></l>	<r>farvehandel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>detaljhandel<s n="n"/><s n="ut"/></l>	<r>detailhandel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>skeppshandel<s n="n"/><s n="ut"/></l>	<r>skibshandel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>del<s n="n"/><s n="ut"/></l>	<r>andel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>fotomodell<s n="n"/><s n="ut"/></l>	<r>fotomodel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>ovandel<s n="n"/><s n="ut"/></l>	<r>overdel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>andel<s n="n"/><s n="ut"/></l>	<r>del<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>portion<s n="n"/><s n="ut"/></l>	<r>del<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>förmån<s n="n"/><s n="ut"/></l>	<r>fordel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>karaff<s n="n"/><s n="ut"/></l>	<r>karaffel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>levnadsregel<s n="n"/><s n="ut"/></l>	<r>leveregel<s n="n"/><s n="ut"/></r></p></e>

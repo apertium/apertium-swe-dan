@@ -43,6 +43,9 @@
   </rule>
 
 
+    <rule><match lemma="portion" tags="n.*"><select lemma="portion"/></match></rule>
+    <rule><match lemma="andel" tags="n.ut.*"><select lemma="andel" tags="n.ut.*"/></match></rule>
+
 <rule weight="0.9"><match lemma="overbevise" tags="vblex.*"><select lemma="övertyga" tags="vblex.*"/></match></rule><!-- 2261 -->
 <rule weight="0.9"><match lemma="beværte" tags="vblex.*"><select lemma="undfägna" tags="vblex.*"/></match></rule><!-- 2 -->
 <rule weight="0.9"><match lemma="vækst" tags="n.ut.*"><select lemma="växt" tags="n.ut.*"/></match></rule><!-- 1600 -->
@@ -1065,7 +1068,6 @@
 <rule weight="0.9"><match lemma="lysne" tags="vblex.*"><select lemma="lysa" tags="vblex.*"/></match></rule><!-- 1643 -->
 <rule weight="0.9"><match lemma="aftale" tags="n.ut.*"><select lemma="avtal" tags="n.nt.*"/></match></rule><!-- 2869 -->
 <rule weight="0.9"><match lemma="markedsplads" tags="n.ut.*"><select lemma="torg" tags="n.nt.*"/></match></rule><!-- 977 -->
-<rule weight="0.9"><match lemma="andel" tags="n.ut.*"><select lemma="del" tags="n.ut.*"/></match></rule><!-- 24986 -->
 <rule weight="0.9"><match lemma="stængel" tags="n.nt.*"><select lemma="stjälk" tags="n.ut.*"/></match></rule><!-- 119 -->
 <rule weight="0.9"><match lemma="reb" tags="n.nt.*"><select lemma="tåg" tags="n.nt.*"/></match></rule><!-- 4439 -->
 <rule weight="0.9"><match lemma="medikament" tags="n.nt.*"><select lemma="läkemedel" tags="n.nt.*"/></match></rule><!-- 495 -->

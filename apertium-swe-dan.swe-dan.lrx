@@ -52,6 +52,8 @@
 
 <rule weight="1.0"><match lemma="än" tags="adv"><select lemma="endnu" tags="adv"/></match></rule>
 <rule weight="1.0"><match lemma="samlag" tags="n.nt.*"><select lemma="samleje" tags="n.nt.*"/></match></rule>
+<rule weight="1.0"><match lemma="portion" tags="n.ut.*"><select lemma="portion" tags="n.ut.*"/></match></rule>
+<rule weight="1.0"><match lemma="andel" tags="n.ut.*"><select lemma="andel" tags="n.ut.*"/></match></rule>
 
 <rule weight="0.9"><match lemma="levnadsregel" tags="n.ut.*"><select lemma="maksime" tags="n.ut.*"/></match></rule><!-- 31 -->
 <rule weight="0.9"><match lemma="utbasunera" tags="vblex.*"><select lemma="understrege" tags="vblex.*"/></match></rule><!-- 539 -->
@@ -965,7 +967,6 @@
 <rule weight="0.9"><match lemma="ackumulera" tags="vblex.*"><select lemma="hobe" tags="vblex.*"/></match></rule><!-- 44 -->
 <rule weight="0.9"><match lemma="förebygga" tags="vblex.*"><select lemma="forhindre" tags="vblex.*"/></match></rule><!-- 1925 -->
 <rule weight="0.9"><match lemma="framhålla" tags="vblex.*"><select lemma="fremhæve" tags="vblex.*"/></match></rule><!-- 754 -->
-<rule weight="0.9"><match lemma="andel" tags="n.ut.*"><select lemma="del" tags="n.ut.*"/></match></rule><!-- 32118 -->
 <rule weight="0.9"><match lemma="bekänna" tags="vblex.*"><select lemma="bekende" tags="vblex.*"/></match></rule><!-- 566 -->
 <rule weight="0.9"><match lemma="hunger" tags="n.ut.*"><select lemma="sult" tags="n.ut.*"/></match></rule><!-- 373 -->
 <rule weight="0.9"><match lemma="medge" tags="vblex.*"><select lemma="indrømme" tags="vblex.*"/></match></rule><!-- 523 -->
@@ -2195,7 +2196,6 @@
 <rule weight="0.9"><match lemma="albanska" tags="n.ut.*"><select lemma="albansk" tags="n.ut.*"/></match></rule><!-- 40 -->
 <rule weight="0.9"><match lemma="omkring" tags="pr"><select lemma="omkring" tags="pr"/></match></rule><!-- 16190 -->
 <rule weight="0.9"><match lemma="styra" tags="vblex.*"><select lemma="styre" tags="vblex.*"/></match></rule><!-- 2613 -->
-<rule weight="0.9"><match lemma="portion" tags="n.ut.*"><select lemma="del" tags="n.ut.*"/></match></rule><!-- 32118 -->
 <rule weight="0.9"><match lemma="igenom" tags="pr"><select lemma="gennem" tags="pr"/></match></rule><!-- 12564 -->
 <rule weight="0.9"><match lemma="avrätta" tags="vblex.*"><select lemma="dræbe" tags="vblex.*"/></match></rule><!-- 8071 -->
 <rule weight="0.9"><match lemma="kinesiska" tags="n.ut.*"><select lemma="kinesisk" tags="n.ut.*"/></match></rule><!-- 217 -->
