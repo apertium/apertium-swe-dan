@@ -5106,7 +5106,7 @@ Pardef naming scheme:
 <e>       <p><l>support<s n="n"/><s n="ut"/></l>           <r>support<s n="n"/><s n="ut"/></r></p></e>
 <e r="LR"><p><l>support<s n="n"/><s n="ut"/><s n="pl"/></l><r>support<s n="n"/><s n="ut"/><s n="sg"/></r></p></e>
 <e>       <p><l>supporterklubb<s n="n"/><s n="ut"/></l>    <r>supporterklub<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>sura<s n="n"/><s n="ut"/></l>              <r>sura<s n="n"/><s n="ut"/></r></p></e> <!-- sura, chapter of Qur'an -->
+<e>       <p><l>sura<s n="n"/><s n="ut"/></l>              <r>sura<s n="n"/><s n="ut"/></r></p></e> <!-- sura, chapter of Qur’an -->
 <e>       <p><l>surdeg<s n="n"/><s n="ut"/></l>            <r>surdej<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>svaghet<s n="n"/><s n="ut"/></l>           <r>svaghed<s n="n"/><s n="ut"/></r></p></e>
 
@@ -6483,7 +6483,7 @@ Pardef naming scheme:
 <e a="Wiki"><p><l>gurkmeja<s n="n"/><s n="ut"/></l>        <r>gurkemeje<s n="n"/><s n="ut"/></r></p></e>
 <e a="Wiki"><p><l>hallonsylt<s n="n"/><s n="ut"/></l>      <r>hindbærmarmelade<s n="n"/><s n="ut"/></r></p></e>
 <e a="Wiki"><p><l>havsvatten<s n="n"/><s n="ut"/></l>      <r>havvand<s n="n"/><s n="ut"/></r></p></e>
-<e a="Wiki"><p><l>hors-d'œuvre<s n="n"/><s n="ut"/></l>    <r>hors-d'œuvre<s n="n"/><s n="ut"/></r></p></e>
+<e a="Wiki"><p><l>hors-d’œuvre<s n="n"/><s n="ut"/></l>    <r>hors-d’œuvre<s n="n"/><s n="ut"/></r></p></e>
 <e a="Wiki"><p><l>ingefära<s n="n"/><s n="ut"/></l>        <r>ingefær<s n="n"/><s n="ut"/></r></p></e>
 <e a="Wiki"><p><l>jordnöt<s n="n"/><s n="ut"/></l>         <r>jordnød<s n="n"/><s n="ut"/></r></p></e>
 <e a="Wiki"><p><l>jordnötssmör<s n="n"/><s n="ut"/></l>    <r>jordnøddesmør<s n="n"/><s n="ut"/></r></p></e>
@@ -13777,7 +13777,7 @@ Pardef naming scheme:
 <e>       <p><l>Thomas<s n="np"/></l><r>Thomas<s n="np"/></r></p></e>
 <e>       <p><l>Trond<s n="np"/></l><r>Trond<s n="np"/></r></p></e>
 <e>       <p><l>Louis<s n="np"/></l><r>Louis<s n="np"/></r></p></e>
-<e>       <p><l>Louis<b/>d'or<s n="np"/></l><r>Louis<b/>d'or<s n="np"/></r></p></e>
+<e>       <p><l>Louis<b/>d’or<s n="np"/></l><r>Louis<b/>d’or<s n="np"/></r></p></e>
 
 <e>       <p><l>Ada<s n="np"/></l><r>Ada<s n="np"/></r></p></e>
 <e>       <p><l>Eva<s n="np"/></l><r>Eva<s n="np"/></r></p></e>
@@ -14033,7 +14033,7 @@ Pardef naming scheme:
 <e>       <p><l>Ariels<b/>vei<s n="np"/></l><r>Ariels<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arilds<b/>vei<s n="np"/></l><r>Arilds<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arildsvingen<s n="np"/></l><r>Arildsvingen<s n="np"/></r></p></e>
-<e>       <p><l>Arkitekt<b/>Rivertz'<b/>plass<s n="np"/></l><r>Arkitekt<b/>Rivertz'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>Arkitekt<b/>Rivertz’<b/>plass<s n="np"/></l><r>Arkitekt<b/>Rivertz’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Arkitekt<b/>Steckmests<b/>vei<s n="np"/></l><r>Arkitekt<b/>Steckmests<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Armauer<b/>Hansens<b/>gate<s n="np"/></l><r>Armauer<b/>Hansens<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Armauer<b/>Hansens<b/>vei<s n="np"/></l><r>Armauer<b/>Hansens<b/>vei<s n="np"/></r></p></e>
@@ -14055,7 +14055,7 @@ Pardef naming scheme:
 <e>       <p><l>Arne<b/>Ulstrups<b/>vei<s n="np"/></l><r>Arne<b/>Ulstrups<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arnljot<b/>Gellines<b/>vei<s n="np"/></l><r>Arnljot<b/>Gellines<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arno<b/>Bergs<b/>plass<s n="np"/></l><r>Arno<b/>Bergs<b/>plass<s n="np"/></r></p></e>
-<e>       <p><l>Arnoldus<b/>Reimers'<b/>gate<s n="np"/></l><r>Arnoldus<b/>Reimers'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Arnoldus<b/>Reimers’<b/>gate<s n="np"/></l><r>Arnoldus<b/>Reimers’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Arnstein<b/>Arnebergs<b/>vei<s n="np"/></l><r>Arnstein<b/>Arnebergs<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arnulf<b/>Øverlands<b/>vei<s n="np"/></l><r>Arnulf<b/>Øverlands<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Arthur<b/>Nordlies<b/>vei<s n="np"/></l><r>Arthur<b/>Nordlies<b/>vei<s n="np"/></r></p></e>
@@ -14226,7 +14226,7 @@ Pardef naming scheme:
 <e>       <p><l>Beddingen<s n="np"/></l><r>Beddingen<s n="np"/></r></p></e>
 <e>       <p><l>Bedehussmauet<s n="np"/></l><r>Bedehussmauet<s n="np"/></r></p></e>
 <e>       <p><l>Bedriftsveien<s n="np"/></l><r>Bedriftsveien<s n="np"/></r></p></e>
-<e>       <p><l>Behrens'<b/>gate<s n="np"/></l><r>Behrens'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Behrens’<b/>gate<s n="np"/></l><r>Behrens’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Beinskjæra<s n="np"/></l><r>Beinskjæra<s n="np"/></r></p></e>
 <e>       <p><l>Beintegata<s n="np"/></l><r>Beintegata<s n="np"/></r></p></e>
 <e>       <p><l>Beiteveien<s n="np"/></l><r>Beiteveien<s n="np"/></r></p></e>
@@ -14313,7 +14313,7 @@ Pardef naming scheme:
 <e>       <p><l>Bergveien<s n="np"/></l><r>Bergveien<s n="np"/></r></p></e>
 <e>       <p><l>Bergverksgata<s n="np"/></l><r>Bergverksgata<s n="np"/></r></p></e>
 <e>       <p><l>Berlegården<s n="np"/></l><r>Berlegården<s n="np"/></r></p></e>
-<e>       <p><l>Bernhard<b/>Getz'<b/>gate<s n="np"/></l><r>Bernhard<b/>Getz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Bernhard<b/>Getz’<b/>gate<s n="np"/></l><r>Bernhard<b/>Getz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Bernhard<b/>Herres<b/>vei<s n="np"/></l><r>Bernhard<b/>Herres<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Bernhard<b/>Lunds<b/>vei<s n="np"/></l><r>Bernhard<b/>Lunds<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Bernhard<b/>Meyers<b/>vei<s n="np"/></l><r>Bernhard<b/>Meyers<b/>vei<s n="np"/></r></p></e>
@@ -14361,7 +14361,7 @@ Pardef naming scheme:
 <e>       <p><l>Birkelundsbakken<s n="np"/></l><r>Birkelundsbakken<s n="np"/></r></p></e>
 <e>       <p><l>Birkeveien<s n="np"/></l><r>Birkeveien<s n="np"/></r></p></e>
 <e>       <p><l>Biskop<b/>Grimelunds<b/>vei<s n="np"/></l><r>Biskop<b/>Grimelunds<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Biskop<b/>Gunnerus'<b/>gate<s n="np"/></l><r>Biskop<b/>Gunnerus'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Biskop<b/>Gunnerus’<b/>gate<s n="np"/></l><r>Biskop<b/>Gunnerus’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Biskop<b/>Heuchs<b/>vei<s n="np"/></l><r>Biskop<b/>Heuchs<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Biskop<b/>Jens<b/>Nilssøns<b/>gate<s n="np"/></l><r>Biskop<b/>Jens<b/>Nilssøns<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Biskopshavn<s n="np"/></l><r>Biskopshavn<s n="np"/></r></p></e>
@@ -14375,7 +14375,7 @@ Pardef naming scheme:
 <e>       <p><l>Bispengsgaten<s n="np"/></l><r>Bispengsgaten<s n="np"/></r></p></e>
 <e>       <p><l>Bispeveien<s n="np"/></l><r>Bispeveien<s n="np"/></r></p></e>
 <e>       <p><l>Bisp<b/>Eysteins<b/>gate<s n="np"/></l><r>Bisp<b/>Eysteins<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Bisp<b/>Nikolas'<b/>gate<s n="np"/></l><r>Bisp<b/>Nikolas'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Bisp<b/>Nikolas’<b/>gate<s n="np"/></l><r>Bisp<b/>Nikolas’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Bjarne<b/>Hurlens<b/>vei<s n="np"/></l><r>Bjarne<b/>Hurlens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Bjarne<b/>Skaus<b/>vei<s n="np"/></l><r>Bjarne<b/>Skaus<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Bjartveien<s n="np"/></l><r>Bjartveien<s n="np"/></r></p></e>
@@ -14410,7 +14410,7 @@ Pardef naming scheme:
 <e>       <p><l>Bjølsengata<s n="np"/></l><r>Bjølsengata<s n="np"/></r></p></e>
 <e>       <p><l>Bjønnahaugen<s n="np"/></l><r>Bjønnahaugen<s n="np"/></r></p></e>
 <e>       <p><l>Bjønnan<s n="np"/></l><r>Bjønnan<s n="np"/></r></p></e>
-<e>       <p><l>Bjønner'n<s n="np"/></l><r>Bjønner'n<s n="np"/></r></p></e>
+<e>       <p><l>Bjønner’n<s n="np"/></l><r>Bjønner’n<s n="np"/></r></p></e>
 <e>       <p><l>Bjønnliveien<s n="np"/></l><r>Bjønnliveien<s n="np"/></r></p></e>
 <e>       <p><l>Bjønnsberg<s n="np"/></l><r>Bjønnsberg<s n="np"/></r></p></e>
 <e>       <p><l>Bjønnveien<s n="np"/></l><r>Bjønnveien<s n="np"/></r></p></e>
@@ -14941,9 +14941,9 @@ Pardef naming scheme:
 <e>       <p><l>Claus<b/>Fastings<b/>gate<s n="np"/></l><r>Claus<b/>Fastings<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Claus<b/>Frimanns<b/>gate<s n="np"/></l><r>Claus<b/>Frimanns<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Claus<b/>Ockenssmauet<s n="np"/></l><r>Claus<b/>Ockenssmauet<s n="np"/></r></p></e>
-<e>       <p><l>Claus<b/>Riis'<b/>gate<s n="np"/></l><r>Claus<b/>Riis'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Claus<b/>Riis’<b/>gate<s n="np"/></l><r>Claus<b/>Riis’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Clemensallmenningen<s n="np"/></l><r>Clemensallmenningen<s n="np"/></r></p></e>
-<e>       <p><l>Clemens'<b/>gate<s n="np"/></l><r>Clemens'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Clemens’<b/>gate<s n="np"/></l><r>Clemens’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>C.<b/>N.<b/>R.<b/>Aamundsens<b/>vei<s n="np"/></l><r>C.<b/>N.<b/>R.<b/>Aamundsens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Cochsgate<s n="np"/></l><r>Cochsgate<s n="np"/></r></p></e>
 <e>       <p><l>Colbjørnsens<b/>gate<s n="np"/></l><r>Colbjørnsens<b/>gate<s n="np"/></r></p></e>
@@ -15046,7 +15046,7 @@ Pardef naming scheme:
 <e>       <p><l>Diones<b/>vei<s n="np"/></l><r>Diones<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Direktør<b/>Hammonds<b/>vei<s n="np"/></l><r>Direktør<b/>Hammonds<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Direktør<b/>Helgesens<b/>vei<s n="np"/></l><r>Direktør<b/>Helgesens<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Diriks'<b/>gate<s n="np"/></l><r>Diriks'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Diriks’<b/>gate<s n="np"/></l><r>Diriks’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Diriks<b/>vei<s n="np"/></l><r>Diriks<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Disengrenda<s n="np"/></l><r>Disengrenda<s n="np"/></r></p></e>
 <e>       <p><l>Disenveien<s n="np"/></l><r>Disenveien<s n="np"/></r></p></e>
@@ -15277,7 +15277,7 @@ Pardef naming scheme:
 <e>       <p><l>Elgfaret<s n="np"/></l><r>Elgfaret<s n="np"/></r></p></e>
 <e>       <p><l>Elgtråkket<s n="np"/></l><r>Elgtråkket<s n="np"/></r></p></e>
 <e>       <p><l>Elgveien<s n="np"/></l><r>Elgveien<s n="np"/></r></p></e>
-<e>       <p><l>Elias<b/>Blix'<b/>gate<s n="np"/></l><r>Elias<b/>Blix'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Elias<b/>Blix’<b/>gate<s n="np"/></l><r>Elias<b/>Blix’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Eliasmarken<s n="np"/></l><r>Eliasmarken<s n="np"/></r></p></e>
 <e>       <p><l>Elias<b/>Smiths<b/>vei<s n="np"/></l><r>Elias<b/>Smiths<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Elisa<b/>Platous<b/>plass<s n="np"/></l><r>Elisa<b/>Platous<b/>plass<s n="np"/></r></p></e>
@@ -15288,7 +15288,7 @@ Pardef naming scheme:
 <e>       <p><l>Eljarvik<s n="np"/></l><r>Eljarvik<s n="np"/></r></p></e>
 <e>       <p><l>Ellef<b/>Marcussens<b/>veg<s n="np"/></l><r>Ellef<b/>Marcussens<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Ellefs<b/>vei<s n="np"/></l><r>Ellefs<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Ellen<b/>Gleditsch'<b/>vei<s n="np"/></l><r>Ellen<b/>Gleditsch'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Ellen<b/>Gleditsch’<b/>vei<s n="np"/></l><r>Ellen<b/>Gleditsch’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ellen<b/>Gulbrandsons<b/>vei<s n="np"/></l><r>Ellen<b/>Gulbrandsons<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ellerhusens<b/>vei<s n="np"/></l><r>Ellerhusens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ellingshaugen<s n="np"/></l><r>Ellingshaugen<s n="np"/></r></p></e>
@@ -15374,10 +15374,10 @@ Pardef naming scheme:
 <e>       <p><l>Erleveien<s n="np"/></l><r>Erleveien<s n="np"/></r></p></e>
 <e>       <p><l>Erling<b/>Michelsens<b/>vei<s n="np"/></l><r>Erling<b/>Michelsens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Erling<b/>Nilssens<b/>vei<s n="np"/></l><r>Erling<b/>Nilssens<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Erling<b/>Schiøtz'<b/>vei<s n="np"/></l><r>Erling<b/>Schiøtz'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Erling<b/>Schiøtz’<b/>vei<s n="np"/></l><r>Erling<b/>Schiøtz’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Erlings<b/>gate<s n="np"/></l><r>Erlings<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Erling<b/>Skjalgssons<b/>gate<s n="np"/></l><r>Erling<b/>Skjalgssons<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Ernst<b/>Sars'<b/>vei<s n="np"/></l><r>Ernst<b/>Sars'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Ernst<b/>Sars’<b/>vei<s n="np"/></l><r>Ernst<b/>Sars’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ertrevågen<s n="np"/></l><r>Ertrevågen<s n="np"/></r></p></e>
 <e>       <p><l>Ervikveien<s n="np"/></l><r>Ervikveien<s n="np"/></r></p></e>
 <e>       <p><l>Esmarks<b/>gate<s n="np"/></l><r>Esmarks<b/>gate<s n="np"/></r></p></e>
@@ -15740,7 +15740,7 @@ Pardef naming scheme:
 <e>       <p><l>Friggs<b/>veg<s n="np"/></l><r>Friggs<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Friggs<b/>vei<s n="np"/></l><r>Friggs<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Friholmsgaten<s n="np"/></l><r>Friholmsgaten<s n="np"/></r></p></e>
-<e>       <p><l>Friis'<b/>gate<s n="np"/></l><r>Friis'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Friis’<b/>gate<s n="np"/></l><r>Friis’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Frimanns<b/>gate<s n="np"/></l><r>Frimanns<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Frimannsmauet<s n="np"/></l><r>Frimannsmauet<s n="np"/></r></p></e>
 <e>       <p><l>Frits<b/>Kiærs<b/>vei<s n="np"/></l><r>Frits<b/>Kiærs<b/>vei<s n="np"/></r></p></e>
@@ -15788,7 +15788,7 @@ Pardef naming scheme:
 <e>       <p><l>Frøyas<b/>veg<s n="np"/></l><r>Frøyas<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Frøyasvei<s n="np"/></l><r>Frøyasvei<s n="np"/></r></p></e>
 <e>       <p><l>Frøyas<b/>vei<s n="np"/></l><r>Frøyas<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Frøydis'<b/>vei<s n="np"/></l><r>Frøydis'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Frøydis’<b/>vei<s n="np"/></l><r>Frøydis’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Frøys<b/>vei<s n="np"/></l><r>Frøys<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Frøytunveien<s n="np"/></l><r>Frøytunveien<s n="np"/></r></p></e>
 <e>       <p><l>Fuglehauggata<s n="np"/></l><r>Fuglehauggata<s n="np"/></r></p></e>
@@ -15968,7 +15968,7 @@ Pardef naming scheme:
 <e>       <p><l>Geologsvingen<s n="np"/></l><r>Geologsvingen<s n="np"/></r></p></e>
 <e>       <p><l>Georgernes<b/>Verft<s n="np"/></l><r>Georgernes<b/>Verft<s n="np"/></r></p></e>
 <e>       <p><l>Georg<b/>Martinsens<b/>vei<s n="np"/></l><r>Georg<b/>Martinsens<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Gerd<b/>Kjølaas'<b/>plass<s n="np"/></l><r>Gerd<b/>Kjølaas'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>Gerd<b/>Kjølaas’<b/>plass<s n="np"/></l><r>Gerd<b/>Kjølaas’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Gerhard<b/>Grans<b/>vei<s n="np"/></l><r>Gerhard<b/>Grans<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Gesellveien<s n="np"/></l><r>Gesellveien<s n="np"/></r></p></e>
 <e>       <p><l>Geviret<s n="np"/></l><r>Geviret<s n="np"/></r></p></e>
@@ -16156,7 +16156,7 @@ Pardef naming scheme:
 <e>       <p><l>Grensesvingen<s n="np"/></l><r>Grensesvingen<s n="np"/></r></p></e>
 <e>       <p><l>Grenseveien<s n="np"/></l><r>Grenseveien<s n="np"/></r></p></e>
 <e>       <p><l>Gresshoppeveien<s n="np"/></l><r>Gresshoppeveien<s n="np"/></r></p></e>
-<e>       <p><l>Grete<b/>Waitz'<b/>plass<s n="np"/></l><r>Grete<b/>Waitz'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>Grete<b/>Waitz’<b/>plass<s n="np"/></l><r>Grete<b/>Waitz’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Grethesvei<s n="np"/></l><r>Grethesvei<s n="np"/></r></p></e>
 <e>       <p><l>Grethes<b/>vei<s n="np"/></l><r>Grethes<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Grevesvingen<s n="np"/></l><r>Grevesvingen<s n="np"/></r></p></e>
@@ -16338,7 +16338,7 @@ Pardef naming scheme:
 <e>       <p><l>Gyssestadkollen<s n="np"/></l><r>Gyssestadkollen<s n="np"/></r></p></e>
 <e>       <p><l>Gyssestadveien<s n="np"/></l><r>Gyssestadveien<s n="np"/></r></p></e>
 <e>       <p><l>Gäbleins<b/>vei<s n="np"/></l><r>Gäbleins<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Gørbitz'<b/>gate<s n="np"/></l><r>Gørbitz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Gørbitz’<b/>gate<s n="np"/></l><r>Gørbitz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Gørvellalléen<s n="np"/></l><r>Gørvellalléen<s n="np"/></r></p></e>
 <e>       <p><l>Gørvellplassen<s n="np"/></l><r>Gørvellplassen<s n="np"/></r></p></e>
 <e>       <p><l>Gøteborggata<s n="np"/></l><r>Gøteborggata<s n="np"/></r></p></e>
@@ -16459,7 +16459,7 @@ Pardef naming scheme:
 <e>       <p><l>Hans<b/>Nielsen<b/>Hauges<b/>gate<s n="np"/></l><r>Hans<b/>Nielsen<b/>Hauges<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Hans<b/>Nielsen<b/>Hauges<b/>plass<s n="np"/></l><r>Hans<b/>Nielsen<b/>Hauges<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Hans<b/>Pettersvei<s n="np"/></l><r>Hans<b/>Pettersvei<s n="np"/></r></p></e>
-<e>       <p><l>Hans<b/>Ross'<b/>gate<s n="np"/></l><r>Hans<b/>Ross'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Hans<b/>Ross’<b/>gate<s n="np"/></l><r>Hans<b/>Ross’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Hans<b/>Schjelderups<b/>vei<s n="np"/></l><r>Hans<b/>Schjelderups<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Hans<b/>Steinpukkers<b/>vei<s n="np"/></l><r>Hans<b/>Steinpukkers<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Hans<b/>Tanks<b/>gate<s n="np"/></l><r>Hans<b/>Tanks<b/>gate<s n="np"/></r></p></e>
@@ -16730,7 +16730,7 @@ Pardef naming scheme:
 <e>       <p><l>Herkules<b/>vei<s n="np"/></l><r>Herkules<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Herlandsvegen<s n="np"/></l><r>Herlandsvegen<s n="np"/></r></p></e>
 <e>       <p><l>Herlaugsbakkane<s n="np"/></l><r>Herlaugsbakkane<s n="np"/></r></p></e>
-<e>       <p><l>Herman<b/>Foss'<b/>gate<s n="np"/></l><r>Herman<b/>Foss'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Herman<b/>Foss’<b/>gate<s n="np"/></l><r>Herman<b/>Foss’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Herman<b/>Grans<b/>vei<s n="np"/></l><r>Herman<b/>Grans<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Hermann<b/>Foss<b/>gate<s n="np"/></l><r>Hermann<b/>Foss<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Hermelinveien<s n="np"/></l><r>Hermelinveien<s n="np"/></r></p></e>
@@ -17129,7 +17129,7 @@ Pardef naming scheme:
 <e>       <p><l>Ingier<s n="np"/></l><r>Ingier<s n="np"/></r></p></e>
 <e>       <p><l>Ingiers<b/>vei<s n="np"/></l><r>Ingiers<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ingolf<b/>Ruuds<b/>vei<s n="np"/></l><r>Ingolf<b/>Ruuds<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Ingrid<b/>Bjerkås'<b/>plass<s n="np"/></l><r>Ingrid<b/>Bjerkås'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>Ingrid<b/>Bjerkås’<b/>plass<s n="np"/></l><r>Ingrid<b/>Bjerkås’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Ingrids<b/>vei<s n="np"/></l><r>Ingrids<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Inkognitogata<s n="np"/></l><r>Inkognitogata<s n="np"/></r></p></e>
 <e>       <p><l>Inkognito<b/>terrasse<s n="np"/></l><r>Inkognito<b/>terrasse<s n="np"/></r></p></e>
@@ -17248,7 +17248,7 @@ Pardef naming scheme:
 <e>       <p><l>Johan<b/>Granvins<b/>veg<s n="np"/></l><r>Johan<b/>Granvins<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Johan<b/>Grauers<b/>vei<s n="np"/></l><r>Johan<b/>Grauers<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Johan<b/>Gulliksens<b/>vei<s n="np"/></l><r>Johan<b/>Gulliksens<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Johan<b/>Hirsch'<b/>vei<s n="np"/></l><r>Johan<b/>Hirsch'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Johan<b/>Hirsch’<b/>vei<s n="np"/></l><r>Johan<b/>Hirsch’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Johan<b/>Hjorts<b/>vei<s n="np"/></l><r>Johan<b/>Hjorts<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Johan<b/>Mohrs<b/>gate<s n="np"/></l><r>Johan<b/>Mohrs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Johanna<b/>Schwarz<b/>vei<s n="np"/></l><r>Johanna<b/>Schwarz<b/>vei<s n="np"/></r></p></e>
@@ -17437,7 +17437,7 @@ Pardef naming scheme:
 <e>       <p><l>Karl<b/>den<b/>XIIs<b/>gate<s n="np"/></l><r>Karl<b/>den<b/>XIIs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Karl<b/>Flods<b/>vei<s n="np"/></l><r>Karl<b/>Flods<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Karl<b/>Fossums<b/>vei<s n="np"/></l><r>Karl<b/>Fossums<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Karl<b/>Hals'<b/>gate<s n="np"/></l><r>Karl<b/>Hals'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Karl<b/>Hals’<b/>gate<s n="np"/></l><r>Karl<b/>Hals’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Karl<b/>Hansens<b/>vei<s n="np"/></l><r>Karl<b/>Hansens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Karl<b/>Jebsens<b/>Veg<s n="np"/></l><r>Karl<b/>Jebsens<b/>Veg<s n="np"/></r></p></e>
 <e>       <p><l>Karlsborgveien<s n="np"/></l><r>Karlsborgveien<s n="np"/></r></p></e>
@@ -17752,7 +17752,7 @@ Pardef naming scheme:
 <e>       <p><l>Konkylieveien<s n="np"/></l><r>Konkylieveien<s n="np"/></r></p></e>
 <e>       <p><l>Konows<b/>gate<s n="np"/></l><r>Konows<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Konows<b/>vei<s n="np"/></l><r>Konows<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Konsul<b/>Børs'<b/>gate<s n="np"/></l><r>Konsul<b/>Børs'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Konsul<b/>Børs’<b/>gate<s n="np"/></l><r>Konsul<b/>Børs’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Konsul<b/>Iversens<b/>vei<s n="np"/></l><r>Konsul<b/>Iversens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Konsul<b/>Schjelderups<b/>vei<s n="np"/></l><r>Konsul<b/>Schjelderups<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Konvalleveien<s n="np"/></l><r>Konvalleveien<s n="np"/></r></p></e>
@@ -17802,7 +17802,7 @@ Pardef naming scheme:
 <e>       <p><l>Kranaveien<s n="np"/></l><r>Kranaveien<s n="np"/></r></p></e>
 <e>       <p><l>Kransen<s n="np"/></l><r>Kransen<s n="np"/></r></p></e>
 <e>       <p><l>Kranveien<s n="np"/></l><r>Kranveien<s n="np"/></r></p></e>
-<e>       <p><l>Krebs'<b/>gate<s n="np"/></l><r>Krebs'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Krebs’<b/>gate<s n="np"/></l><r>Krebs’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Kreftings<b/>gate<s n="np"/></l><r>Kreftings<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Kreklingbakken<s n="np"/></l><r>Kreklingbakken<s n="np"/></r></p></e>
 <e>       <p><l>Kreklingen<s n="np"/></l><r>Kreklingen<s n="np"/></r></p></e>
@@ -17981,8 +17981,8 @@ Pardef naming scheme:
 <e>       <p><l>Lambertseterveien<s n="np"/></l><r>Lambertseterveien<s n="np"/></r></p></e>
 <e>       <p><l>Lambertstien<s n="np"/></l><r>Lambertstien<s n="np"/></r></p></e>
 <e>       <p><l>Lamberts<b/>vei<s n="np"/></l><r>Lamberts<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Lambrechts'<b/>gate<s n="np"/></l><r>Lambrechts'<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Lammers'<b/>gate<s n="np"/></l><r>Lammers'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Lambrechts’<b/>gate<s n="np"/></l><r>Lambrechts’<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Lammers’<b/>gate<s n="np"/></l><r>Lammers’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Lammers<b/>vei<s n="np"/></l><r>Lammers<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Landehagen<s n="np"/></l><r>Landehagen<s n="np"/></r></p></e>
 <e>       <p><l>Landerokollen<s n="np"/></l><r>Landerokollen<s n="np"/></r></p></e>
@@ -18077,7 +18077,7 @@ Pardef naming scheme:
 <e>       <p><l>Lauvlundveien<s n="np"/></l><r>Lauvlundveien<s n="np"/></r></p></e>
 <e>       <p><l>Lauvto<s n="np"/></l><r>Lauvto<s n="np"/></r></p></e>
 <e>       <p><l>Lauås<s n="np"/></l><r>Lauås<s n="np"/></r></p></e>
-<e>       <p><l>Lavrans'<b/>vei<s n="np"/></l><r>Lavrans'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Lavrans’<b/>vei<s n="np"/></l><r>Lavrans’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Lefsrødveien<s n="np"/></l><r>Lefsrødveien<s n="np"/></r></p></e>
 <e>       <p><l>Legatveien<s n="np"/></l><r>Legatveien<s n="np"/></r></p></e>
 <e>       <p><l>Legdåsveien<s n="np"/></l><r>Legdåsveien<s n="np"/></r></p></e>
@@ -18443,7 +18443,7 @@ Pardef naming scheme:
 <e>       <p><l>Magnus<b/>Bergs<b/>gate<s n="np"/></l><r>Magnus<b/>Bergs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Magnus<b/>Blikstads<b/>vei<s n="np"/></l><r>Magnus<b/>Blikstads<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Magnus<b/>Den<b/>Godesvei<s n="np"/></l><r>Magnus<b/>Den<b/>Godesvei<s n="np"/></r></p></e>
-<e>       <p><l>Magnus'<b/>gate<s n="np"/></l><r>Magnus'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Magnus’<b/>gate<s n="np"/></l><r>Magnus’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Magnus<b/>Hydles<b/>vei<s n="np"/></l><r>Magnus<b/>Hydles<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Magnus<b/>Lagabøters<b/>gate<s n="np"/></l><r>Magnus<b/>Lagabøters<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Magnus<b/>Lagabøtes<b/>Plass<s n="np"/></l><r>Magnus<b/>Lagabøtes<b/>Plass<s n="np"/></r></p></e>
@@ -18512,7 +18512,7 @@ Pardef naming scheme:
 <e>       <p><l>Marmorneset<s n="np"/></l><r>Marmorneset<s n="np"/></r></p></e>
 <e>       <p><l>Marmorvegen<s n="np"/></l><r>Marmorvegen<s n="np"/></r></p></e>
 <e>       <p><l>Marmorveien<s n="np"/></l><r>Marmorveien<s n="np"/></r></p></e>
-<e>       <p><l>Marselis'<b/>gate<s n="np"/></l><r>Marselis'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Marselis’<b/>gate<s n="np"/></l><r>Marselis’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Marstranderveien<s n="np"/></l><r>Marstranderveien<s n="np"/></r></p></e>
 <e>       <p><l>Marstrandgata<s n="np"/></l><r>Marstrandgata<s n="np"/></r></p></e>
 <e>       <p><l>Marstrands<b/>gate<s n="np"/></l><r>Marstrands<b/>gate<s n="np"/></r></p></e>
@@ -18523,7 +18523,7 @@ Pardef naming scheme:
 <e>       <p><l>Martensgården<s n="np"/></l><r>Martensgården<s n="np"/></r></p></e>
 <e>       <p><l>Martes<b/>vei<s n="np"/></l><r>Martes<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Martha<b/>Cochsvei<s n="np"/></l><r>Martha<b/>Cochsvei<s n="np"/></r></p></e>
-<e>       <p><l>Martha<b/>Tynes'<b/>vei<s n="np"/></l><r>Martha<b/>Tynes'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Martha<b/>Tynes’<b/>vei<s n="np"/></l><r>Martha<b/>Tynes’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Martin<b/>Borrebekkens<b/>vei<s n="np"/></l><r>Martin<b/>Borrebekkens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Martin<b/>Larsens<b/>vei<s n="np"/></l><r>Martin<b/>Larsens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Martin<b/>Linges<b/>vei<s n="np"/></l><r>Martin<b/>Linges<b/>vei<s n="np"/></r></p></e>
@@ -19019,7 +19019,7 @@ Pardef naming scheme:
 <e>       <p><l>Nils<b/>Hansens<b/>vei<s n="np"/></l><r>Nils<b/>Hansens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Nils<b/>Hertzbergs<b/>gate<s n="np"/></l><r>Nils<b/>Hertzbergs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Nils<b/>Hjelmtveits<b/>vei<s n="np"/></l><r>Nils<b/>Hjelmtveits<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Nils<b/>Huus'<b/>gate<s n="np"/></l><r>Nils<b/>Huus'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Nils<b/>Huus’<b/>gate<s n="np"/></l><r>Nils<b/>Huus’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Nils<b/>Klims<b/>gate<s n="np"/></l><r>Nils<b/>Klims<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Nils<b/>Langhelles<b/>vei<s n="np"/></l><r>Nils<b/>Langhelles<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Nils<b/>Lassons<b/>vei<s n="np"/></l><r>Nils<b/>Lassons<b/>vei<s n="np"/></r></p></e>
@@ -19350,7 +19350,7 @@ Pardef naming scheme:
 <e>       <p><l>Ole<b/>Eides<b/>gate<s n="np"/></l><r>Ole<b/>Eides<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Ole<b/>Engebretsens<b/>vei<s n="np"/></l><r>Ole<b/>Engebretsens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ole<b/>Fladagers<b/>gate<s n="np"/></l><r>Ole<b/>Fladagers<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Ole<b/>Irgens'<b/>vei<s n="np"/></l><r>Ole<b/>Irgens'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Ole<b/>Irgens’<b/>vei<s n="np"/></l><r>Ole<b/>Irgens’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ole<b/>Jacob<b/>Brochs<b/>gate<s n="np"/></l><r>Ole<b/>Jacob<b/>Brochs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Ole<b/>Landmarks<b/>vei<s n="np"/></l><r>Ole<b/>Landmarks<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Ole<b/>Messelts<b/>vei<s n="np"/></l><r>Ole<b/>Messelts<b/>vei<s n="np"/></r></p></e>
@@ -19453,7 +19453,7 @@ Pardef naming scheme:
 <e>       <p><l>Ospestien<s n="np"/></l><r>Ospestien<s n="np"/></r></p></e>
 <e>       <p><l>Ospeveien<s n="np"/></l><r>Ospeveien<s n="np"/></r></p></e>
 <e>       <p><l>Ostadalsveien<s n="np"/></l><r>Ostadalsveien<s n="np"/></r></p></e>
-<e>       <p><l>Osterhaus'<b/>gate<s n="np"/></l><r>Osterhaus'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Osterhaus’<b/>gate<s n="np"/></l><r>Osterhaus’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Osveien<s n="np"/></l><r>Osveien<s n="np"/></r></p></e>
 <e>       <p><l>O.<b/>T.<b/>Bjanes<b/>vei<s n="np"/></l><r>O.<b/>T.<b/>Bjanes<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Oterveien<s n="np"/></l><r>Oterveien<s n="np"/></r></p></e>
@@ -19502,9 +19502,9 @@ Pardef naming scheme:
 <e>       <p><l>Pastor<b/>Fangens<b/>vei<s n="np"/></l><r>Pastor<b/>Fangens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Paulines<b/>vei<s n="np"/></l><r>Paulines<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Paul<b/>Smelters<b/>vei<s n="np"/></l><r>Paul<b/>Smelters<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Paulus'<b/>plass<s n="np"/></l><r>Paulus'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>Paulus’<b/>plass<s n="np"/></l><r>Paulus’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Pausvei<s n="np"/></l><r>Pausvei<s n="np"/></r></p></e>
-<e>       <p><l>Pavels'<b/>gate<s n="np"/></l><r>Pavels'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Pavels’<b/>gate<s n="np"/></l><r>Pavels’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Pavels<b/>vei<s n="np"/></l><r>Pavels<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>P.<b/>Chr.<b/>Asbjørnsens<b/>veg<s n="np"/></l><r>P.<b/>Chr.<b/>Asbjørnsens<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Pearl<b/>Engens<b/>vei<s n="np"/></l><r>Pearl<b/>Engens<b/>vei<s n="np"/></r></p></e>
@@ -19549,7 +19549,7 @@ Pardef naming scheme:
 <e>       <p><l>Peter<b/>Loranges<b/>vei<s n="np"/></l><r>Peter<b/>Loranges<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Peter<b/>Motzfeldts<b/>gate<s n="np"/></l><r>Peter<b/>Motzfeldts<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Peter<b/>Møllers<b/>vei<s n="np"/></l><r>Peter<b/>Møllers<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Peter<b/>Aas'<b/>vei<s n="np"/></l><r>Peter<b/>Aas'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Peter<b/>Aas’<b/>vei<s n="np"/></l><r>Peter<b/>Aas’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Petreabakken<s n="np"/></l><r>Petreabakken<s n="np"/></r></p></e>
 <e>       <p><l>Petter<b/>Auerdahls<b/>vei<s n="np"/></l><r>Petter<b/>Auerdahls<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Petter<b/>Hugsteds<b/>vei<s n="np"/></l><r>Petter<b/>Hugsteds<b/>vei<s n="np"/></r></p></e>
@@ -19601,7 +19601,7 @@ Pardef naming scheme:
 <e>       <p><l>Prahms<b/>gate<s n="np"/></l><r>Prahms<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>President<b/>Christies<b/>vei<s n="np"/></l><r>President<b/>Christies<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Presidentgata<s n="np"/></l><r>Presidentgata<s n="np"/></r></p></e>
-<e>       <p><l>President<b/>Harbitz'<b/>gate<s n="np"/></l><r>President<b/>Harbitz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>President<b/>Harbitz’<b/>gate<s n="np"/></l><r>President<b/>Harbitz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Prestbøen<s n="np"/></l><r>Prestbøen<s n="np"/></r></p></e>
 <e>       <p><l>Prestegata<s n="np"/></l><r>Prestegata<s n="np"/></r></p></e>
 <e>       <p><l>Prestegaten<s n="np"/></l><r>Prestegaten<s n="np"/></r></p></e>
@@ -19627,7 +19627,7 @@ Pardef naming scheme:
 <e>       <p><l>Prins<b/>Haralds<b/>veg<s n="np"/></l><r>Prins<b/>Haralds<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Priorveien<s n="np"/></l><r>Priorveien<s n="np"/></r></p></e>
 <e>       <p><l>Problemveien<s n="np"/></l><r>Problemveien<s n="np"/></r></p></e>
-<e>       <p><l>Professor<b/>Arentz'<b/>gate<s n="np"/></l><r>Professor<b/>Arentz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Professor<b/>Arentz’<b/>gate<s n="np"/></l><r>Professor<b/>Arentz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Professor<b/>Aschehougs<b/>plass<s n="np"/></l><r>Professor<b/>Aschehougs<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Professor<b/>Birkelands<b/>vei<s n="np"/></l><r>Professor<b/>Birkelands<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Professor<b/>Dahls<b/>gate<s n="np"/></l><r>Professor<b/>Dahls<b/>gate<s n="np"/></r></p></e>
@@ -19888,7 +19888,7 @@ Pardef naming scheme:
 <e>       <p><l>Rosendalsveien<s n="np"/></l><r>Rosendalsveien<s n="np"/></r></p></e>
 <e>       <p><l>Rosenhoffgata<s n="np"/></l><r>Rosenhoffgata<s n="np"/></r></p></e>
 <e>       <p><l>Rosenholmveien<s n="np"/></l><r>Rosenholmveien<s n="np"/></r></p></e>
-<e>       <p><l>Rosenkrantz'<b/>gate<s n="np"/></l><r>Rosenkrantz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Rosenkrantz’<b/>gate<s n="np"/></l><r>Rosenkrantz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Rosenkrantzgaten<s n="np"/></l><r>Rosenkrantzgaten<s n="np"/></r></p></e>
 <e>       <p><l>Rosenlundgata<s n="np"/></l><r>Rosenlundgata<s n="np"/></r></p></e>
 <e>       <p><l>Rosenlundveien<s n="np"/></l><r>Rosenlundveien<s n="np"/></r></p></e>
@@ -20129,7 +20129,7 @@ Pardef naming scheme:
 <e>       <p><l>Sarbuvollveien<s n="np"/></l><r>Sarbuvollveien<s n="np"/></r></p></e>
 <e>       <p><l>Sarnes<s n="np"/></l><r>Sarnes<s n="np"/></r></p></e>
 <e>       <p><l>Sarpsborggata<s n="np"/></l><r>Sarpsborggata<s n="np"/></r></p></e>
-<e>       <p><l>Sars'<b/>gate<s n="np"/></l><r>Sars'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Sars’<b/>gate<s n="np"/></l><r>Sars’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Sartz<b/>gate<s n="np"/></l><r>Sartz<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Saturnus<b/>vei<s n="np"/></l><r>Saturnus<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Saturnvegen<s n="np"/></l><r>Saturnvegen<s n="np"/></r></p></e>
@@ -20154,7 +20154,7 @@ Pardef naming scheme:
 <e>       <p><l>Schouterrassen<s n="np"/></l><r>Schouterrassen<s n="np"/></r></p></e>
 <e>       <p><l>Schrøeters<b/>gate<s n="np"/></l><r>Schrøeters<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Schultzes<b/>gate<s n="np"/></l><r>Schultzes<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Schultz'<b/>gate<s n="np"/></l><r>Schultz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Schultz’<b/>gate<s n="np"/></l><r>Schultz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Schwabes<b/>gate<s n="np"/></l><r>Schwabes<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Schwachs<b/>gate<s n="np"/></l><r>Schwachs<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Schweigaards<b/>gate<s n="np"/></l><r>Schweigaards<b/>gate<s n="np"/></r></p></e>
@@ -20740,7 +20740,7 @@ Pardef naming scheme:
 <e>       <p><l>Sophus<b/>Lies<b/>gate<s n="np"/></l><r>Sophus<b/>Lies<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Sophus<b/>Lies<b/>vei<s n="np"/></l><r>Sophus<b/>Lies<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Sophus<b/>Pihls<b/>gate<s n="np"/></l><r>Sophus<b/>Pihls<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Sophus<b/>Aars'<b/>vei<s n="np"/></l><r>Sophus<b/>Aars'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Sophus<b/>Aars’<b/>vei<s n="np"/></l><r>Sophus<b/>Aars’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Sopphatten<s n="np"/></l><r>Sopphatten<s n="np"/></r></p></e>
 <e>       <p><l>Soppveien<s n="np"/></l><r>Soppveien<s n="np"/></r></p></e>
 <e>       <p><l>Sorgenfribakken<s n="np"/></l><r>Sorgenfribakken<s n="np"/></r></p></e>
@@ -20834,7 +20834,7 @@ Pardef naming scheme:
 <e>       <p><l>Stavnesveien<s n="np"/></l><r>Stavnesveien<s n="np"/></r></p></e>
 <e>       <p><l>Stavnumveien<s n="np"/></l><r>Stavnumveien<s n="np"/></r></p></e>
 <e>       <p><l>Stavsjøfjell<s n="np"/></l><r>Stavsjøfjell<s n="np"/></r></p></e>
-<e>       <p><l>St.<b/>Clemens'<b/>vei<s n="np"/></l><r>St.<b/>Clemens'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>St.<b/>Clemens’<b/>vei<s n="np"/></l><r>St.<b/>Clemens’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>St.<b/>Edmunds<b/>vei<s n="np"/></l><r>St.<b/>Edmunds<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Steens<b/>gate<s n="np"/></l><r>Steens<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Steenstrups<b/>gate<s n="np"/></l><r>Steenstrups<b/>gate<s n="np"/></r></p></e>
@@ -20842,7 +20842,7 @@ Pardef naming scheme:
 <e>       <p><l>Steganes<s n="np"/></l><r>Steganes<s n="np"/></r></p></e>
 <e>       <p><l>Steggen<s n="np"/></l><r>Steggen<s n="np"/></r></p></e>
 <e>       <p><l>Steinanes<s n="np"/></l><r>Steinanes<s n="np"/></r></p></e>
-<e>       <p><l>Steinar<b/>Nordaas'<b/>vei<s n="np"/></l><r>Steinar<b/>Nordaas'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Steinar<b/>Nordaas’<b/>vei<s n="np"/></l><r>Steinar<b/>Nordaas’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Steinbakken<s n="np"/></l><r>Steinbakken<s n="np"/></r></p></e>
 <e>       <p><l>Steinberg<s n="np"/></l><r>Steinberg<s n="np"/></r></p></e>
 <e>       <p><l>Steinbergveien<s n="np"/></l><r>Steinbergveien<s n="np"/></r></p></e>
@@ -20910,7 +20910,7 @@ Pardef naming scheme:
 <e>       <p><l>Stian<b/>Kristensens<b/>vei<s n="np"/></l><r>Stian<b/>Kristensens<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Stibakken<s n="np"/></l><r>Stibakken<s n="np"/></r></p></e>
 <e>       <p><l>Stien<s n="np"/></l><r>Stien<s n="np"/></r></p></e>
-<e>       <p><l>Stiftamtmann<b/>Kaas'<b/>vei<s n="np"/></l><r>Stiftamtmann<b/>Kaas'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Stiftamtmann<b/>Kaas’<b/>vei<s n="np"/></l><r>Stiftamtmann<b/>Kaas’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Stiganes<s n="np"/></l><r>Stiganes<s n="np"/></r></p></e>
 <e>       <p><l>Stigenga<s n="np"/></l><r>Stigenga<s n="np"/></r></p></e>
 <e>       <p><l>Stigengbakken<s n="np"/></l><r>Stigengbakken<s n="np"/></r></p></e>
@@ -21512,7 +21512,7 @@ Pardef naming scheme:
 <e>       <p><l>Toppåsveien<s n="np"/></l><r>Toppåsveien<s n="np"/></r></p></e>
 <e>       <p><l>Torbjørns<b/>veg<s n="np"/></l><r>Torbjørns<b/>veg<s n="np"/></r></p></e>
 <e>       <p><l>Torbjørns<b/>vei<s n="np"/></l><r>Torbjørns<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>Torborg<b/>Nedreaas'<b/>gate<s n="np"/></l><r>Torborg<b/>Nedreaas'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Torborg<b/>Nedreaas’<b/>gate<s n="np"/></l><r>Torborg<b/>Nedreaas’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Tordenskiolds<b/>gate<s n="np"/></l><r>Tordenskiolds<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Tordenskiolds<b/>plass<s n="np"/></l><r>Tordenskiolds<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Tordenskjoldsgate<s n="np"/></l><r>Tordenskjoldsgate<s n="np"/></r></p></e>
@@ -22096,7 +22096,7 @@ Pardef naming scheme:
 <e>       <p><l>Viktor<b/>Plahtes<b/>vei<s n="np"/></l><r>Viktor<b/>Plahtes<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Vilberggrenda<s n="np"/></l><r>Vilberggrenda<s n="np"/></r></p></e>
 <e>       <p><l>Vilbergveien<s n="np"/></l><r>Vilbergveien<s n="np"/></r></p></e>
-<e>       <p><l>Vilhelm<b/>Bjerknes'<b/>vei<s n="np"/></l><r>Vilhelm<b/>Bjerknes'<b/>vei<s n="np"/></r></p></e>
+<e>       <p><l>Vilhelm<b/>Bjerknes’<b/>vei<s n="np"/></l><r>Vilhelm<b/>Bjerknes’<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Villaveien<s n="np"/></l><r>Villaveien<s n="np"/></r></p></e>
 <e>       <p><l>Villvinveien<s n="np"/></l><r>Villvinveien<s n="np"/></r></p></e>
 <e>       <p><l>Vincens<b/>Lunges<b/>gate<s n="np"/></l><r>Vincens<b/>Lunges<b/>gate<s n="np"/></r></p></e>
@@ -22204,7 +22204,7 @@ Pardef naming scheme:
 <e>       <p><l>Wallemsskogen<s n="np"/></l><r>Wallemsskogen<s n="np"/></r></p></e>
 <e>       <p><l>Wallemsvikveien<s n="np"/></l><r>Wallemsvikveien<s n="np"/></r></p></e>
 <e>       <p><l>Washingtons<b/>vei<s n="np"/></l><r>Washingtons<b/>vei<s n="np"/></r></p></e>
-<e>       <p><l>W.A.<b/>Wexels'<b/>plass<s n="np"/></l><r>W.A.<b/>Wexels'<b/>plass<s n="np"/></r></p></e>
+<e>       <p><l>W.A.<b/>Wexels’<b/>plass<s n="np"/></l><r>W.A.<b/>Wexels’<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Wedel<b/>Jarlsbergs<b/>vei<s n="np"/></l><r>Wedel<b/>Jarlsbergs<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Wedels<b/>vei<s n="np"/></l><r>Wedels<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Weiss<b/>gate<s n="np"/></l><r>Weiss<b/>gate<s n="np"/></r></p></e>
@@ -22269,7 +22269,7 @@ Pardef naming scheme:
 <e>       <p><l>Zahlkasserer<b/>Schafts<b/>plass<s n="np"/></l><r>Zahlkasserer<b/>Schafts<b/>plass<s n="np"/></r></p></e>
 <e>       <p><l>Zakarines<b/>vei<s n="np"/></l><r>Zakarines<b/>vei<s n="np"/></r></p></e>
 <e>       <p><l>Zander<b/>Kaaes<b/>gate<s n="np"/></l><r>Zander<b/>Kaaes<b/>gate<s n="np"/></r></p></e>
-<e>       <p><l>Zetlitz'<b/>gate<s n="np"/></l><r>Zetlitz'<b/>gate<s n="np"/></r></p></e>
+<e>       <p><l>Zetlitz’<b/>gate<s n="np"/></l><r>Zetlitz’<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Zienersvingen<s n="np"/></l><r>Zienersvingen<s n="np"/></r></p></e>
 <e>       <p><l>Zinken<b/>Hopps<b/>gate<s n="np"/></l><r>Zinken<b/>Hopps<b/>gate<s n="np"/></r></p></e>
 <e>       <p><l>Zinoberstubben<s n="np"/></l><r>Zinoberstubben<s n="np"/></r></p></e>
@@ -24728,7 +24728,7 @@ Pardef naming scheme:
 
 <e>       <p><l>Hedman<s n="np"/></l>      <r>Hedman<s n="np"/></r></p></e>
 
-<e>       <p><l>d'or<s n="np"/></l>    <r>d'or<s n="np"/></r></p></e>
+<e>       <p><l>d’or<s n="np"/></l>    <r>d’or<s n="np"/></r></p></e>
 <e>       <p><l>Wikipedia<s n="np"/></l>    <r>Wikipedia<s n="np"/></r></p></e>
 <e>       <p><l>Wiktionary<s n="np"/></l>   <r>Wiktionary<s n="np"/></r></p></e>
 <e>       <p><l>Wikimedia<s n="np"/></l>    <r>Wikimedia<s n="np"/></r></p></e>
@@ -24788,7 +24788,7 @@ Pardef naming scheme:
 <e a="PT"><p><l>hmm<s n="ij"/></l>                  <r>hmm<s n="ij"/></r></p></e>
 <e a="PT"><p><l>ho<b/>ho<s n="ij"/></l>                <r>ho<b/>ho<s n="ij"/></r></p></e>
 <e a="PT"><p><l>hur<b/>då<s n="ij"/></l>                <r>hvordan<b/>det<s n="ij"/></r></p></e>
-<e a="PT"><p><l>hur<b/>sa<s n="ij"/></l>                <r>hvad<b/>beha'r<s n="ij"/></r></p></e>
+<e a="PT"><p><l>hur<b/>sa<s n="ij"/></l>                <r>hvad<b/>beha’r<s n="ij"/></r></p></e>
 <e a="PT"><p><l>hur<b/>som<b/>helst<s n="ij"/></l>                <r>i<b/>alle<b/>tillfelde<s n="ij"/></r></p></e>
 <e a="PT"><p><l>hur<b/>så<s n="ij"/></l>                <r>hvorfor<b/>det<s n="ij"/></r></p></e>
 <e a="PT"><p><l>hur<s n="ij"/></l>                <r>hvordan<s n="ij"/></r></p></e>
