@@ -94,7 +94,7 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix 
+$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
@@ -205,4 +205,3 @@ test: all
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
 	t/hash-count
-
