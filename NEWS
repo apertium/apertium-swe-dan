@@ -47,7 +47,7 @@ maskinoversættessystemet Apertium.
 Det er det første frie maskinoversættelsesystem mellem svensk og
 dansk.
 
-Det kan allerede nu bruges fra http://apertium.org/, men forhåbentlig
+Det kan allerede nu bruges fra https://apertium.org/, men forhåbentlig
 vil fællesskabet omkring fri software tage det til sig og snart gøre
 det tilgængeligt på bl.a. alle Linux-arbejdsstationer.
 
@@ -62,7 +62,7 @@ Francis Tyers (Universitat d'Alacant og Prompsit Language Engineering)
 og Jacob Nordfalk (Ingeniørhøjskolen i København).
 
 For nærmere oplysninger om udviklingen af sprogparret, se
-http://wiki.apertium.org/wiki/Swedish_and_Danish
+https://wiki.apertium.org/wiki/Swedish_and_Danish
 
 For mere information om apertium og GSOC, se
 http://socghop.appspot.com/org/home/google/gsoc2009/apertium.
@@ -107,7 +107,7 @@ and open-source Apertium machine translator engine.
 
 It's the first open source machine translator for Swedish and Danish.
 
-The pair is immediately available for testing at http://apertium.org/,
+The pair is immediately available for testing at https://apertium.org/,
 but will hopefully be adopted by the free-software community and be
 available on i.a. the Linux desktop.
 
@@ -129,7 +129,7 @@ Many thanks to Thyge Larsen for his assistance with post-edition and
 evaluation.
 
 For more details on development and the language pair, see
-http://wiki.apertium.org/wiki/Swedish_and_Danish
+https://wiki.apertium.org/wiki/Swedish_and_Danish
 
 
 Technical details
