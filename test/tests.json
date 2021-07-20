@@ -1,0 +1,30 @@
+{
+    "dan-swe-regression": {
+        "input": "dan-swe-regression-input.txt",
+        "mode": "dan-swe"
+    },
+    "swe-dan-contrastive_grammar": {
+        "input": "swe-dan-contrastive_grammar-input.txt",
+        "mode": "swe-dan"
+    },
+    "swe-dan-pending": {
+        "input": "swe-dan-pending-input.txt",
+        "mode": "swe-dan"
+    },
+    "swe-dan-regression": {
+        "input": "swe-dan-regression-input.txt",
+        "mode": "swe-dan"
+    },
+    "swe-dan": {
+        "input": "swe-dan-input.txt",
+        "mode": "swe-dan"
+    },
+    "dan-swe": {
+        "input": "dan-swe-input.txt",
+        "mode": "dan-swe"
+    },
+    "hash": {
+        "input": null,
+        "command": "test/hash-count.sh"
+    }
+}

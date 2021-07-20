@@ -1,0 +1,142 @@
+[-_e6CdpSpyT9#0] ^Ada/Ada<np><ant><f>/Ada<np><ant><f>$ ^har/ha<vblex><pres><actv>$ ^åkt/åka<vblex><supn><actv>/åka<adj><pp><nt><sg><ind>/åka<adj><pp><ut><sg><ind>$ ^till/till<cnjadv>/till<pr>$ ^Göteborg/Göteborg<np><top>/Göteborg<np><top>$
+[/-_e6CdpSpyT9]
+[05DGS4UN2Zs0#0] ^Den/den<det><dem><ut><sg>/den<prn><pers><p3><ut><sg><nom>/den<prn><pers><p3><ut><sg><acc>$ ^långa/långa<n><ut><sg><ind>/lång<adj><sint><pst><un><pl><ind>/lång<adj><sint><pst><un><pl><def>/lång<adj><sint><pst><fn><sg><def>/långa<n><ut><sg><ind>$ ^kvinnan/kvinna<n><ut><sg><def>/kvinna<n><ut><sg><def>$
+[/05DGS4UN2Zs0]
+[0OjKZVp3DsVB#0] ^Jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^talade/tala<vblex><past><actv>$ ^med/med<adv>/med<pr>/mede<n><ut><sg><ind>/mede<n><ut><sg><ind>$ ^Johan/Johan<np><ant><m>/Johan<np><ant><m>$ ^i går/igår<adv>$
+[/0OjKZVp3DsVB]
+[0oj1MnKbai3D#0] ^Kvinnor/kvinna<n><ut><pl><ind>/kvinna<n><ut><pl><ind>$ ^är/vara¹<vblex><pres><actv>$ ^långa/långa<n><ut><sg><ind>/lång<adj><sint><pst><un><pl><ind>/lång<adj><sint><pst><un><pl><def>/lång<adj><sint><pst><fn><sg><def>/långa<n><ut><sg><ind>$
+[/0oj1MnKbai3D]
+[0yZZovmeK9AI#0] ^Tågen/tåg<n><nt><pl><def>/tåg<n><nt><pl><def>$
+[/0yZZovmeK9AI]
+[2HUmWS4lEwBo#0] ^Några/någon<det><qnt><un><pl>/någon<prn><ind><un><pl><nom>/någon<prn><ind><un><pl><acc>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/2HUmWS4lEwBo]
+[3QksWqKElM-Z#0] ^Kan/kunna<vblex><pres><actv>$ ^vi/vi<prn><pers><p1><un><pl><nom>$ ^ha/ha<vblex><imp>/ha<vblex><inf><actv>$ ^rast/rast<n><ut><sg><ind>/rast<n><ut><sg><ind>$ ^om/om<cnjadv>/om<pr>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^timme/timme<n><ut><sg><ind>/timme<n><ut><sg><ind>$^?/?<sent>$
+[/3QksWqKElM-Z]
+[3vjZG8kkdGMC#0] ^Denna/denna<det><dem><ut><sg>/denna<prn><dem><ut><sg><nom>/denna<prn><dem><ut><sg><acc>$ ^katt/katt<n><ut><sg><ind>/katt<n><ut><sg><ind>$
+[/3vjZG8kkdGMC]
+[59up7rDI5F_O#0] ^Barnen/barn<n><nt><pl><def>/barn<n><nt><pl><def>$ ^är/vara¹<vblex><pres><actv>$ ^stora/stor<adj><sint><pst><un><pl><ind>/stor<adj><sint><pst><un><pl><def>/stor<adj><sint><pst><fn><sg><def>$
+[/59up7rDI5F_O]
+[5NakWybAnPVO#0] ^Dessa/denna<det><dem><un><pl>/denna<prn><dem><un><pl><nom>/denna<prn><dem><un><pl><acc>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/5NakWybAnPVO]
+[6FUuEB7OFH_x#0] ^En/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^kvinna/kvinna<n><ut><sg><ind>/kvinna<n><ut><sg><ind>$ ^är/vara¹<vblex><pres><actv>$ ^lång/lång<adj><sint><pst><ut><sg><ind>$
+[/6FUuEB7OFH_x]
+[7zz3UK2WKBOy#0] ^Kålle/*Kålle$ ^är/vara¹<vblex><pres><actv>$ ^trött/trött<adj><sint><pst><nt><sg><ind>/trött<adj><sint><pst><ut><sg><ind>$ ^på/på<adv>/på<pr>$ ^Ada/Ada<np><ant><f>/Ada<np><ant><f>$
+[/7zz3UK2WKBOy]
+[8pDYx5sugGNS#0] ^Den/den<det><dem><ut><sg>/den<prn><pers><p3><ut><sg><nom>/den<prn><pers><p3><ut><sg><acc>$ ^här/här<adv>/här<n><ut><sg><ind>/här<n><ut><sg><ind>$ ^katten/katt<n><ut><sg><def>/katt<n><ut><sg><def>$
+[/8pDYx5sugGNS]
+[9kUXDwnK0qcY#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^där/där<adv>/där<cnjsub>$ ^katterna/katt<n><ut><pl><def>/katt<n><ut><pl><def>$
+[/9kUXDwnK0qcY]
+[9knjR4BtXEcy#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^katterna/katt<n><ut><pl><def>/katt<n><ut><pl><def>$
+[/9knjR4BtXEcy]
+[9mdjcnc66N1-#0] ^Det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$ ^tåget/tåg<n><nt><sg><def>/tåg<n><nt><sg><def>$
+[/9mdjcnc66N1-]
+[AH9mj6ok5ywl#0] ^bröder/bror<n><ut><pl><ind>/bror<n><ut><pl><ind>/broder<n><ut><pl><ind>/broder<n><ut><pl><ind>$ ^emellan/emellan<adv>/emellan<pr>$
+[/AH9mj6ok5ywl]
+[AqIaTltjoSlC#0] ^Alla/all<prn><def><un><pl><nom>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/AqIaTltjoSlC]
+[BnxzCpSGX5Zs#0] ^Mina/min<det><pos><un><pl>/min<prn><pos><un><pl>$ ^föräldrar/förälder<n><ut><pl><ind>/förälder<n><ut><pl><ind>$ ^är/vara¹<vblex><pres><actv>$ ^skilda/skilja<adj><pp><pl><ind>/skilja<adj><pp><fn><sg><def>$
+[/BnxzCpSGX5Zs]
+[Kg6KjTUrJ9Dv#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^där/där<adv>/där<cnjsub>$ ^tågen/tåg<n><nt><pl><def>/tåg<n><nt><pl><def>$
+[/Kg6KjTUrJ9Dv]
+[KqdhZ8h1MJjX#0] ^Katten/katt<n><ut><sg><def>/katt<n><ut><sg><def>$
+[/KqdhZ8h1MJjX]
+[LHaA4vYbiX-N#0] ^Inget/ingen<det><qnt><nt><sg>/ingen<prn><ind><nt><sg><nom>/ingen<prn><ind><nt><sg><acc>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/LHaA4vYbiX-N]
+[MfMFBSqdy7-G#0] ^Många/mången<adj><sint><pst><un><pl><ind>/mången<adj><sint><pst><un><pl><def>/mången<adj><sint><pst><m><sg><def>/mången<adj><sint><pst><fn><sg><def>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/MfMFBSqdy7-G]
+[MkW38JbEuNKK#0] ^Barn/barn<n><nt><sg><ind>/barn<n><nt><pl><ind>/barn<n><nt><sg><ind>/barn<n><nt><pl><ind>$ ^är/vara¹<vblex><pres><actv>$ ^stora/stor<adj><sint><pst><un><pl><ind>/stor<adj><sint><pst><un><pl><def>/stor<adj><sint><pst><fn><sg><def>$
+[/MkW38JbEuNKK]
+[MlR9X76YScO_#0] ^riket/rike<n><nt><sg><def>/rike<n><nt><sg><def>$ ^runt/rund<adj><sint><pst><nt><sg><ind>$
+[/MlR9X76YScO_]
+[NC9KgIWbRR2f#0] ^Detta/denna<det><dem><nt><sg>/denna<prn><dem><nt><sg><nom>/denna<prn><dem><nt><sg><acc>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/NC9KgIWbRR2f]
+[NGu-_3Dm7_Gm#0] ^Mina/min<det><pos><un><pl>/min<prn><pos><un><pl>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/NGu-_3Dm7_Gm]
+[NQf2Inwsj2CG#0] ^Alla/all<prn><def><un><pl><nom>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/NQf2Inwsj2CG]
+[P0VQSoYsonEV#0] ^Många/mången<adj><sint><pst><un><pl><ind>/mången<adj><sint><pst><un><pl><def>/mången<adj><sint><pst><m><sg><def>/mången<adj><sint><pst><fn><sg><def>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/P0VQSoYsonEV]
+[PVsoBRI6vwLN#0] ^Det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$ ^här/här<adv>/här<n><ut><sg><ind>/här<n><ut><sg><ind>$ ^tåget/tåg<n><nt><sg><def>/tåg<n><nt><sg><def>$
+[/PVsoBRI6vwLN]
+[PaB_nbfZcHlb#0] ^Att/att<cnjsub>$ ^resa/resa<vblex><inf><actv>/resa<n><ut><sg><ind>/resa<n><ut><sg><ind>$ ^är/vara¹<vblex><pres><actv>$ ^att/att<cnjsub>$ ^leva/leva<vblex><inf><actv>$
+[/PaB_nbfZcHlb]
+[QRpokju_b-Ir#0] ^Här/här<adv>/här<n><ut><sg><ind>/här<n><ut><sg><ind>$ ^är/vara¹<vblex><pres><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^liten/liten<adj><sint><pst><ut><sg><ind>$ ^bok/bok<n><ut><sg><ind>/bok<n><ut><sg><ind>$^,/,<cm>/,<cm><clb>$ ^som/som<cnjsub>/som<pr>$ ^jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^skrivit/skriva<vblex><supn><actv>$ ^i/i<pr>$ ^sommar/sommar<n><ut><sg><ind>/sommar<n><ut><sg><ind>$
+[/QRpokju_b-Ir]
+[RnjJynDJV-IE#0] ^Katterna/katt<n><ut><pl><def>/katt<n><ut><pl><def>$
+[/RnjJynDJV-IE]
+[Sy8UqSImTY8Q#0] ^Jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^har/ha<vblex><pres><actv>$ ^talat/tala<vblex><supn><actv>$
+[/Sy8UqSImTY8Q]
+[T33Mup1p2oz1#0] ^Vi/vi<prn><pers><p1><un><pl><nom>$ ^ses/se<vblex><inf><pasv>/se<vblex><pres><pasv>$ ^på/på<adv>/på<pr>$ ^rasten/rast<n><ut><sg><def>/rast<n><ut><sg><def>$
+[/T33Mup1p2oz1]
+[WAaEesCIU8Lp#0] ^Kvinnan/kvinna<n><ut><sg><def>/kvinna<n><ut><sg><def>$ ^är/vara¹<vblex><pres><actv>$ ^lång/lång<adj><sint><pst><ut><sg><ind>$
+[/WAaEesCIU8Lp]
+[XpgP8MUTOqvF#0] ^Inga/ingen<det><qnt><un><pl>/ingen<prn><ind><un><pl><nom>/ingen<prn><ind><un><pl><acc>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/XpgP8MUTOqvF]
+[_vbCZ6CCGdH5#0] ^Ett/en<det><qnt><nt><sg>/en<det><ind><nt><sg>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/_vbCZ6CCGdH5]
+[a6gSf_uWgpMn#0] ^Det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$ ^är/vara¹<vblex><pres><actv>$ ^Ada/Ada<np><ant><f>/Ada<np><ant><f>$ ^jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^tänker/tänka<vblex><pres><actv>$ ^på/på<adv>/på<pr>$
+[/a6gSf_uWgpMn]
+[ajGXHtzr07kS#0] ^Långa/långa<n><ut><sg><ind>/lång<adj><sint><pst><un><pl><ind>/lång<adj><sint><pst><un><pl><def>/lång<adj><sint><pst><fn><sg><def>/långa<n><ut><sg><ind>$ ^kvinnor/kvinna<n><ut><pl><ind>/kvinna<n><ut><pl><ind>$
+[/ajGXHtzr07kS]
+[bT6lOzEeoM3K#0] ^Kålle/*Kålle$ ^är/vara¹<vblex><pres><actv>$ ^nöjd/nöjd<adj><sint><pst><ut><sg><ind>$ ^med/med<adv>/med<pr>/mede<n><ut><sg><ind>/mede<n><ut><sg><ind>$ ^Ada/Ada<np><ant><f>/Ada<np><ant><f>$
+[/bT6lOzEeoM3K]
+[bWaDCZJLz3CG#0] ^Jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^har/ha<vblex><pres><actv>$ ^ätit/äta<vblex><supn><actv>$ ^maten/mat<n><ut><sg><def>/mat<n><ut><sg><def>$
+[/bWaDCZJLz3CG]
+[bjVjHI2sb6l9#0] ^Kålle/*Kålle$ ^arbetar/arbeta<vblex><pres><actv>$ ^i/i<pr>$ ^Göteborg/Göteborg<np><top>/Göteborg<np><top>$
+[/bjVjHI2sb6l9]
+[fAT1-0lUmQNQ#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^stora/stor<adj><sint><pst><un><pl><ind>/stor<adj><sint><pst><un><pl><def>/stor<adj><sint><pst><fn><sg><def>$ ^barnen/barn<n><nt><pl><def>/barn<n><nt><pl><def>$
+[/fAT1-0lUmQNQ]
+[fMy4Mj17KpOe#0] ^Inga/ingen<det><qnt><un><pl>/ingen<prn><ind><un><pl><nom>/ingen<prn><ind><un><pl><acc>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/fMy4Mj17KpOe]
+[fYCNPVzEkdxc#0] ^Dessa/denna<det><dem><un><pl>/denna<prn><dem><un><pl><nom>/denna<prn><dem><un><pl><acc>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/fYCNPVzEkdxc]
+[hmOBtko-rJP2#0] ^Mitt/mitt<n><ut><sg><ind>/min<det><pos><nt><sg>/min<prn><pos><nt><sg>/mitt<n><ut><sg><ind>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/hmOBtko-rJP2]
+[iL92xHfIOqHH#0] ^Jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^åt/åt<pr>/äta<vblex><past><actv>$ ^maten/mat<n><ut><sg><def>/mat<n><ut><sg><def>$
+[/iL92xHfIOqHH]
+[i_pZ0oUH4_zD#0] ^Råttan/råtta<n><ut><sg><def>/råtta<n><ut><sg><def>$ ^dansar/dansa<vblex><pres><actv>$ ^på/på<adv>/på<pr>$ ^bordet/bord<n><nt><sg><def>/bord<n><nt><sg><def>$
+[/i_pZ0oUH4_zD]
+[jICqbbp2b-9h#0] ^Mina/min<det><pos><un><pl>/min<prn><pos><un><pl>$ ^katter/katt<n><ut><pl><ind>/katt<n><ut><pl><ind>$
+[/jICqbbp2b-9h]
+[jTIjD-RNdOqA#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^här/här<adv>/här<n><ut><sg><ind>/här<n><ut><sg><ind>$ ^katterna/katt<n><ut><pl><def>/katt<n><ut><pl><def>$
+[/jTIjD-RNdOqA]
+[k3CoLxFrZ98R#0] ^En/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^katt/katt<n><ut><sg><ind>/katt<n><ut><sg><ind>$
+[/k3CoLxFrZ98R]
+[nLjM2zUvLBVN#0] ^Tåget/tåg<n><nt><sg><def>/tåg<n><nt><sg><def>$
+[/nLjM2zUvLBVN]
+[niaBBqLukNQ4#0] ^Den/den<det><dem><ut><sg>/den<prn><pers><p3><ut><sg><nom>/den<prn><pers><p3><ut><sg><acc>$ ^där/där<adv>/där<cnjsub>$ ^katten/katt<n><ut><sg><def>/katt<n><ut><sg><def>$
+[/niaBBqLukNQ4]
+[of5OBPiXO1C-#0] ^Den/den<det><dem><ut><sg>/den<prn><pers><p3><ut><sg><nom>/den<prn><pers><p3><ut><sg><acc>$ ^katten/katt<n><ut><sg><def>/katt<n><ut><sg><def>$
+[/of5OBPiXO1C-]
+[rJGGsivpBP7M#0] ^Jag/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<n><nt><sg><ind>/jag<n><nt><pl><ind>/jag<prn><pers><p1><ut><sg><nom>$ ^hade/ha<vblex><past><actv>$ ^talat/tala<vblex><supn><actv>$
+[/rJGGsivpBP7M]
+[rjjKJdTcksz-#0] ^En/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^lång/lång<adj><sint><pst><ut><sg><ind>$ ^kvinna/kvinna<n><ut><sg><ind>/kvinna<n><ut><sg><ind>$
+[/rjjKJdTcksz-]
+[sBTqmozGzXS6#0] ^Min/min<det><pos><ut><sg>/min<n><ut><sg><ind>/min<prn><pos><ut><sg>/min<n><ut><sg><ind>$ ^katt/katt<n><ut><sg><ind>/katt<n><ut><sg><ind>$
+[/sBTqmozGzXS6]
+[sC0RzmUv7hDq#0] ^Min/min<det><pos><ut><sg>/min<n><ut><sg><ind>/min<prn><pos><ut><sg>/min<n><ut><sg><ind>$ ^fru/fru<n><ut><sg><ind>/fru<n><ut><sg><ind>$ ^har/ha<vblex><pres><actv>$ ^kommit/komma<vblex><supn><actv>$ ^hem/hem<adv>/hem<n><nt><sg><ind>/hem<n><nt><pl><ind>/hem<n><nt><sg><ind>/hem<n><nt><pl><ind>$
+[/sC0RzmUv7hDq]
+[sIh1pR-klf_l#0] ^Han/Han<np><cog>/Han<np><cog>/han<prn><pers><p3><m><sg><nom>$ ^svarade/svara<vblex><past><actv>/svara<adj><pp><pl><ind>/svara<adj><pp><fn><sg><def>$ ^inte/inte<adv>$
+[/sIh1pR-klf_l]
+[slhavf_5c5sT#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^var/vara¹<vblex><past><actv>/var<adv>$ ^alltid/alltid<adv>$ ^trötta/trött<adj><sint><pst><un><pl><ind>/trött<adj><sint><pst><un><pl><def>/trött<adj><sint><pst><fn><sg><def>$ ^före/före<pr>$ ^rasten/rast<n><ut><sg><def>/rast<n><ut><sg><def>$
+[/slhavf_5c5sT]
+[tJ-xaiMlm_ka#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^långa/långa<n><ut><sg><ind>/lång<adj><sint><pst><un><pl><ind>/lång<adj><sint><pst><un><pl><def>/lång<adj><sint><pst><fn><sg><def>/långa<n><ut><sg><ind>$ ^kvinnorna/kvinna<n><ut><pl><def>/kvinna<n><ut><pl><def>$
+[/tJ-xaiMlm_ka]
+[tU9CJdK1BN8r#0] ^Några/någon<det><qnt><un><pl>/någon<prn><ind><un><pl><nom>/någon<prn><ind><un><pl><acc>$ ^tåg/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>/tåg<n><nt><sg><ind>/tåg<n><nt><pl><ind>$
+[/tU9CJdK1BN8r]
+[umSE2sBZO53e#0] ^Kan/kunna<vblex><pres><actv>$ ^vi/vi<prn><pers><p1><un><pl><nom>$ ^ha/ha<vblex><imp>/ha<vblex><inf><actv>$ ^rast/rast<n><ut><sg><ind>/rast<n><ut><sg><ind>$ ^i/i<pr>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>/man<prn><pers><p3><un><sg><acc>$ ^timme/timme<n><ut><sg><ind>/timme<n><ut><sg><ind>$^?/?<sent>$
+[/umSE2sBZO53e]
+[vMf_RTjdbwmh#0] ^Musen/mus<n><ut><sg><def>/mus<n><ut><sg><def>$ ^dansar/dansa<vblex><pres><actv>$ ^under/under<pr>$ ^bordet/bord<n><nt><sg><def>/bord<n><nt><sg><def>$
+[/vMf_RTjdbwmh]
+[vxFrTdPdM9yn#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^tågen/tåg<n><nt><pl><def>/tåg<n><nt><pl><def>$
+[/vxFrTdPdM9yn]
+[wKzHXRscLpMN#0] ^De/De<np><cog>/de<np><attr>/De<np><cog>/den<det><dem><un><pl>/de<prn><pers><p3><un><pl><nom>$ ^här/här<adv>/här<n><ut><sg><ind>/här<n><ut><sg><ind>$ ^tågen/tåg<n><nt><pl><def>/tåg<n><nt><pl><def>$
+[/wKzHXRscLpMN]
+[x759bHKHNMUl#0] ^Ingen/ingen<det><qnt><ut><sg>/ingen<prn><ind><ut><sg><nom>/ingen<prn><ind><ut><sg><acc>$ ^katt/katt<n><ut><sg><ind>/katt<n><ut><sg><ind>$
+[/x759bHKHNMUl]
+[xHMH8r4rUCjD#0] ^Kvinnorna/kvinna<n><ut><pl><def>/kvinna<n><ut><pl><def>$ ^är/vara¹<vblex><pres><actv>$ ^långa/långa<n><ut><sg><ind>/lång<adj><sint><pst><un><pl><ind>/lång<adj><sint><pst><un><pl><def>/lång<adj><sint><pst><fn><sg><def>/långa<n><ut><sg><ind>$
+[/xHMH8r4rUCjD]
+[xs_qp7ys8fSJ#0] ^Kålle/*Kålle$ ^är/vara¹<vblex><pres><actv>$ ^glad/glad<adj><sint><pst><ut><sg><ind>$ ^över/över<pr>$ ^att/att<cnjsub>$ ^ha/ha<vblex><imp>/ha<vblex><inf><actv>$ ^träffat/träffa<vblex><supn><actv>/träffa<adj><pp><nt><sg><ind>$ ^Ada/Ada<np><ant><f>/Ada<np><ant><f>$
+[/xs_qp7ys8fSJ]
+[zEBCjoHajN1W#0] ^Det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$ ^där/där<adv>/där<cnjsub>$ ^tåget/tåg<n><nt><sg><def>/tåg<n><nt><sg><def>$
+[/zEBCjoHajN1W]

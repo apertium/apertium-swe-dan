@@ -1,0 +1,136 @@
+[0atejx3wIxqv#0] ^Jag<prn><pers><p1><ut><sg><nom>/Jeg<prn><pers><p1><ut><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/0atejx3wIxqv]
+[1Ov-_jhGGL_f#0] ^varm<adj><sint><pst><ut><sg><ind>/varm<adj><sint><pst><ut><sg><ind>$ ^*jakke/*jakke$
+[/1Ov-_jhGGL_f]
+[26CBXLKpNfCw#0] ^Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^söt<adj><sint><pst><ut><sg><ind>/sød<adj><sint><pst><ut><sg><ind>/værdifuld<adj><sint><pst><ut><sg><ind>$ ^hund<n><ut><sg><ind>/hund<n><ut><sg><ind>$ ^.<sent>/.<sent>$
+[/26CBXLKpNfCw]
+[2qNatFG97v2J#0] ^Hon<prn><pers><p3><f><sg><nom>/Hun<prn><pers><p3><f><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^bra<adv><pst>/godt<adv>$ ^i<pr>/i<pr>$ ^skola<n><ut><sg><def>/skole<n><ut><sg><def>$^.<sent>/.<sent>$
+[/2qNatFG97v2J]
+[3x6oody1CF4a#0] ^den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^hus<n><nt><sg><def>/hus<n><nt><sg><def>$
+[/3x6oody1CF4a]
+[4A1pqGx0Bd4Y#0] ^Vi<prn><pers><p1><un><pl><nom>/Vi<prn><pers><p1><un><pl><nom>$ ^ringa<vblex><pres><actv>/ringe<vblex><pres><actv>/kalde<vblex><pres><actv>/udringe<vblex><pres><actv>/hidkalde<vblex><pres><actv>/telefonere<vblex><pres><actv>$^.<sent>/.<sent>$
+[/4A1pqGx0Bd4Y]
+[6iWHL5KGLK1-#0] ^Du<prn><pers><p2><ut><sg><nom>/Du<prn><pers><p2><ut><sg><nom>$  ^arbeta<vblex><past><actv>/arbejde<vblex><past><actv>$^.<sent>/.<sent>$
+[/6iWHL5KGLK1-]
+[7bXlHbjZ04oH#0] ^*et/*et$ ^äpple<n><nt><sg><ind>/æble<n><nt><sg><ind>$
+[/7bXlHbjZ04oH]
+[9L2fiPc8qQFr#0] ^min<det><pos><ut><sg>/min<det><pos><ut><sg>$\/^mitt<n><ut><sg><ind>/midte<n><ut><sg><ind>$
+[/9L2fiPc8qQFr]
+[9XjnH1GlLsJ0#0] ^deras<prn><pos><un><pl>/deres<prn><pos><un><pl>$
+[/9XjnH1GlLsJ0]
+[B456rM0qDkxz#0] ^Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^söt<adj><sint><sup><un><sp><ind>/sød<adj><sint><sup><un><sp><ind>/værdifuld<adj><sint><sup><un><sp><ind>$^.<sent>/.<sent>$
+[/B456rM0qDkxz]
+[DBHEBT2_PFiV#0] ^hon<prn><pers><p3><f><sg><nom>/hun<prn><pers><p3><f><sg><nom>$
+[/DBHEBT2_PFiV]
+[E515MTBkoJt1#0] ^Vi<prn><pers><p1><un><pl><nom>/Vi<prn><pers><p1><un><pl><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/E515MTBkoJt1]
+[EdcEOb3gcPJH#0] ^Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^söt<adj><sint><comp><un><sp>/sød<adj><sint><comp><un><sp>/værdifuld<adj><sint><comp><un><sp>$^.<sent>/.<sent>$
+[/EdcEOb3gcPJH]
+[EjwsMdPw1UuS#0] ^på<pr>/på<pr>/frempå<pr>$ ^stol<n><ut><sg><def>/stol<n><ut><sg><def>$
+[/EjwsMdPw1UuS]
+[ErevUFuUD4Ra#0] ^din<prn><pos><ut><sg>/din<prn><pos><ut><sg>$\/^din<prn><pos><nt><sg>/din<prn><pos><nt><sg>$
+[/ErevUFuUD4Ra]
+[F6diIRFWVQQO#0] ^vänlig<adj><sint><pst><nt><sg><ind>/venlig<adj><sint><pst><nt><sg><ind>/venskabelig<adj><sint><pst><nt><sg><ind>$
+[/F6diIRFWVQQO]
+[IJfH1YHXpW92#0] ^Jag<prn><pers><p1><ut><sg><nom>/Jeg<prn><pers><p1><ut><sg><nom>$ ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/IJfH1YHXpW92]
+[IUgYYMFc9Bq3#0] ^*sorte/*sorte$ ^hund<n><ut><sg><ind>/hund<n><ut><sg><ind>$
+[/IUgYYMFc9Bq3]
+[IYEWF6VHHhOd#0] ^hund<n><ut><sg><def>/hund<n><ut><sg><def>$
+[/IYEWF6VHHhOd]
+[Jb9StVxm_RA9#0] ^Han<np><cog>/Han<np><cog>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/Jb9StVxm_RA9]
+[KCaurexlNcv5#0] ^*et/*et$ ^hus<n><nt><sg><ind>/hus<n><nt><sg><ind>$
+[/KCaurexlNcv5]
+[LgBhMutxrkNn#0] ^Ni<prn><pers><p2><un><pl><nom>/I<prn><pers><p2><un><pl><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/LgBhMutxrkNn]
+[MMwSwq6fr-_i#0] ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^banan<n><ut><sg><ind>/banan<n><ut><sg><ind>$
+[/MMwSwq6fr-_i]
+[MYNGusR2LhZQ#0] ^vänlig<adj><sint><pst><ut><sg><ind>/venlig<adj><sint><pst><ut><sg><ind>/venskabelig<adj><sint><pst><ut><sg><ind>$
+[/MYNGusR2LhZQ]
+[MgwDPiza0rFU#0] ^frimärke<n><nt><sg><def>/frimærke<n><nt><sg><def>$
+[/MgwDPiza0rFU]
+[OvzBhTTmJia6#0] ^*uframför/*uframför$ ^hus<n><nt><sg><def>/hus<n><nt><sg><def>$
+[/OvzBhTTmJia6]
+[OykKd1RR0Ody#0] ^stol<n><ut><sg><def><gen>/stol<n><ut><sg><def><gen>$ ^ben<n><nt><sg><ind>/ben<n><nt><sg><ind>$
+[/OykKd1RR0Ody]
+[PacJj5M5-akf#0] ^Du<prn><pers><p2><ut><sg><nom>/Du<prn><pers><p2><ut><sg><nom>$  ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/PacJj5M5-akf]
+[QQ_ZsZ9nF81H#0] ^dess<adv>/da<adv>/jo<adv>$
+[/QQ_ZsZ9nF81H]
+[QUP-3X59EOP7#0] ^Han<np><cog>/Han<np><cog>$ ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/QUP-3X59EOP7]
+[SHQwxwDsCmmA#0] ^hus<n><nt><sg><def>/hus<n><nt><sg><def>$
+[/SHQwxwDsCmmA]
+[SQxdk6zclXc6#0] ^De<np><cog>/De<np><cog>/De<np><cog>$ ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/SQxdk6zclXc6]
+[Sr20hEpdiCcu#0] ^en<det><ind><nt><sg>/en<det><ind><nt><sg>$ ^stor<adj><sint><pst><nt><sg><ind>/stor<adj><sint><pst><nt><sg><ind>$ ^hus<n><nt><sg><ind>/hus<n><nt><sg><ind>$
+[/Sr20hEpdiCcu]
+[TDjNlzTGaDJk#0] ^Jag<prn><pers><p1><ut><sg><nom>/Jeg<prn><pers><p1><ut><sg><nom>$ ^arbeta<vblex><pres><actv>/arbejde<vblex><pres><actv>$^.<sent>/.<sent>$
+[/TDjNlzTGaDJk]
+[TbA6J3z7nvTG#0] ^ni<prn><pers><p2><un><pl><nom>/i<prn><pers><p2><un><pl><nom>$
+[/TbA6J3z7nvTG]
+[V1qiizknclHo#0] ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^stor<adj><sint><pst><ut><sg><ind>/stor<adj><sint><pst><ut><sg><ind>$ ^bil<n><ut><sg><ind>/bil<n><ut><sg><ind>$
+[/V1qiizknclHo]
+[WNmHQhIhatHa#0] ^Min<det><pos><ut><sg>/Min<det><pos><ut><sg>$ ^pappa<n><ut><sg><ind>/pappa<n><ut><sg><ind>/far<n><ut><sg><ind>/spor<n><nt><sg><ind>$ ^jobba<vblex><pres><actv>/arbejde<vblex><pres><actv>$^.<sent>/.<sent>$
+[/WNmHQhIhatHa]
+[YBssJHOBGv6n#0] ^du<prn><pers><p2><ut><sg><nom>/du<prn><pers><p2><ut><sg><nom>$
+[/YBssJHOBGv6n]
+[YaG-adSpuh5b#0] ^jag<prn><pers><p1><ut><sg><nom>/jeg<prn><pers><p1><ut><sg><nom>$
+[/YaG-adSpuh5b]
+[ZCio-7sOEgUo#0] ^hans<prn><pos><un><pl>/hans<prn><pos><un><pl>$
+[/ZCio-7sOEgUo]
+[aAYWzzLGqcsB#0] ^vår<n><ut><sg><ind>/forår<n><nt><sg><ind>$\/^vår<det><pos><nt><sg>/vores<det><pos><nt><sg>$
+[/aAYWzzLGqcsB]
+[acA7ZPtL7OEG#0] ^*et/*et$ ^frimärke<n><nt><sg><ind>/frimærke<n><nt><sg><ind>$
+[/acA7ZPtL7OEG]
+[bMptK3QoHQ7l#0] ^Min<det><pos><ut><sg>/Min<det><pos><ut><sg>$ ^mamma<n><ut><sg><ind>/mamma<n><ut><sg><ind>/mor<n><ut><sg><ind>$ ^gå<vblex><pres><actv>/gå<vblex><pres><actv>/tage<vblex><pres><actv>/fare<vblex><pres><actv>/detachere<vblex><pres><actv>/genindføre<vblex><pres><actv>$ ^till<pr>/til<pr>/mod<pr>$ ^skola<n><ut><sg><def>/skole<n><ut><sg><def>$^.<sent>/.<sent>$
+[/bMptK3QoHQ7l]
+[bYHkIuXhvs4l#0] ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>/hund<n><ut><sg><ind>$
+[/bYHkIuXhvs4l]
+[bbsy2ZnuvVro#0] ^den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$ ^stol<n><ut><sg><def>/stol<n><ut><sg><def>$
+[/bbsy2ZnuvVro]
+[caQ-DMAfFjTf#0] ^De<np><cog>/De<np><cog>/De<np><cog>$ ^vara¹<vblex><pres><actv>/være<vbser><pres><actv>$^.<sent>/.<sent>$
+[/caQ-DMAfFjTf]
+[f68ipmVWy5Aj#0] ^jag<prn><pers><p1><ut><sg><nom>/jeg<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>/se<vblex><pres><actv>/tjekke<vblex><pres><actv>/checke<vblex><pres><actv>$ ^hus<n><nt><sg><def>/hus<n><nt><sg><def>$
+[/f68ipmVWy5Aj]
+[gBDYvENqY5Jx#0] ^Ni<prn><pers><p2><un><pl><nom>/I<prn><pers><p2><un><pl><nom>$ ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/gBDYvENqY5Jx]
+[gvEYdcE9_-Vr#0] ^banan<n><ut><sg><def>/banan<n><ut><sg><def>$
+[/gvEYdcE9_-Vr]
+[i4cla0uFssqj#0] ^ni<prn><pers><p2><un><pl><acc>/i<prn><pers><p2><un><pl><acc>$\/^er<det><pos><nt><sg>/jeres<det><pos><nt><sg>$
+[/i4cla0uFssqj]
+[iVeeAI-hwML3#0] ^*hendes/*hendes$
+[/iVeeAI-hwML3]
+[jXe4pvCN7BAn#0] ^Jag<prn><pers><p1><ut><sg><nom>/Jeg<prn><pers><p1><ut><sg><nom>$ ^ha<vblex><pres><actv>/have<vbhaver><pres><actv>$ ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>/hund<n><ut><sg><ind>$^.<sent>/.<sent>$
+[/jXe4pvCN7BAn]
+[jom5tWbL7t6q#0] ^vacker<adj><sint><pst><nt><sg><ind>/smuk<adj><sint><pst><nt><sg><ind>/pæn<adj><sint><pst><nt><sg><ind>$
+[/jom5tWbL7t6q]
+[lZpF1E5vz1g2#0] ^den<det><dem><un><pl>/den<det><dem><un><pl>$
+[/lZpF1E5vz1g2]
+[lmAlt4L2Ap4i#0] ^hus<n><nt><sg><def><gen>/hus<n><nt><sg><def><gen>$ ^dörr<n><ut><sg><ind>/dør<n><ut><sg><ind>$
+[/lmAlt4L2Ap4i]
+[lxJEFKblbNCC#0] ^den<prn><pers><p3><ut><sg><nom>/den<prn><pers><p3><ut><sg><nom>$\/^den<det><dem><nt><sg>/den<det><dem><nt><sg>$
+[/lxJEFKblbNCC]
+[lzGqBN7A3Zeg#0] ^vacker<adj><sint><pst><ut><sg><ind>/smuk<adj><sint><pst><ut><sg><ind>/pæn<adj><sint><pst><ut><sg><ind>$
+[/lzGqBN7A3Zeg]
+[mleijWoCYcGE#0] ^Du<prn><pers><p2><ut><sg><nom>/Du<prn><pers><p2><ut><sg><nom>$  ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/mleijWoCYcGE]
+[qKPBP1kpGVdI#0] ^*whid/*whid$ ^tavla<n><ut><sg><ind>/tavle<n><ut><sg><ind>$
+[/qKPBP1kpGVdI]
+[qwNYz9EC0-8r#0] ^Han<np><cog>/Han<np><cog>$ ^*g/*g$﻿^år<n><nt><sg><ind>/år<n><nt><sg><ind>$ ^*hjem/*hjem$^.<sent>/.<sent>$
+[/qwNYz9EC0-8r]
+[sVAgz4xLpOL9#0] ^Vi<prn><pers><p1><un><pl><nom>/Vi<prn><pers><p1><un><pl><nom>$  ^vara¹<vblex><past><actv>/være<vbser><past><actv>$^.<sent>/.<sent>$
+[/sVAgz4xLpOL9]
+[uAtoFWuzyZNj#0] ^äpple<n><nt><sg><def>/æble<n><nt><sg><def>$
+[/uAtoFWuzyZNj]
+[wP-T6oknpzZt#0] ^vi<prn><pers><p1><un><pl><nom>/vi<prn><pers><p1><un><pl><nom>$
+[/wP-T6oknpzZt]
+[wPHm5fJa6BeE#0] ^Ni<prn><pers><p2><un><pl><nom>/I<prn><pers><p2><un><pl><nom>$ ^*ringede/*ringede$^.<sent>/.<sent>$
+[/wPHm5fJa6BeE]
+[wQaIooUS4VUG#0] ^han<prn><pers><p3><m><sg><nom>/han<prn><pers><p3><m><sg><nom>$
+[/wQaIooUS4VUG]
+[wi3YnUK8D6PM#0] ^jag<prn><pers><p1><ut><sg><nom>/jeg<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>/se<vblex><pres><actv>/tjekke<vblex><pres><actv>/checke<vblex><pres><actv>$ ^stol<n><ut><sg><def>/stol<n><ut><sg><def>$
+[/wi3YnUK8D6PM]
+[zvRgssxqPzfe#0] ^Eftersom<cnjsub>/Eftersom<cnjsub>/Fordi<cnjsub>$ ^jag<prn><pers><p1><ut><sg><nom>/jeg<prn><pers><p1><ut><sg><nom>$ ^inte<adv>/ikke<adv>$ ^kunna<vblex><pres><actv>/kunne<vbmod><pres><actv>$ ^sjunga<vblex><inf><actv>/synge<vblex><inf><actv>$^,<cm>/,<cm>$ ^jag<prn><pers><p1><ut><sg><nom>/jeg<prn><pers><p1><ut><sg><nom>$ ^delta<vblex><pres><actv>/deltage<vblex><pres><actv>/besørge<vblex><pres><actv>/tilslutte<vblex><pres><actv>$ ^i<pr>/i<pr>$ ^en<det><ind><ut><sg>/en<det><ind><ut><sg>$ ^kur<n><ut><sg><ind><gen>/kur<n><ut><sg><ind><gen>$^.<sent>/.<sent>$
+[/zvRgssxqPzfe]

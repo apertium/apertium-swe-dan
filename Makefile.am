@@ -197,11 +197,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "jag är inte svensk" | apertium -d . swe-dan | tee .test-mt
-	@echo "jeg er ikke svensk" > .test-ref
-	@diff .test-ref .test-mt
-	echo "rød grød med fløde" | apertium -d . dan-swe | tee .test-mt
-	@echo "röd gröt med grädde" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
-	t/hash-count
+	apertium-regtest test

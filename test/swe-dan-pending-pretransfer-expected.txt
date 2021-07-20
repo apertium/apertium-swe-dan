@@ -1,0 +1,142 @@
+[-_e6CdpSpyT9#0] ^Ada<np><ant><f>$ ^ha<vblex><pres><actv>$ ^åka<vblex><supn><actv>$ ^till<pr>$ ^Göteborg<np><top>$
+[/-_e6CdpSpyT9]
+[05DGS4UN2Zs0#0] ^Den<det><dem><ut><sg>$ ^lång<adj><sint><pst><fn><sg><def>$ ^kvinna<n><ut><sg><def>$
+[/05DGS4UN2Zs0]
+[0OjKZVp3DsVB#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^tala<vblex><past><actv>$ ^med<pr>$ ^Johan<np><ant><m>$ ^igår<adv>$
+[/0OjKZVp3DsVB]
+[0oj1MnKbai3D#0] ^Kvinna<n><ut><pl><ind>$ ^vara¹<vblex><pres><actv>$ ^lång<adj><sint><pst><un><pl><ind>$
+[/0oj1MnKbai3D]
+[0yZZovmeK9AI#0] ^Tåg<n><nt><pl><def>$
+[/0yZZovmeK9AI]
+[2HUmWS4lEwBo#0] ^Någon<det><qnt><un><pl>$ ^katt<n><ut><pl><ind>$
+[/2HUmWS4lEwBo]
+[3QksWqKElM-Z#0] ^Kunna<vblex><pres><actv>$ ^vi<prn><pers><p1><un><pl><nom>$ ^ha<vblex><inf><actv>$ ^rast<n><ut><sg><ind>$ ^om<pr>$ ^en<det><ind><ut><sg>$ ^timme<n><ut><sg><ind>$^?<sent>$
+[/3QksWqKElM-Z]
+[3vjZG8kkdGMC#0] ^Denna<det><dem><ut><sg>$ ^katt<n><ut><sg><ind>$
+[/3vjZG8kkdGMC]
+[59up7rDI5F_O#0] ^Barn<n><nt><pl><def>$ ^vara¹<vblex><pres><actv>$ ^stor<adj><sint><pst><un><pl><ind>$
+[/59up7rDI5F_O]
+[5NakWybAnPVO#0] ^Denna<det><dem><un><pl>$ ^tåg<n><nt><sg><ind>$
+[/5NakWybAnPVO]
+[6FUuEB7OFH_x#0] ^En<det><ind><ut><sg>$ ^kvinna<n><ut><sg><ind>$ ^vara¹<vblex><pres><actv>$ ^lång<adj><sint><pst><ut><sg><ind>$
+[/6FUuEB7OFH_x]
+[7zz3UK2WKBOy#0] ^*Kålle$ ^vara¹<vblex><pres><actv>$ ^trött<adj><sint><pst><nt><sg><ind>$ ^på<pr>$ ^Ada<np><ant><f>$
+[/7zz3UK2WKBOy]
+[8pDYx5sugGNS#0] ^Den<det><dem><ut><sg>$ ^här<n><ut><sg><ind>$ ^katt<n><ut><sg><def>$
+[/8pDYx5sugGNS]
+[9kUXDwnK0qcY#0] ^De<np><cog>$ ^där<cnjsub>$ ^katt<n><ut><pl><def>$
+[/9kUXDwnK0qcY]
+[9knjR4BtXEcy#0] ^De<np><cog>$ ^katt<n><ut><pl><def>$
+[/9knjR4BtXEcy]
+[9mdjcnc66N1-#0] ^Den<det><dem><nt><sg>$ ^tåg<n><nt><sg><def>$
+[/9mdjcnc66N1-]
+[AH9mj6ok5ywl#0] ^bror<n><ut><pl><ind>$ ^emellan<pr>$
+[/AH9mj6ok5ywl]
+[AqIaTltjoSlC#0] ^All<prn><def><un><pl><nom>$ ^tåg<n><nt><sg><ind>$
+[/AqIaTltjoSlC]
+[BnxzCpSGX5Zs#0] ^Min<det><pos><un><pl>$ ^förälder<n><ut><pl><ind>$ ^vara¹<vblex><pres><actv>$ ^skilja<adj><pp><pl><ind>$
+[/BnxzCpSGX5Zs]
+[Kg6KjTUrJ9Dv#0] ^De<np><cog>$ ^där<cnjsub>$ ^tåg<n><nt><pl><def>$
+[/Kg6KjTUrJ9Dv]
+[KqdhZ8h1MJjX#0] ^Katt<n><ut><sg><def>$
+[/KqdhZ8h1MJjX]
+[LHaA4vYbiX-N#0] ^Ingen<det><qnt><nt><sg>$ ^tåg<n><nt><sg><ind>$
+[/LHaA4vYbiX-N]
+[MfMFBSqdy7-G#0] ^Mången<adj><sint><pst><un><pl><ind>$ ^tåg<n><nt><pl><ind>$
+[/MfMFBSqdy7-G]
+[MkW38JbEuNKK#0] ^Barn<n><nt><sg><ind>$ ^vara¹<vblex><pres><actv>$ ^stor<adj><sint><pst><un><pl><ind>$
+[/MkW38JbEuNKK]
+[MlR9X76YScO_#0] ^rike<n><nt><sg><def>$ ^rund<adj><sint><pst><nt><sg><ind>$
+[/MlR9X76YScO_]
+[NC9KgIWbRR2f#0] ^Denna<det><dem><nt><sg>$ ^tåg<n><nt><sg><ind>$
+[/NC9KgIWbRR2f]
+[NGu-_3Dm7_Gm#0] ^Min<det><pos><un><pl>$ ^tåg<n><nt><pl><ind>$
+[/NGu-_3Dm7_Gm]
+[NQf2Inwsj2CG#0] ^All<prn><def><un><pl><nom>$ ^katt<n><ut><pl><ind>$
+[/NQf2Inwsj2CG]
+[P0VQSoYsonEV#0] ^Mången<adj><sint><pst><un><pl><ind>$ ^katt<n><ut><pl><ind>$
+[/P0VQSoYsonEV]
+[PVsoBRI6vwLN#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^här<adv>$ ^tåg<n><nt><sg><def>$
+[/PVsoBRI6vwLN]
+[PaB_nbfZcHlb#0] ^Att<cnjsub>$ ^resa<vblex><inf><actv>$ ^vara¹<vblex><pres><actv>$ ^att<cnjsub>$ ^leva<vblex><inf><actv>$
+[/PaB_nbfZcHlb]
+[QRpokju_b-Ir#0] ^Här<adv>$ ^vara¹<vblex><pres><actv>$ ^en<det><ind><ut><sg>$ ^liten<adj><sint><pst><ut><sg><ind>$ ^bok<n><ut><sg><ind>$^,<cm>$ ^som<pr>$ ^jag<prn><pers><p1><ut><sg><nom>$ ^skriva<vblex><supn><actv>$ ^i<pr>$ ^sommar<n><ut><sg><ind>$
+[/QRpokju_b-Ir]
+[RnjJynDJV-IE#0] ^Katt<n><ut><pl><def>$
+[/RnjJynDJV-IE]
+[Sy8UqSImTY8Q#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^ha<vblex><pres><actv>$ ^tala<vblex><supn><actv>$
+[/Sy8UqSImTY8Q]
+[T33Mup1p2oz1#0] ^Vi<prn><pers><p1><un><pl><nom>$ ^se<vblex><pres><pasv>$ ^på<pr>$ ^rast<n><ut><sg><def>$
+[/T33Mup1p2oz1]
+[WAaEesCIU8Lp#0] ^Kvinna<n><ut><sg><def>$ ^vara¹<vblex><pres><actv>$ ^lång<adj><sint><pst><ut><sg><ind>$
+[/WAaEesCIU8Lp]
+[XpgP8MUTOqvF#0] ^Ingen<det><qnt><un><pl>$ ^tåg<n><nt><pl><ind>$
+[/XpgP8MUTOqvF]
+[_vbCZ6CCGdH5#0] ^En<det><ind><nt><sg>$ ^tåg<n><nt><sg><ind>$
+[/_vbCZ6CCGdH5]
+[a6gSf_uWgpMn#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^Ada<np><ant><f>$ ^jag<prn><pers><p1><ut><sg><nom>$ ^tänka<vblex><pres><actv>$ ^på<pr>$
+[/a6gSf_uWgpMn]
+[ajGXHtzr07kS#0] ^Lång<adj><sint><pst><un><pl><ind>$ ^kvinna<n><ut><pl><ind>$
+[/ajGXHtzr07kS]
+[bT6lOzEeoM3K#0] ^*Kålle$ ^vara¹<vblex><pres><actv>$ ^nöjd<adj><sint><pst><ut><sg><ind>$ ^med<pr>$ ^Ada<np><ant><f>$
+[/bT6lOzEeoM3K]
+[bWaDCZJLz3CG#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^ha<vblex><pres><actv>$ ^äta<vblex><supn><actv>$ ^mat<n><ut><sg><def>$
+[/bWaDCZJLz3CG]
+[bjVjHI2sb6l9#0] ^*Kålle$ ^arbeta<vblex><pres><actv>$ ^i<pr>$ ^Göteborg<np><top>$
+[/bjVjHI2sb6l9]
+[fAT1-0lUmQNQ#0] ^De<np><cog>$ ^stor<adj><sint><pst><un><pl><ind>$ ^barn<n><nt><pl><def>$
+[/fAT1-0lUmQNQ]
+[fMy4Mj17KpOe#0] ^Ingen<det><qnt><un><pl>$ ^katt<n><ut><pl><ind>$
+[/fMy4Mj17KpOe]
+[fYCNPVzEkdxc#0] ^Denna<det><dem><un><pl>$ ^katt<n><ut><pl><ind>$
+[/fYCNPVzEkdxc]
+[hmOBtko-rJP2#0] ^Min<det><pos><nt><sg>$ ^tåg<n><nt><sg><ind>$
+[/hmOBtko-rJP2]
+[iL92xHfIOqHH#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^åt<pr>$ ^mat<n><ut><sg><def>$
+[/iL92xHfIOqHH]
+[i_pZ0oUH4_zD#0] ^Råtta<n><ut><sg><def>$ ^dansa<vblex><pres><actv>$ ^på<pr>$ ^bord<n><nt><sg><def>$
+[/i_pZ0oUH4_zD]
+[jICqbbp2b-9h#0] ^Min<det><pos><un><pl>$ ^katt<n><ut><pl><ind>$
+[/jICqbbp2b-9h]
+[jTIjD-RNdOqA#0] ^De<np><cog>$ ^här<adv>$ ^katt<n><ut><pl><def>$
+[/jTIjD-RNdOqA]
+[k3CoLxFrZ98R#0] ^En<det><ind><ut><sg>$ ^katt<n><ut><sg><ind>$
+[/k3CoLxFrZ98R]
+[nLjM2zUvLBVN#0] ^Tåg<n><nt><sg><def>$
+[/nLjM2zUvLBVN]
+[niaBBqLukNQ4#0] ^Den<prn><pers><p3><ut><sg><nom>$ ^där<adv>$ ^katt<n><ut><sg><def>$
+[/niaBBqLukNQ4]
+[of5OBPiXO1C-#0] ^Den<det><dem><ut><sg>$ ^katt<n><ut><sg><def>$
+[/of5OBPiXO1C-]
+[rJGGsivpBP7M#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^ha<vblex><past><actv>$ ^tala<vblex><supn><actv>$
+[/rJGGsivpBP7M]
+[rjjKJdTcksz-#0] ^En<det><ind><ut><sg>$ ^lång<adj><sint><pst><ut><sg><ind>$ ^kvinna<n><ut><sg><ind>$
+[/rjjKJdTcksz-]
+[sBTqmozGzXS6#0] ^Min<det><pos><ut><sg>$ ^katt<n><ut><sg><ind>$
+[/sBTqmozGzXS6]
+[sC0RzmUv7hDq#0] ^Min<det><pos><ut><sg>$ ^fru<n><ut><sg><ind>$ ^ha<vblex><pres><actv>$ ^komma<vblex><supn><actv>$ ^hem<adv>$
+[/sC0RzmUv7hDq]
+[sIh1pR-klf_l#0] ^Han<np><cog>$ ^svara<vblex><past><actv>$ ^inte<adv>$
+[/sIh1pR-klf_l]
+[slhavf_5c5sT#0] ^De<np><cog>$ ^vara¹<vblex><past><actv>$ ^alltid<adv>$ ^trött<adj><sint><pst><un><pl><ind>$ ^före<pr>$ ^rast<n><ut><sg><def>$
+[/slhavf_5c5sT]
+[tJ-xaiMlm_ka#0] ^De<np><cog>$ ^lång<adj><sint><pst><un><pl><ind>$ ^kvinna<n><ut><pl><def>$
+[/tJ-xaiMlm_ka]
+[tU9CJdK1BN8r#0] ^Någon<det><qnt><un><pl>$ ^tåg<n><nt><pl><ind>$
+[/tU9CJdK1BN8r]
+[umSE2sBZO53e#0] ^Kunna<vblex><pres><actv>$ ^vi<prn><pers><p1><un><pl><nom>$ ^ha<vblex><inf><actv>$ ^rast<n><ut><sg><ind>$ ^i<pr>$ ^en<det><ind><ut><sg>$ ^timme<n><ut><sg><ind>$^?<sent>$
+[/umSE2sBZO53e]
+[vMf_RTjdbwmh#0] ^Mus<n><ut><sg><def>$ ^dansa<vblex><pres><actv>$ ^under<pr>$ ^bord<n><nt><sg><def>$
+[/vMf_RTjdbwmh]
+[vxFrTdPdM9yn#0] ^De<np><cog>$ ^tåg<n><nt><pl><def>$
+[/vxFrTdPdM9yn]
+[wKzHXRscLpMN#0] ^De<np><cog>$ ^här<adv>$ ^tåg<n><nt><pl><def>$
+[/wKzHXRscLpMN]
+[x759bHKHNMUl#0] ^Ingen<det><qnt><ut><sg>$ ^katt<n><ut><sg><ind>$
+[/x759bHKHNMUl]
+[xHMH8r4rUCjD#0] ^Kvinna<n><ut><pl><def>$ ^vara¹<vblex><pres><actv>$ ^lång<adj><sint><pst><un><pl><ind>$
+[/xHMH8r4rUCjD]
+[xs_qp7ys8fSJ#0] ^*Kålle$ ^vara¹<vblex><pres><actv>$ ^glad<adj><sint><pst><ut><sg><ind>$ ^över<pr>$ ^att<cnjsub>$ ^ha<vblex><inf><actv>$ ^träffa<vblex><supn><actv>$ ^Ada<np><ant><f>$
+[/xs_qp7ys8fSJ]
+[zEBCjoHajN1W#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^där<adv>$ ^tåg<n><nt><sg><def>$
+[/zEBCjoHajN1W]

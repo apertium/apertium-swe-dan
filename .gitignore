@@ -14,3 +14,15 @@
 /modes/
 /swe-dan.prob
 /dev/testvoc/__pycache__/
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/autom4te.cache
+/modes
+/*.mode
+/.deps
+/config.in
+/config
+/test/*-output.txt

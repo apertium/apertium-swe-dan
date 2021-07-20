@@ -1,0 +1,130 @@
+[-0PB7hF1I7_8#0] ^Det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^elefant<n><ut><sg><ind>$}$
+[/-0PB7hF1I7_8]
+[-LzLgJK1y2Kn#0] ^adj<adj><pst><un><pl><ind>{^amerikansk<adj><pst><un><pl><ind>$}$
+[/-LzLgJK1y2Kn]
+[-_UnLwriyFBv#0] ^Det<det><ind><nt><sg>{^en<det><ind><nt><sg>$}$ ^adj_n<n><ut><sg><ind>{^stor<adj><sint><pst><ut><sg><ind>$ ^løve<n><ut><sg><ind>$}$
+[/-_UnLwriyFBv]
+[1pT8zGRIeqjI#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/1pT8zGRIeqjI]
+[2J0F5KqUqZ-l#0] ^Det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^adj_n<n><ut><sg><ind>{^stor<adj><sint><pst><ut><sg><ind>$ ^elefant<n><ut><sg><ind>$}$
+[/2J0F5KqUqZ-l]
+[2Vm8juuKSKkg#0] ^adj_adj<adj><pst><nt><sg><ind>{^meget<adj><sint><comp><un><sp>$ ^amerikansk<adj><pst><nt><sg><ind>$}$
+[/2Vm8juuKSKkg]
+[2ZCniJm3vcH8#0] ^adj_adj<adj><pst><un><sp><def>{^meget<adj><sint><sup><un><sp><ind>$ ^amerikansk<adj><pst><un><sp><def>$}$
+[/2ZCniJm3vcH8]
+[3XKzPV8Uqsu9#0] ^N<n><ut><sg><def>{^mad<n><ut><sg><def>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><pp><ut><sg><ind>{^spise<adj><pp><ut><sg><ind>$}$
+[/3XKzPV8Uqsu9]
+[64mNgdJUOdv0#0] ^Prn<prn><pers><p2><ut><sg><nom>{^du<prn><pers><p2><ut><sg><nom>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/64mNgdJUOdv0]
+[7AnJbNXo5gU5#0] ^Prn<prn><pers><p1><ut><sg><nom>{^jeg<prn><pers><p1><ut><sg><nom>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/7AnJbNXo5gU5]
+[7DahNhukUBpb#0] ^Prn<prn><pers><p1><un><pl><nom>{^vi<prn><pers><p1><un><pl><nom>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/7DahNhukUBpb]
+[7k6Vgh_fD2mU#0] ^Prn<prn><pers><p3><f><sg><nom>{^hun<prn><pers><p3><f><sg><nom>$}$ ^vblex<vblex><past><actv>{^se<vblex><past><actv>$}$ ^default<default>{^på<pr>$}$ ^n<n><nt><sg><def>{^bord<n><nt><sg><def>$}$^default<default>{^,<cm>$}$ ^default<default>{^som<pr>$}$ ^n<n><ut><sg><def>{^kat<n><ut><sg><def>$}$ ^vblex<vblex><past><actv>{^ligge<vblex><past><actv>$}$ ^default<default>{^på<pr>$}$
+[/7k6Vgh_fD2mU]
+[8wJBzJzbfqEo#0] ^N<n><ut><sg><ind>{^mand<n><ut><sg><ind>$}$ ^vblex<vaux><pres><actv>{^måtte<vaux><pres><actv>$}$ ^adv<adv>{^ikke<adv>$}$ ^vblex<vblex><inf><actv>{^ryge<vblex><inf><actv>$}$ ^adv<adv>{^her<adv>$}$
+[/8wJBzJzbfqEo]
+[9SZqnPdaBhwC#0] ^N<np><cog><gen>{^han<np><cog><gen>$}$ ^n<n><ut><sg><ind>{^bil<n><ut><sg><ind>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><pst><ut><sg><ind>{^snavset<adj><pst><ut><sg><ind>$}$
+[/9SZqnPdaBhwC]
+[B8O_KDq6zEWg#0] ^N<n><ut><sg><def>{^dør<n><ut><sg><def>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><pp><ut><sg><ind>{^male<adj><pp><ut><sg><ind>$}$
+[/B8O_KDq6zEWg]
+[BHByyf89jnYy#0] ^adj<adj><pst><nt><sg><ind>{^diskret<adj><pst><nt><sg><ind>$}$
+[/BHByyf89jnYy]
+[C6eSEo_PIF1b#0] ^Det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^adj_n<n><ut><sg><ind>{^sort<adj><sint><pst><nt><sg><ind>$ ^kat<n><ut><sg><ind>$}$
+[/C6eSEo_PIF1b]
+[DN8MJYwFpwq8#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><pres><actv>{^slå<vblex><pres><actv>$}$ ^prn<prn><ref><p3><un><sp><acc>{^sig<prn><ref><p3><un><sp><acc>$}$
+[/DN8MJYwFpwq8]
+[DzOjkS_jpCGg#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><past><actv>{^fortælle<vblex><past><actv>$}$ ^prn<prn><pers><p2><ut><sg><acc>{^du<prn><pers><p2><ut><sg><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/DzOjkS_jpCGg]
+[E3v_96iowfd7#0] ^adj_adj<adj><pst><nt><sg><ind>{^meget<adj><sint><comp><un><sp>$ ^diskret<adj><pst><nt><sg><ind>$}$
+[/E3v_96iowfd7]
+[ELoMcElQkrAP#0] ^Det<det><ind><nt><sg>{^en<det><ind><nt><sg>$}$ ^n<n><ut><sg><ind>{^løve<n><ut><sg><ind>$}$
+[/ELoMcElQkrAP]
+[EiFL8IZF17UA#0] ^adj<adj><pst><un><pl><ind>{^diskret<adj><pst><un><pl><ind>$}$
+[/EiFL8IZF17UA]
+[FrN8Mi6S0o0C#0] ^adj_adj<adj><pst><nt><sg><ind>{^meget<adj><sint><sup><un><sp><ind>$ ^diskret<adj><pst><nt><sg><ind>$}$
+[/FrN8Mi6S0o0C]
+[HPSuBhjpZ6PV#0] ^Adv<adv><itg>{^hvad<adv><itg>$}$ ^prn<prn><pers><p3><un><sg><nom>{^man<prn><pers><p3><un><sg><nom>$}$ ^vblex<vbmod><pres><actv>{^kunne<vbmod><pres><actv>$}$ ^vblex<vblex><inf><actv>{^se<vblex><inf><actv>$}$
+[/HPSuBhjpZ6PV]
+[HbiR16_FqKSw#0] ^N<np><cog>{^han<np><cog>$}$ ^adj<adj><pp><ut><sg><ind>{^fortale<adj><pp><ut><sg><ind>$}$ ^prn<prn><pers><p2><un><pl><acc>{^i<prn><pers><p2><un><pl><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/HbiR16_FqKSw]
+[JhA4hlrQ3SaI#0] ^adj<adj><pst><ut><sg><ind>{^amerikansk<adj><pst><ut><sg><ind>$}$
+[/JhA4hlrQ3SaI]
+[LCZVKsnldMXv#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><pres><actv>{^spise<vblex><pres><actv>$}$ ^det<det><pos><un><pl>{^hans<det><pos><un><pl>$}$ ^n<n><ut><sg><ind>{^mad<n><ut><sg><ind>$}$
+[/LCZVKsnldMXv]
+[LJfF93rFQA9G#0] ^Det<det><pos><ut><sg>{^min<det><pos><ut><sg>$}$ ^n<n><ut><sg><ind>{^ven<n><ut><sg><ind>$}$ ^vblex<vblex><pres><actv>{^løbe<vblex><pres><actv>$}$
+[/LJfF93rFQA9G]
+[LjEMPO93xwC0#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><past><actv>{^fortælle<vblex><past><actv>$}$ ^prn<prn><pers><p1><ut><sg><acc>{^jeg<prn><pers><p1><ut><sg><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/LjEMPO93xwC0]
+[LxltS0B4g4fY#0] ^Det<det><ind><nt><sg>{^en<det><ind><nt><sg>$}$ ^adj_n<n><nt><sg><ind>{^stor<adj><sint><pst><nt><sg><ind>$ ^ord<n><nt><sg><ind>$}$
+[/LxltS0B4g4fY]
+[MnxXgxarWwG_#0] ^N<n><ut><sg><def>{^mand<n><ut><sg><def>$}$ ^default<default>{^som<pr>$}$ ^prn<prn><pers><p1><ut><sg><nom>{^jeg<prn><pers><p1><ut><sg><nom>$}$ ^vblex<vblex><past><actv>{^se<vblex><past><actv>$}$
+[/MnxXgxarWwG_]
+[O43YyRQMYW_m#0] ^Det<det><pos><ut><sg>{^din<det><pos><ut><sg>$}$ ^n<n><ut><sg><ind>{^ven<n><ut><sg><ind>$}$ ^vblex<vblex><pres><actv>{^løbe<vblex><pres><actv>$}$
+[/O43YyRQMYW_m]
+[O_W4BpzFU_rm#0] ^Det<det><dem><ut><sg>{^den<det><dem><ut><sg>$}$ ^adj_n<n><ut><sg><ind>{^stilig<adj><sint><pst><un><sp><def>$ ^mand<n><ut><sg><ind>$}$
+[/O_W4BpzFU_rm]
+[QS26I9JAnGaQ#0] ^Prn<prn><pers><p2><un><pl><nom>{^i<prn><pers><p2><un><pl><nom>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/QS26I9JAnGaQ]
+[QXDPp6Ox865_#0] ^adj<adj><pst><un><sp><def>{^amerikansk<adj><pst><un><sp><def>$}$
+[/QXDPp6Ox865_]
+[RPRkN6hNTNM_#0] ^adj_adj<adj><pst><un><sp><def>{^meget<adj><sint><sup><un><sp><ind>$ ^diskret<adj><pst><un><sp><def>$}$
+[/RPRkN6hNTNM_]
+[SQat5gn0zN0B#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><pres><actv>{^spise<vblex><pres><actv>$}$ ^det<det><pos><ut><sg>{^sin<det><pos><ut><sg>$}$ ^n<n><ut><sg><ind>{^mad<n><ut><sg><ind>$}$
+[/SQat5gn0zN0B]
+[S_K9P5dZIK_D#0] ^adj<adj><pst><nt><sg><ind>{^amerikansk<adj><pst><nt><sg><ind>$}$
+[/S_K9P5dZIK_D]
+[U71NCwZIZM8y#0] ^Det<det><pos><un><pl>{^min<det><pos><un><pl>$}$ ^n<n><nt><pl><ind>{^barn<n><nt><pl><ind>$}$ ^vblex<vblex><pres><actv>{^skrige<vblex><pres><actv>$}$
+[/U71NCwZIZM8y]
+[V2mhmAwqvRxa#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><past><actv>{^fortælle<vblex><past><actv>$}$ ^prn<prn><pers><p1><un><pl><acc>{^vi<prn><pers><p1><un><pl><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/V2mhmAwqvRxa]
+[V_gRd7gdZcFX#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><past><actv>{^fortælle<vblex><past><actv>$}$ ^prn<prn><ref><p3><un><sp><acc>{^sig<prn><ref><p3><un><sp><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/V_gRd7gdZcFX]
+[VeW7IzGC9EZZ#0] ^Det<det><pos><nt><sg>{^min<det><pos><nt><sg>$}$ ^n<n><nt><sg><ind>{^hus<n><nt><sg><ind>$}$ ^vblex<vblex><pres><actv>{^brænde<vblex><pres><actv>$}$
+[/VeW7IzGC9EZZ]
+[Ylh7zvnu6b3d#0] ^N<n><ut><sg><def>{^mand<n><ut><sg><def>$}$ ^default<default>{^som<pr>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adv<adv>{^her<adv>$}$
+[/Ylh7zvnu6b3d]
+[Z_t0bfwst-eD#0] ^Det<det><pos><nt><sg>{^din<det><pos><nt><sg>$}$ ^n<n><nt><sg><ind>{^hus<n><nt><sg><ind>$}$ ^vblex<vblex><pres><actv>{^brænde<vblex><pres><actv>$}$
+[/Z_t0bfwst-eD]
+[anK2JitwJrW4#0] ^Det<det><ind><nt><sg>{^en<det><ind><nt><sg>$}$ ^n<n><nt><sg><ind>{^barn<n><nt><sg><ind>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><sint><pst><nt><sg><ind>{^stor<adj><sint><pst><nt><sg><ind>$}$
+[/anK2JitwJrW4]
+[dEowRDvv4-Mr#0] ^Adj_n<n><nt><pl><ind>{^stor<adj><sint><pst><un><pl><ind>$ ^ord<n><nt><pl><ind>$}$
+[/dEowRDvv4-Mr]
+[f0c7W4yuJlxG#0] ^Det<det><pos><un><pl>{^din<det><pos><un><pl>$}$ ^n<n><nt><pl><ind>{^barn<n><nt><pl><ind>$}$ ^vblex<vblex><pres><actv>{^skrige<vblex><pres><actv>$}$
+[/f0c7W4yuJlxG]
+[fDEJPgeiDYJA#0] ^Det<det><ind><nt><sg>{^en<det><ind><nt><sg>$}$ ^adj_n<n><nt><sg><ind>{^stor<adj><sint><pst><nt><sg><ind>$ ^barn<n><nt><sg><ind>$}$
+[/fDEJPgeiDYJA]
+[ft09TWrBLwlM#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><pres><actv>{^slå<vblex><pres><actv>$}$ ^prn<prn><pers><p3><m><sg><acc>{^han<prn><pers><p3><m><sg><acc>$}$
+[/ft09TWrBLwlM]
+[gTqSOKjpminw#0] ^N<n><ut><sg><def>{^dør<n><ut><sg><def>$}$ ^vblex<vbmod><pres><actv>{^skulle<vbmod><pres><actv>$}$ ^vblex<vblex><pres><pasv>{^åbne<vblex><pres><pasv>$}$
+[/gTqSOKjpminw]
+[goOxhQvzcC8p#0] ^Prn<prn><pers><p3><nt><sg><nom>{^den<prn><pers><p3><nt><sg><nom>$}$ ^vblex<vblex><pres><actv>{^betyde<vblex><pres><actv>$}$ ^infm<cnjsub>{^at<cnjsub>$}$ ^det<det><qnt><nt><sg>{^ingen<det><qnt><nt><sg>$}$ ^n<n><ut><sg><ind>{^vold<n><ut><sg><ind>$}$ ^vblex<vblex><pres><actv>{^behøve<vblex><pres><actv>$}$ ^vblex<vbhaver><inf><actv>{^have<vbhaver><inf><actv>$}$ ^vblex<vbhaver><inf><actv>{^forekomme<vblex><pp>$}$ ^default<default>{^ved<pr>$}$ ^n<n><nt><sg><ind>{^samleje<n><nt><sg><ind>$}$ ^default<default>{^med<pr>$}$ ^n<n><nt><sg><ind>{^barn<n><nt><sg><ind>$}$
+[/goOxhQvzcC8p]
+[i8VX_RKXB2Y3#0] ^N<n><ut><sg><def>{^dør<n><ut><sg><def>$}$ ^vblex<vblex><pres><actv>{^blive<vblex><pres><actv>$}$ ^adj<adj><pp><ut><sg><ind>{^male<adj><pp><ut><sg><ind>$}$
+[/i8VX_RKXB2Y3]
+[iOfwB8bxr8zm#0] ^N<np><cog>{^de<np><cog>$}$ ^adj_n<n><ut><pl><def>{^stilig<adj><sint><pst><un><pl><ind>$ ^mand<n><ut><pl><def>$}$
+[/iOfwB8bxr8zm]
+[jKstggTUtr92#0] ^Det<det><pos><ut><sg>{^min<det><pos><ut><sg>$}$ ^n<n><ut><sg><ind><gen>{^mor<n><ut><sg><ind><gen>$}$ ^adj_n<n><ut><sg><ind>{^sort<adj><sint><pst><un><sp><def>$ ^kat<n><ut><sg><ind>$}$
+[/jKstggTUtr92]
+[jLebWeZdAwuR#0] ^N<np><cog>{^han<np><cog>$}$ ^vblex<vblex><past><actv>{^fortælle<vblex><past><actv>$}$ ^prn<prn><pers><p3><un><pl><acc>{^de<prn><pers><p3><un><pl><acc>$}$ ^det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$
+[/jLebWeZdAwuR]
+[k4yUjtD9e5LK#0] ^N<n><nt><sg><def>{^æble<n><nt><sg><def>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><pp><ut><sg><ind>{^spise<adj><pp><ut><sg><ind>$}$
+[/k4yUjtD9e5LK]
+[kgFtc-1NuXJB#0] ^Prn<prn><pers><p3><f><sg><nom>{^hun<prn><pers><p3><f><sg><nom>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/kgFtc-1NuXJB]
+[mAeHkW3sxeWF#0] ^Adj_n<n><nt><pl><ind>{^stor<adj><sint><pst><un><pl><ind>$ ^barn<n><nt><pl><ind>$}$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^N<n><nt><sg><def>{^barn<n><nt><sg><def>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><sint><pst><nt><sg><ind>{^stor<adj><sint><pst><nt><sg><ind>$}$
+[/q5W2fEtbEP0M]
+[qkIG7Pl0Ri01#0] ^adj<adj><pst><un><sp><def>{^diskret<adj><pst><un><sp><def>$}$
+[/qkIG7Pl0Ri01]
+[qnPr-Gw93PJ_#0] ^Det<det><dem><nt><sg>{^den<det><dem><nt><sg>$}$ ^adj_n<n><nt><sg><ind>{^stor<adj><sint><pst><un><sp><def>$ ^barn<n><nt><sg><ind>$}$
+[/qnPr-Gw93PJ_]
+[sLh8kQM95z54#0] ^N<n><ut><sg><ind>{^min<n><ut><sg><ind>$}$ ^adj_n<n><ut><sg><ind>{^sort<adj><sint><pst><un><sp><def>$ ^kat<n><ut><sg><ind>$}$
+[/sLh8kQM95z54]
+[xJimMPP9XJ1M#0] ^N<np><cog>{^de<np><cog>$}$ ^vblex<vaux><pres><actv>{^ville<vaux><pres><actv>$}$ ^vblex<vblex><inf><actv>{^gå<vblex><inf><actv>$}$ ^det<det><ind><ut><sg>{^en<det><ind><ut><sg>$}$ ^n<n><ut><sg><ind>{^tur<n><ut><sg><ind>$}$
+[/xJimMPP9XJ1M]
+[xeJmQTGMEWhy#0] ^N<n><nt><pl><def>{^æble<n><nt><pl><def>$}$ ^vblex<vbser><pres><actv>{^være<vbser><pres><actv>$}$ ^adj<adj><pp><ut><sg><ind>{^spise<adj><pp><ut><sg><ind>$}$
+[/xeJmQTGMEWhy]
+[xe_PdJw8jO5z#0] ^adj_adj<adj><pst><nt><sg><ind>{^meget<adj><sint><sup><un><sp><ind>$ ^amerikansk<adj><pst><nt><sg><ind>$}$
+[/xe_PdJw8jO5z]

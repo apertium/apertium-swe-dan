@@ -1,0 +1,136 @@
+[0atejx3wIxqv#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^vara¹<vblex><pres><actv>$^.<sent>$
+[/0atejx3wIxqv]
+[1Ov-_jhGGL_f#0] ^varm<adj><sint><pst><ut><sg><ind>$ ^*jakke$
+[/1Ov-_jhGGL_f]
+[26CBXLKpNfCw#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^en<det><ind><ut><sg>$ ^söt<adj><sint><pst><ut><sg><ind>$ ^hund<n><ut><sg><ind>$ ^.<sent>$
+[/26CBXLKpNfCw]
+[2qNatFG97v2J#0] ^Hon<prn><pers><p3><f><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^bra<adv><pst>$ ^i<pr>$ ^skola<n><ut><sg><def>$^.<sent>$
+[/2qNatFG97v2J]
+[3x6oody1CF4a#0] ^den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^hus<n><nt><sg><def>$
+[/3x6oody1CF4a]
+[4A1pqGx0Bd4Y#0] ^Vi<prn><pers><p1><un><pl><nom>$ ^ringa<vblex><pres><actv>$^.<sent>$
+[/4A1pqGx0Bd4Y]
+[6iWHL5KGLK1-#0] ^Du<prn><pers><p2><ut><sg><nom>$  ^arbeta<vblex><past><actv>$^.<sent>$
+[/6iWHL5KGLK1-]
+[7bXlHbjZ04oH#0] ^*et$ ^äpple<n><nt><sg><ind>$
+[/7bXlHbjZ04oH]
+[9L2fiPc8qQFr#0] ^min<det><pos><ut><sg>$\/^mitt<n><ut><sg><ind>$
+[/9L2fiPc8qQFr]
+[9XjnH1GlLsJ0#0] ^deras<prn><pos><un><pl>$
+[/9XjnH1GlLsJ0]
+[B456rM0qDkxz#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^söt<adj><sint><sup><un><sp><ind>$^.<sent>$
+[/B456rM0qDkxz]
+[DBHEBT2_PFiV#0] ^hon<prn><pers><p3><f><sg><nom>$
+[/DBHEBT2_PFiV]
+[E515MTBkoJt1#0] ^Vi<prn><pers><p1><un><pl><nom>$ ^vara¹<vblex><pres><actv>$^.<sent>$
+[/E515MTBkoJt1]
+[EdcEOb3gcPJH#0] ^Den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^söt<adj><sint><comp><un><sp>$^.<sent>$
+[/EdcEOb3gcPJH]
+[EjwsMdPw1UuS#0] ^på<pr>$ ^stol<n><ut><sg><def>$
+[/EjwsMdPw1UuS]
+[ErevUFuUD4Ra#0] ^din<prn><pos><ut><sg>$\/^din<prn><pos><nt><sg>$
+[/ErevUFuUD4Ra]
+[F6diIRFWVQQO#0] ^vänlig<adj><sint><pst><nt><sg><ind>$
+[/F6diIRFWVQQO]
+[IJfH1YHXpW92#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^vara¹<vblex><past><actv>$^.<sent>$
+[/IJfH1YHXpW92]
+[IUgYYMFc9Bq3#0] ^*sorte$ ^hund<n><ut><sg><ind>$
+[/IUgYYMFc9Bq3]
+[IYEWF6VHHhOd#0] ^hund<n><ut><sg><def>$
+[/IYEWF6VHHhOd]
+[Jb9StVxm_RA9#0] ^Han<np><cog>$ ^vara¹<vblex><pres><actv>$^.<sent>$
+[/Jb9StVxm_RA9]
+[KCaurexlNcv5#0] ^*et$ ^hus<n><nt><sg><ind>$
+[/KCaurexlNcv5]
+[LgBhMutxrkNn#0] ^Ni<prn><pers><p2><un><pl><nom>$ ^vara¹<vblex><pres><actv>$^.<sent>$
+[/LgBhMutxrkNn]
+[MMwSwq6fr-_i#0] ^en<det><ind><ut><sg>$ ^banan<n><ut><sg><ind>$
+[/MMwSwq6fr-_i]
+[MYNGusR2LhZQ#0] ^vänlig<adj><sint><pst><ut><sg><ind>$
+[/MYNGusR2LhZQ]
+[MgwDPiza0rFU#0] ^frimärke<n><nt><sg><def>$
+[/MgwDPiza0rFU]
+[OvzBhTTmJia6#0] ^*uframför$ ^hus<n><nt><sg><def>$
+[/OvzBhTTmJia6]
+[OykKd1RR0Ody#0] ^stol<n><ut><sg><def><gen>$ ^ben<n><nt><sg><ind>$
+[/OykKd1RR0Ody]
+[PacJj5M5-akf#0] ^Du<prn><pers><p2><ut><sg><nom>$  ^vara¹<vblex><pres><actv>$^.<sent>$
+[/PacJj5M5-akf]
+[QQ_ZsZ9nF81H#0] ^dess<adv>$
+[/QQ_ZsZ9nF81H]
+[QUP-3X59EOP7#0] ^Han<np><cog>$ ^vara¹<vblex><past><actv>$^.<sent>$
+[/QUP-3X59EOP7]
+[SHQwxwDsCmmA#0] ^hus<n><nt><sg><def>$
+[/SHQwxwDsCmmA]
+[SQxdk6zclXc6#0] ^De<np><cog>$ ^vara¹<vblex><past><actv>$^.<sent>$
+[/SQxdk6zclXc6]
+[Sr20hEpdiCcu#0] ^en<det><ind><nt><sg>$ ^stor<adj><sint><pst><nt><sg><ind>$ ^hus<n><nt><sg><ind>$
+[/Sr20hEpdiCcu]
+[TDjNlzTGaDJk#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^arbeta<vblex><pres><actv>$^.<sent>$
+[/TDjNlzTGaDJk]
+[TbA6J3z7nvTG#0] ^ni<prn><pers><p2><un><pl><nom>$
+[/TbA6J3z7nvTG]
+[V1qiizknclHo#0] ^en<det><ind><ut><sg>$ ^stor<adj><sint><pst><ut><sg><ind>$ ^bil<n><ut><sg><ind>$
+[/V1qiizknclHo]
+[WNmHQhIhatHa#0] ^Min<det><pos><ut><sg>$ ^pappa<n><ut><sg><ind>$ ^jobba<vblex><pres><actv>$^.<sent>$
+[/WNmHQhIhatHa]
+[YBssJHOBGv6n#0] ^du<prn><pers><p2><ut><sg><nom>$
+[/YBssJHOBGv6n]
+[YaG-adSpuh5b#0] ^jag<prn><pers><p1><ut><sg><nom>$
+[/YaG-adSpuh5b]
+[ZCio-7sOEgUo#0] ^hans<prn><pos><un><pl>$
+[/ZCio-7sOEgUo]
+[aAYWzzLGqcsB#0] ^vår<n><ut><sg><ind>$\/^vår<det><pos><nt><sg>$
+[/aAYWzzLGqcsB]
+[acA7ZPtL7OEG#0] ^*et$ ^frimärke<n><nt><sg><ind>$
+[/acA7ZPtL7OEG]
+[bMptK3QoHQ7l#0] ^Min<det><pos><ut><sg>$ ^mamma<n><ut><sg><ind>$ ^gå<vblex><pres><actv>$ ^till<pr>$ ^skola<n><ut><sg><def>$^.<sent>$
+[/bMptK3QoHQ7l]
+[bYHkIuXhvs4l#0] ^en<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>$
+[/bYHkIuXhvs4l]
+[bbsy2ZnuvVro#0] ^den<prn><pers><p3><nt><sg><nom>$ ^vara¹<vblex><pres><actv>$ ^stol<n><ut><sg><def>$
+[/bbsy2ZnuvVro]
+[caQ-DMAfFjTf#0] ^De<np><cog>$ ^vara¹<vblex><pres><actv>$^.<sent>$
+[/caQ-DMAfFjTf]
+[f68ipmVWy5Aj#0] ^jag<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>$ ^hus<n><nt><sg><def>$
+[/f68ipmVWy5Aj]
+[gBDYvENqY5Jx#0] ^Ni<prn><pers><p2><un><pl><nom>$ ^vara¹<vblex><past><actv>$^.<sent>$
+[/gBDYvENqY5Jx]
+[gvEYdcE9_-Vr#0] ^banan<n><ut><sg><def>$
+[/gvEYdcE9_-Vr]
+[i4cla0uFssqj#0] ^ni<prn><pers><p2><un><pl><acc>$\/^er<det><pos><nt><sg>$
+[/i4cla0uFssqj]
+[iVeeAI-hwML3#0] ^*hendes$
+[/iVeeAI-hwML3]
+[jXe4pvCN7BAn#0] ^Jag<prn><pers><p1><ut><sg><nom>$ ^ha<vblex><pres><actv>$ ^en<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>$^.<sent>$
+[/jXe4pvCN7BAn]
+[jom5tWbL7t6q#0] ^vacker<adj><sint><pst><nt><sg><ind>$
+[/jom5tWbL7t6q]
+[lZpF1E5vz1g2#0] ^den<det><dem><un><pl>$
+[/lZpF1E5vz1g2]
+[lmAlt4L2Ap4i#0] ^hus<n><nt><sg><def><gen>$ ^dörr<n><ut><sg><ind>$
+[/lmAlt4L2Ap4i]
+[lxJEFKblbNCC#0] ^den<prn><pers><p3><ut><sg><nom>$\/^den<det><dem><nt><sg>$
+[/lxJEFKblbNCC]
+[lzGqBN7A3Zeg#0] ^vacker<adj><sint><pst><ut><sg><ind>$
+[/lzGqBN7A3Zeg]
+[mleijWoCYcGE#0] ^Du<prn><pers><p2><ut><sg><nom>$  ^vara¹<vblex><past><actv>$^.<sent>$
+[/mleijWoCYcGE]
+[qKPBP1kpGVdI#0] ^*whid$ ^tavla<n><ut><sg><ind>$
+[/qKPBP1kpGVdI]
+[qwNYz9EC0-8r#0] ^Han<np><cog>$ ^*g$﻿^år<n><nt><sg><ind>$ ^*hjem$^.<sent>$
+[/qwNYz9EC0-8r]
+[sVAgz4xLpOL9#0] ^Vi<prn><pers><p1><un><pl><nom>$  ^vara¹<vblex><past><actv>$^.<sent>$
+[/sVAgz4xLpOL9]
+[uAtoFWuzyZNj#0] ^äpple<n><nt><sg><def>$
+[/uAtoFWuzyZNj]
+[wP-T6oknpzZt#0] ^vi<prn><pers><p1><un><pl><nom>$
+[/wP-T6oknpzZt]
+[wPHm5fJa6BeE#0] ^Ni<prn><pers><p2><un><pl><nom>$ ^*ringede$^.<sent>$
+[/wPHm5fJa6BeE]
+[wQaIooUS4VUG#0] ^han<prn><pers><p3><m><sg><nom>$
+[/wQaIooUS4VUG]
+[wi3YnUK8D6PM#0] ^jag<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>$ ^stol<n><ut><sg><def>$
+[/wi3YnUK8D6PM]
+[zvRgssxqPzfe#0] ^Eftersom<cnjsub>$ ^jag<prn><pers><p1><ut><sg><nom>$ ^inte<adv>$ ^kunna<vblex><pres><actv>$ ^sjunga<vblex><inf><actv>$^,<cm>$ ^jag<prn><pers><p1><ut><sg><nom>$ ^delta<vblex><pres><actv>$ ^i<pr>$ ^en<det><ind><ut><sg>$ ^kur<n><ut><sg><ind><gen>$^.<sent>$
+[/zvRgssxqPzfe]

@@ -1,0 +1,130 @@
+[-0PB7hF1I7_8#0] ^En/En<det><qnt><ut><sg>/En<det><ind><ut><sg>$ ^elefant/elefant<n><ut><sg><ind>$
+[/-0PB7hF1I7_8]
+[-LzLgJK1y2Kn#0] ^amerikanska/amerikanska<n><ut><sg><ind>/amerikansk<adj><sint><pst><un><pl><ind>/amerikansk<adj><sint><pst><un><pl><def>/amerikansk<adj><sint><pst><fn><sg><def>$
+[/-LzLgJK1y2Kn]
+[-_UnLwriyFBv#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$ ^lejon/lejon<n><nt><sg><ind>$
+[/-_UnLwriyFBv]
+[1pT8zGRIeqjI#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/1pT8zGRIeqjI]
+[2J0F5KqUqZ-l#0] ^En/En<det><qnt><ut><sg>/En<det><ind><ut><sg>/Man<prn><pers><p3><un><sg><acc>$ ^stor/stor<adj><sint><pst><ut><sg><ind>$ ^elefant/elefant<n><ut><sg><ind>$
+[/2J0F5KqUqZ-l]
+[2Vm8juuKSKkg#0] ^amerikanskare/amerikansk<adj><sint><comp><un><sp>$
+[/2Vm8juuKSKkg]
+[2ZCniJm3vcH8#0] ^amerikanskaste/amerikansk<adj><sint><sup><fn><sp><def>/amerikansk<adj><sint><sup><m><sp><def>$
+[/2ZCniJm3vcH8]
+[3XKzPV8Uqsu9#0] ^Maten/Mat<n><ut><sg><def>$ ^är/vara¹<vblex><pres><actv>$ ^äten/äta<adj><pp><ut><sg><ind>$
+[/3XKzPV8Uqsu9]
+[64mNgdJUOdv0#0] ^Du/Du<prn><pers><p2><ut><sg><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/64mNgdJUOdv0]
+[7AnJbNXo5gU5#0] ^Jag/Jag<prn><pers><p1><ut><sg><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/7AnJbNXo5gU5]
+[7DahNhukUBpb#0] ^Vi/Vi<prn><pers><p1><un><pl><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/7DahNhukUBpb]
+[7k6Vgh_fD2mU#0] ^Hon/Hon<prn><pers><p3><f><sg><nom>$ ^såg/se<vblex><past><actv>/såg<n><ut><sg><ind>$ ^på/på<pr>$ ^bordet/bord<n><nt><sg><def>$^,/,<cm>/,<cm><clb>$ ^som/som<pr>$ ^katten/katt<n><ut><sg><def>$ ^låg/ligga<vblex><past><actv>/låga<n><ut><sg><ind><cmp>$ ^på/på<adv>/på<pr>$
+[/7k6Vgh_fD2mU]
+[8wJBzJzbfqEo#0] ^Man/Man<n><ut><sg><ind>/Man<n><ut><pl><ind>/Man<prn><pers><p3><un><sg><nom>$ ^får/få<vblex><pres><actv>/får<n><nt><sg><ind>/får<n><nt><pl><ind>$ ^inte/inte<adv>$ ^röka/röka<vblex><inf><actv>$ ^här/här<adv>/här<n><ut><sg><ind>$
+[/8wJBzJzbfqEo]
+[9SZqnPdaBhwC#0] ^Hans/Han<np><cog><gen>/Hans<det><pos><un><pl>/Hans<det><pos><nt><sg>/Hans<det><pos><ut><sg>$ ^bil/bil<n><ut><sg><ind>$ ^är/vara¹<vblex><pres><actv>$ ^smutsig/smutsig<adj><sint><pst><ut><sg><ind>$
+[/9SZqnPdaBhwC]
+[B8O_KDq6zEWg#0] ^Dörren/Dörr<n><ut><sg><def>$ ^är/vara¹<vblex><pres><actv>$ ^målad/måla<adj><pp><ut><sg><ind>$
+[/B8O_KDq6zEWg]
+[BHByyf89jnYy#0] ^diskret/diskret<adj><sint><pst><nt><sg><ind>/diskret<adj><sint><pst><ut><sg><ind>$
+[/BHByyf89jnYy]
+[C6eSEo_PIF1b#0] ^En/En<det><qnt><ut><sg>/En<det><ind><ut><sg>/Man<prn><pers><p3><un><sg><acc>$ ^svart/svart<adj><sint><pst><nt><sg><ind>/svart<adj><sint><pst><ut><sg><ind>$ ^katt/katt<n><ut><sg><ind>$
+[/C6eSEo_PIF1b]
+[DN8MJYwFpwq8#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^slår/slå<vblex><pres><actv>$ ^sig/sig<prn><ref><p3><un><sp><acc>$
+[/DN8MJYwFpwq8]
+[DzOjkS_jpCGg#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<vblex><past><actv>$ ^dig/du<prn><pers><p2><ut><sg><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/DzOjkS_jpCGg]
+[E3v_96iowfd7#0] ^diskretare/diskret<adj><sint><comp><un><sp>$
+[/E3v_96iowfd7]
+[ELoMcElQkrAP#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^lejon/lejon<n><nt><sg><ind>$
+[/ELoMcElQkrAP]
+[EiFL8IZF17UA#0] ^diskreta/diskret<adj><sint><pst><un><pl><ind>/diskret<adj><sint><pst><un><pl><def>/diskret<adj><sint><pst><fn><sg><def>$
+[/EiFL8IZF17UA]
+[FrN8Mi6S0o0C#0] ^diskretast/diskret<adj><sint><sup><un><sp><ind>$
+[/FrN8Mi6S0o0C]
+[HPSuBhjpZ6PV#0] ^Vad/Vad<adv>/Vad<prn><itg>$ ^man/man<n><ut><sg><ind>/man<n><ut><pl><ind>/man<prn><pers><p3><un><sg><nom>$ ^kan/kunna<vblex><pres><actv>$ ^se/se<vblex><inf><actv>$
+[/HPSuBhjpZ6PV]
+[HbiR16_FqKSw#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<adj><pp><fn><sg><def>$ ^er/ni<prn><pers><p2><un><pl><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/HbiR16_FqKSw]
+[JhA4hlrQ3SaI#0] ^amerikansk/amerikansk<adj><sint><pst><ut><sg><ind>$
+[/JhA4hlrQ3SaI]
+[LCZVKsnldMXv#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^spisar/spisa<vblex><pres><actv>/spis<n><ut><pl><ind>$ ^hans/hans<det><pos><un><pl>/hans<det><pos><nt><sg>/hans<det><pos><ut><sg>$ ^mat/mat<n><ut><sg><ind>/mat<n><ut><pl><ind>$
+[/LCZVKsnldMXv]
+[LJfF93rFQA9G#0] ^Min/Min<det><pos><ut><sg>$ ^vän/vän<n><ut><sg><ind>$ ^löper/löpa<vblex><pres><actv>$
+[/LJfF93rFQA9G]
+[LjEMPO93xwC0#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<vblex><past><actv>$ ^mig/jag<prn><pers><p1><ut><sg><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/LjEMPO93xwC0]
+[LxltS0B4g4fY#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$ ^ord/ord<n><nt><sg><ind>$
+[/LxltS0B4g4fY]
+[MnxXgxarWwG_#0] ^Mannen/Man<n><ut><sg><def>$ ^som/som<cnjsub>/som<pr>$ ^jag/jag<prn><pers><p1><ut><sg><nom>$ ^såg/se<vblex><past><actv>/såg<n><ut><sg><ind>$
+[/MnxXgxarWwG_]
+[O43YyRQMYW_m#0] ^Din/Din<det><pos><ut><sg>$ ^vän/vän<n><ut><sg><ind>$ ^löper/löpa<vblex><pres><actv>$
+[/O43YyRQMYW_m]
+[O_W4BpzFU_rm#0] ^Den/Den<det><dem><ut><sg>/Den<prn><pers><p3><ut><sg><nom>/Den<prn><pers><p3><ut><sg><acc>$ ^stilige/stilig<adj><sint><pst><m><sg><def>$ ^mannen/man<n><ut><sg><def>$
+[/O_W4BpzFU_rm]
+[QS26I9JAnGaQ#0] ^Ni/Ni<prn><pers><p2><un><pl><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/QS26I9JAnGaQ]
+[QXDPp6Ox865_#0] ^amerikanske/amerikansk<adj><sint><pst><m><sg><def>$
+[/QXDPp6Ox865_]
+[RPRkN6hNTNM_#0] ^diskretaste/diskret<adj><sint><sup><fn><sp><def>/diskret<adj><sint><sup><m><sp><def>$
+[/RPRkN6hNTNM_]
+[SQat5gn0zN0B#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^spisar/spisa<vblex><pres><actv>/spis<n><ut><pl><ind>$ ^sin/sin<det><pos><ut><sg>$ ^mat/mat<n><ut><sg><ind>$
+[/SQat5gn0zN0B]
+[S_K9P5dZIK_D#0] ^amerikanskt/amerikansk<adj><sint><pst><nt><sg><ind>$
+[/S_K9P5dZIK_D]
+[U71NCwZIZM8y#0] ^Mina/Min<det><pos><un><pl>$ ^barn/barn<n><nt><pl><ind>$ ^skriker/skrika<vblex><pres><actv>$
+[/U71NCwZIZM8y]
+[V2mhmAwqvRxa#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<vblex><past><actv>$ ^oss/vi<prn><pers><p1><un><pl><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/V2mhmAwqvRxa]
+[V_gRd7gdZcFX#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<vblex><past><actv>$ ^sig/sig<prn><ref><p3><un><sp><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/V_gRd7gdZcFX]
+[VeW7IzGC9EZZ#0] ^Mitt/Min<det><pos><nt><sg>$ ^hus/hus<n><nt><sg><ind>/hus<n><nt><sg><ind><gen>$ ^bränner/bränna<vblex><pres><actv>$
+[/VeW7IzGC9EZZ]
+[Ylh7zvnu6b3d#0] ^Mannen/Man<n><ut><sg><def>$ ^som/som<cnjsub>/som<pr>$ ^är/vara¹<vblex><pres><actv>$ ^här/här<adv>/här<n><ut><sg><ind>$
+[/Ylh7zvnu6b3d]
+[Z_t0bfwst-eD#0] ^Ditt/Din<det><pos><nt><sg>$ ^hus/hus<n><nt><sg><ind>/hus<n><nt><sg><ind><gen>$ ^bränner/bränna<vblex><pres><actv>$
+[/Z_t0bfwst-eD]
+[anK2JitwJrW4#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^barn/barn<n><nt><sg><ind>$ ^är/vara¹<vblex><pres><actv>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$
+[/anK2JitwJrW4]
+[dEowRDvv4-Mr#0] ^Stora/Stor<adj><sint><pst><un><pl><ind>$ ^ord/ord<n><nt><pl><ind>$
+[/dEowRDvv4-Mr]
+[f0c7W4yuJlxG#0] ^Dina/Din<det><pos><un><pl>$ ^barn/barn<n><nt><pl><ind>$ ^skriker/skrika<vblex><pres><actv>$
+[/f0c7W4yuJlxG]
+[fDEJPgeiDYJA#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$ ^barn/barn<n><nt><sg><ind>$
+[/fDEJPgeiDYJA]
+[ft09TWrBLwlM#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^slår/slå<vblex><pres><actv>$ ^honom/han<prn><pers><p3><m><sg><acc>$
+[/ft09TWrBLwlM]
+[gTqSOKjpminw#0] ^Dörren/Dörr<n><ut><sg><def>$ ^skall/skola¹<vblex><pres><actv>/skall<n><nt><sg><ind>/skall<n><nt><pl><ind>$ ^öppnas/öppen<adj><sint><pst><un><pl><ind><gen>/öppen<adj><sint><pst><un><pl><def><gen>/öppen<adj><sint><pst><fn><sg><def><gen>/öppna<vblex><inf><pasv>/öppna<vblex><pres><pasv>$
+[/gTqSOKjpminw]
+[goOxhQvzcC8p#0] ^Det/Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><acc>$ ^betyder/betyda<vblex><pres><actv>$ ^att/att<cnjsub>$ ^inget/ingen<det><qnt><nt><sg>$ ^våld/våld<n><nt><sg><ind>$ ^behöver/behöva<vblex><pres><actv>$ ^ha/ha<vblex><inf><actv>$ ^förekommit/förekomma<vblex><supn><actv>$ ^vid/vid<pr>/vid<adj><sint><pst><ut><sg><ind>$ ^samlag/samlag<n><nt><sg><ind>/samlag<n><nt><pl><ind>$ ^med/med<pr>$ ^barn/barn<n><nt><sg><ind>/barn<n><nt><pl><ind>$
+[/goOxhQvzcC8p]
+[i8VX_RKXB2Y3#0] ^Dörren/Dörr<n><ut><sg><def>$ ^blir/bli<vblex><pres><actv>$ ^målad/måla<adj><pp><ut><sg><ind>$
+[/i8VX_RKXB2Y3]
+[iOfwB8bxr8zm#0] ^De/De<np><cog>/De<np><attr>/Den<det><dem><un><pl>/De<prn><pers><p3><un><pl><nom>$ ^stiliga/stilig<adj><sint><pst><un><pl><ind>/stilig<adj><sint><pst><un><pl><def>$ ^männen/man<n><ut><pl><def>$
+[/iOfwB8bxr8zm]
+[jKstggTUtr92#0] ^Min/Min<det><pos><ut><sg>$ ^mors/mor<n><ut><sg><ind><gen>$ ^svarta/svart<adj><sint><pst><fn><sg><def>$ ^katt/katt<n><ut><sg><ind>$
+[/jKstggTUtr92]
+[jLebWeZdAwuR#0] ^Han/Han<np><cog>/Han<prn><pers><p3><m><sg><nom>$ ^berättade/berätta<vblex><past><actv>$ ^dem/de<prn><pers><p3><un><pl><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$
+[/jLebWeZdAwuR]
+[k4yUjtD9e5LK#0] ^Äpplet/Äpple<n><nt><sg><def>$ ^är/vara¹<vblex><pres><actv>$ ^ätet/äta<adj><pp><nt><sg><ind>$
+[/k4yUjtD9e5LK]
+[kgFtc-1NuXJB#0] ^Hon/Hon<prn><pers><p3><f><sg><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/kgFtc-1NuXJB]
+[mAeHkW3sxeWF#0] ^Stora/Stor<adj><sint><pst><un><pl><ind>$ ^barn/barn<n><nt><pl><ind>$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^Barnet/Barn<n><nt><sg><def>$ ^är/vara¹<vblex><pres><actv>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$
+[/q5W2fEtbEP0M]
+[qkIG7Pl0Ri01#0] ^diskrete/diskret<adj><sint><pst><m><sg><def>$
+[/qkIG7Pl0Ri01]
+[qnPr-Gw93PJ_#0] ^Det/Den<det><dem><nt><sg>/Den<det><dem><nt><sg><expl>/Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><acc>$ ^stora/stor<adj><sint><pst><fn><sg><def>$ ^barnet/barn<n><nt><sg><def>$
+[/qnPr-Gw93PJ_]
+[sLh8kQM95z54#0] ^Min/Min<det><pos><ut><sg>/Min<n><ut><sg><ind>/Min<prn><pos><ut><sg>$ ^svarta/svart<adj><sint><pst><fn><sg><def>$ ^katt/katt<n><ut><sg><ind>$
+[/sLh8kQM95z54]
+[xJimMPP9XJ1M#0] ^De/De<np><cog>/De<np><attr>/Den<det><dem><un><pl>/De<prn><pers><p3><un><pl><nom>$ ^vill/vilja<vblex><pres><actv>/villa<n><ut><sg><ind><cmp>$ ^gå/gå<vblex><inf><actv>$ ^en/en<det><qnt><ut><sg>/en<det><ind><ut><sg>$ ^tur/tur¹<n><ut><sg><ind>/tur²<n><ut><sg><ind>$
+[/xJimMPP9XJ1M]
+[xeJmQTGMEWhy#0] ^Äpplena/Äpple<n><nt><pl><def>$ ^är/vara¹<vblex><pres><actv>$ ^ätna/äta<adj><pp><pl><ind>$
+[/xeJmQTGMEWhy]
+[xe_PdJw8jO5z#0] ^amerikanskast/amerikansk<adj><sint><sup><un><sp><ind>$
+[/xe_PdJw8jO5z]

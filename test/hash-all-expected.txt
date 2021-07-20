@@ -1,0 +1,19 @@
+[47DEQpj8HBSa#0] Checking for debug symbols
+ERROR: texts/*.swe.txt translated through swe-dan gave debug sybols [#@]:
+317:Nogle lande har fremføre regler endnu vi for placeringen af postnummeret , f.eks. #Usa og Storbritannien . 
+1477:I #Usa var den samme tid 78 *proc . 
+1479:Bruttonationalproduktet ( den totale værdi af hvad et land producerer i spørgsmål om varer og tjenester ) har vokset med 67 *proc årene 1958-1968 i *EEC , med 58 *proc. i #Usa . 
+1487:Det trues af 1) #Usa , 2) Sovjet og 3) Japan . 
+1749:- Af alle de titals millioner mennesker som for fire år siden røg cigareter i #Usa har nu i dag var fjerde person sluttet ryge . 
+1752:Dette siger en af verdens fremmeste tobakforsker , *dr Daniel Horn , i et interview med #Dagens nyheter . 
+1768:Ifølge *dr Horn har alle disse handlinger blevet noget af et spejl for cigaretrøgerne i #Usa . 
+1773:Ifølge *dr Horn er det et antal aktioner på gang i #Usa for at forsøge få ned cigaretforbruget . 
+2454:I #Usa med sit store antal lystbåde har man nået meget langt med vandforureningspørgsmålene . 
+2844:Mens mand i Hvæst-Europa og #Usa bruger store antal handelgødning inden for landbruget , er sådan gødning meget *obetydlig i u-landene eller forekommer ikke als der . 
+2883:Dette eksporteres til #Usa og Europa og bruges der som *fodermedel for fjerkræ og andre husdyr - en med tanke på proteinmanglen i u-landene *föga *rationell brug af det *värdefulla fiskproteinet . 
+3143:En grov analyse af verdens energibalance finder ved hånden , at #Usa ensomt svarer for drøjt 35 % af verdens totale *energiförbrukning . 
+3167:Men om vi regner med at alle verdens lande skulle have samme høje forbrug per capita som #Usa , rækker adgangene kun ca 100 år . 
+3201:I mange lande , *bl.*a. #Usa og Sovjetunionen , tenderer spiserne for nye vandkraftværker at blive så høje , at anlæggene ikke bliver økonomiske om de ikke kan bruges også for andre formål . 
+3212:I Sovjetunionen forsøger mand at bryde kul med hjælp af vandbor , og i #Usa søger mand få ned lastspiserne gennem at transportere pulveriseret og *uppslammat kul i *rörledningar . 
+3764:Da de første byparkerne begyndte *anläggas ved 1800-tallets mit toga de arv af begge disse typer : Central Park i #New york 1857 , Kongeparken i Malmø 1870 .
+[/47DEQpj8HBSa]
