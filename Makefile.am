@@ -197,4 +197,5 @@ clean-local:
 ###############################################################################
 
 test: all
+	t/hash-count
 	apertium-regtest test
